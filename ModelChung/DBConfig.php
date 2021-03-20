@@ -11,7 +11,7 @@ class Database{
 
         public function __construct()
         {
-            //$this->connect();
+            $this->connect();
         }
 
         //Hàm kết nối database
@@ -33,19 +33,13 @@ class Database{
             return $this->result;
         }
 
-        //Hàm fetch dữ liệu (dùng cho show dữ liệu)
-        public function GetData(){
-            if ($this->result){
-                $data = mysqli_fetch_array($this->result);
-            }
-            else $data = 0;
-            return $data;
-        }
-
         //Hàm lấy tất cả dữ liệu (dùng cho show dữ liệu)
-        public function GetAllData(){
+        public function ShowAllData($tableName){
+            $sqlquery = "SELECT * FROM $tableName";
+            $this->ExcuteQuery($sqlquery);
+
             if ($this->result){
-                while ( $datas = $this->GetData() ){
+                while ( $datas = mysqli_fetch_array($this->result) ){
                     $data[] = $datas;
                 }
             }
@@ -79,9 +73,7 @@ class Database{
         }
 
         //Hàm nối URL GET METHOD
-
         //$parameter = "category=1";                            
-
         public function MergeURL($parameter){
             $url = $_SERVER['REQUEST_URI'];
             $query = parse_url($url, PHP_URL_QUERY);
@@ -96,5 +88,12 @@ class Database{
             }
 
         }
+
+        //Active color menu đã chọn
+        public function ActiveMenuSelected($getParameterURL, $valueCompare){
+            if ( isset($getParameterURL) && ($getParameterURL == $valueCompare) ) echo 'active';
+        }
+
+
 
 }
