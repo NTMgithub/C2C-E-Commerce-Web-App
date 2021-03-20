@@ -68,7 +68,7 @@
                                 <tr class="tr-shadow">
                                     <td><?php echo $stt; ?></td>
                                     <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 100%;">
+                                        <img src="uploads/user/<?php echo $value['anhDaiDien']; ?>" alt="avatarUser" style="width: 150px;height: 100px;">
                                     </td>
                                     <td><?php echo $value['hoTen']; ?></td>
                                     <td>
