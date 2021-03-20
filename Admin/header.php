@@ -1,8 +1,3 @@
-<?php
-    require('../ModelChung/DBConfig.php');
-    $db = new Database();
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,7 +9,8 @@
     <meta name="keywords" content="au theme template">
 
     <!-- Title Page-->
-    <title>Trang tổng quan</title>
+    <title><?php echo $pageTitle; ?></title>
+    <link rel="shortcut icon" href="images/icon/admin.png" type="image/x-icon">
 
     <!-- Fontfaces CSS-->
     <link href="css/font-face.css" rel="stylesheet" media="all">
@@ -60,18 +56,20 @@
             <nav class="navbar-mobile">
                 <div class="container-fluid">
                     <ul class="navbar-mobile__list list-unstyled">
-                        <li class="active has-sub">
+                        <li class="<?php if (isset($_GET['viewpage'])) {
+                                        if (($_GET['viewpage'] == ''))  echo 'active';
+                                    } else echo 'active'; ?> has-sub">
                             <a class="js-arrow" href="index.php">
                                 <i class="fas fa-tachometer-alt"></i>Trang tổng quan
                             </a>
                         </li>
 
-                        <li class="has-sub">
-                            <a class="js-arrow" href="<?php echo $db->MergeURL('viewpage=list-user'); ?>">
+                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-user'); ?> has-sub">
+                            <a class="js-arrow" href="?viewpage=list-user">
                                 <i class="fas fa-group"></i>Quản lý người dùng</a>
                         </li>
                         <li class="has-sub">
-                            <a class="js-arrow" href="ListShop.php">
+                            <a class="js-arrow" href="Admin/pages/Shop/ListShop.php">
                                 <i class="fas fa-shopping-cart"></i>Quản lý các cửa hàng</a>
                         </li>
 
@@ -181,7 +179,7 @@
                             </ul>
                         </li>
 
-                       
+
                     </ul>
                 </div>
             </nav>
@@ -198,16 +196,18 @@
             <div class="menu-sidebar__content js-scrollbar1">
                 <nav class="navbar-sidebar">
                     <ul class="list-unstyled navbar__list">
-                        <li class="active">
+                        <li class="<?php if (isset($_GET['viewpage'])) {
+                                        if (($_GET['viewpage'] == ''))  echo 'active';
+                                    } else echo 'active'; ?>">
                             <a class="js-arrow" href="index.php">
                                 <i class="fas fa-tachometer-alt"></i>Trang tổng quan</a>
                         </li>
-                        <li class="has-sub">
-                            <a class="js-arrow" href="<?php echo $db->MergeURL('viewpage=list-user'); ?>">
+                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-user'); ?> has-sub">
+                            <a class="js-arrow" href="?viewpage=list-user">
                                 <i class="fas fa-group"></i>Quản lý người dùng</a>
                         </li>
                         <li class="has-sub">
-                            <a class="js-arrow" href="ListShop.php">
+                            <a class="js-arrow" href="Admin/pages/Shop/ListShop.php">
                                 <i class="fas fa-shopping-cart"></i>Quản lý các cửa hàng</a>
                         </li>
 
@@ -317,30 +317,29 @@
                             </ul>
                         </li>
 
-                        
+
                     </ul>
                 </nav>
             </div>
         </aside>
         <!-- END MENU SIDEBAR-->
 
-         <!-- PAGE CONTAINER-->
- <div class="page-container">
+        <!-- PAGE CONTAINER-->
+        <div class="page-container">
             <!-- HEADER DESKTOP-->
             <header class="header-desktop">
                 <div class="section__content section__content--p30">
                     <div class="container-fluid">
                         <div class="header-wrap">
-                            <form class="form-header" action="" method="POST">
-                                <!-- <input class="au-input au-input--xl" type="text" name="search" placeholder="Tìm kiếm..." />
-                                <button class="au-btn--submit" type="submit">
-                                    <i class="zmdi zmdi-search"></i>
-                                </button> -->
-                            </form>
+                            <div class="form-header">
+                                <h2 class="title-3" style="text-transform: uppercase;">
+                                    <?php echo $pageHeader; ?>
+                                </h2>
+                            </div>
                             <div class="header-button">
                                 <div class="noti-wrap">
-                                    
-                                    
+
+
                                     <div class="noti__item js-item-menu">
                                         <i class="zmdi zmdi-notifications"></i>
                                         <span class="quantity">1</span>
@@ -348,7 +347,7 @@
                                             <div class="notifi__title">
                                                 <p>Bạn có 3 thông báo mới!</p>
                                             </div>
-                                            
+
                                             <div class="notifi__item">
                                                 <div class="bg-c2 img-cir img-40">
                                                     <i class="zmdi zmdi-account-box"></i>
@@ -358,7 +357,7 @@
                                                     <span class="date">12/3/2021 06:50</span>
                                                 </div>
                                             </div>
-                                        
+
                                             <div class="notifi__footer">
                                                 <a href="#">Tất cả thông báo</a>
                                             </div>

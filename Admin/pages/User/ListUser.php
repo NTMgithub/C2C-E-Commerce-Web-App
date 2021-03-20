@@ -9,9 +9,9 @@
             <div class="row" style="margin-bottom: 2%;">
                 <div class="col-md-12">
                     <div class="overview-wrap">
-                        <h2 class="title-1" style="text-transform: uppercase;">
-                            <i class="fa fa-group"></i>
-                            Quản lý người dùng
+                        <h2 class="title-2" style="text-transform: uppercase;">
+                            <i class="fa fa-list"></i>
+                            Danh sách người dùng
                         </h2>
                         <!-- <button class="au-btn au-btn-icon au-btn--blue">
                                         <i class="zmdi zmdi-plus"></i>add item</button> -->
@@ -33,14 +33,20 @@
                             </form>
                         </div>
                         <div class="table-data__tool-right">
-                            <button class="au-btn au-btn-icon au-btn--green au-btn--small">
-                                <i class="zmdi zmdi-plus"></i>Thêm người dùng</button>
-
+                            <a href="<?php if ( isset($_GET['action']) && ($_GET['action'] == 'add' ) ){
+                                echo "javascript:history.go(0)";
+                            }else{
+                                echo $db->MergeURL('action=add');
+                            } ?>">
+                                <button class="au-btn au-btn-icon au-btn--green au-btn--small">
+                                    <i class="zmdi zmdi-plus"></i>Thêm người dùng
+                                </button>
+                            </a>
                         </div>
                     </div>
                     <div class="table-responsive table-responsive-data2">
                         <table class="table table-data2">
-                            <thead>
+                            <thead style="background-color: #f2f2f2;" >
                                 <tr>
                                     <th>STT</th>
                                     <th>Ảnh</th>
@@ -54,19 +60,32 @@
                                 </tr>
                             </thead>
                             <tbody>
+                                <?php
+                                    $stt = 0;
+                                    foreach ($dataResult as $value){
+                                        $stt++;
+                                ?>
                                 <tr class="tr-shadow">
-                                    <td>1</td>
+                                    <td><?php echo $stt; ?></td>
                                     <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
+                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 100%;">
                                     </td>
-                                    <td>Lori Lynch</td>
+                                    <td><?php echo $value['hoTen']; ?></td>
                                     <td>
-                                        <span class="block-email">lori@example.com</span>
+                                        <span class="block-email"><?php echo $value['email']; ?></span>
                                     </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
+                                    <td class="desc"><?php echo $value['tenTaiKhoan']; ?></td>
+                                    <td><?php echo $value['thoiGianTao']; ?></td>
                                     <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
+                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">
+                                        <?php 
+                                            if ($value['trangThai']  == 1 ){
+                                                echo "Mở";
+                                            }else{
+                                                echo "Khóa";
+                                            }
+                                        ?>
+                                        </span>
                                     </td>
 
                                     <td>
@@ -80,84 +99,9 @@
                                     </td>
                                 </tr>
                                 <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
-                                    </td>
-
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-danger" style="margin: 5px;"><i class="fa fa-lock"></i></button>
-
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-danger" style="font-size: 13px;">Khóa</span>
-                                    </td>
-
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-success" style="margin: 5px;"><i class="fa fa-unlock"></i></button>
-
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
-                                    </td>
-
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-danger" style="margin: 5px;"><i class="fa fa-lock"></i></button>
-
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
+                                <?php
+                                    }
+                                ?>
 
 
                             </tbody>
