@@ -49,6 +49,22 @@ class Database{
             return $data;
         }
 
+        //Hàm lấy dữ liệu với điều kiện ID (dùng cho show dữ liệu)
+        public function ShowDataWithID($tableName, $tableProps, $value){
+            $sqlquery = "SELECT * FROM $tableName WHERE $tableProps = $value ";
+            $this->ExcuteQuery($sqlquery);
+
+            if ($this->result){
+                while ( $datas = mysqli_fetch_array($this->result) ){
+                    $data[] = $datas;
+                }
+            }
+            else{
+                $data = 0;
+            }
+            return $data;
+        }
+
         //Kiểu dữ liệu truyền vào các tham số
         // $tableName   = 'user_info'; //tên table
         // $tableProps = ['user_name','pass_word']; //thuộc tính table

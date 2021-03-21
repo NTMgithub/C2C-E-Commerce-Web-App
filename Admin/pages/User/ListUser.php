@@ -1,8 +1,8 @@
 <?php
-    require_once('header.php');
+require_once('header.php');
 ?>
 
-<!-- MAIN CONTENT-->    
+<!-- MAIN CONTENT-->
 <div class="main-content">
     <div class="section__content section__content--p30">
         <div class="container-fluid">
@@ -33,11 +33,11 @@
                             </form>
                         </div>
                         <div class="table-data__tool-right">
-                            <a href="<?php if ( isset($_GET['action']) && ($_GET['action'] == 'add' ) ){
-                                echo "javascript:history.go(0)";
-                            }else{
-                                echo $db->MergeURL('action=add');
-                            } ?>">
+                            <a href="<?php if (isset($_GET['action']) && ($_GET['action'] == 'add')) {
+                                            echo "javascript:history.go(0)";
+                                        } else {
+                                            echo $db->MergeURL('action=add');
+                                        } ?>">
                                 <button class="au-btn au-btn-icon au-btn--green au-btn--small">
                                     <i class="zmdi zmdi-plus"></i>Thêm người dùng
                                 </button>
@@ -46,12 +46,12 @@
                     </div>
                     <div class="table-responsive table-responsive-data2">
                         <table class="table table-data2">
-                            <thead style="background-color: #f2f2f2;" >
+                            <thead style="background-color: #f2f2f2;">
                                 <tr>
                                     <th>STT</th>
                                     <th>Ảnh</th>
                                     <th>Họ tên</th>
-                                    <th>email</th>
+                                    <th>SDT</th>
                                     <th>Tên tài khoản</th>
                                     <th>Ngày tạo</th>
                                     <th>trạng thái</th>
@@ -61,51 +61,59 @@
                             </thead>
                             <tbody>
                                 <?php
-                                    $stt = 0;
-                                    foreach ($dataResult as $value){
-                                        $stt++;
+                                $stt = 0;
+                                foreach ($dataResult as $value) {
+                                    $stt++;
                                 ?>
-                                <tr class="tr-shadow">
-                                    <td><?php echo $stt; ?></td>
-                                    <td>
-                                        <img src="uploads/user/<?php echo $value['anhDaiDien']; ?>" alt="avatarUser" style="width: 150px;height: 100px;">
-                                    </td>
-                                    <td><?php echo $value['hoTen']; ?></td>
-                                    <td>
-                                        <span class="block-email"><?php echo $value['email']; ?></span>
-                                    </td>
-                                    <td class="desc"><?php echo $value['tenTaiKhoan']; ?></td>
-                                    <td><?php echo $value['thoiGianTao']; ?></td>
-                                    <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">
-                                        <?php 
-                                            if ($value['trangThai']  == 1 ){
-                                                echo "Mở";
-                                            }else{
-                                                echo "Khóa";
+                                    <tr class="tr-shadow">
+                                        <td><?php echo $stt; ?></td>
+                                        <td>
+                                            <img src="uploads/user/<?php echo $value['anhDaiDien']; ?>" alt="avatarUser" style="width: 150px;height: 100px;">
+                                        </td>
+                                        <td><?php echo $value['hoTen']; ?></td>
+                                        <td>
+                                            <span class="block-email"><?php echo $value['sdt']; ?></span>
+                                        </td>
+                                        <td class="desc"><?php echo $value['tenTaiKhoan']; ?></td>
+                                        <td><?php echo $value['thoiGianTao']; ?></td>
+                                        <td>
+                                            <?php
+                                            if ($value['trangThai']  == 1) {
+                                                echo "<span class='badge badge-pill badge-success' style='font-size: 13px;'>Mở</span>";
+                                            } else {
+                                                echo "<span class='badge badge-pill badge-danger' style='font-size: 13px;'>Khóa</span>";
                                             }
-                                        ?>
-                                        </span>
-                                    </td>
+                                            ?>
+                                        </td>
 
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-danger" style="margin: 5px;"><i class="fa fa-lock"></i></button>
+                                        <td>
+                                            <div class="table-data-feature">
+                                                <a href="?viewpage=list-user&action=edit&idNguoiDung=<?php echo $value['id_nguoiDung']; ?>" onclick="return popitup('?viewpage=list-user&action=edit&idNguoiDung=<?php echo $value['id_nguoiDung']; ?>')">
+                                                    <button type="button" class="btn btn-secondary" style="margin: 5px;" id="editButton">
+                                                        <i class="fa fa-edit"></i> Sửa
+                                                    </button>
+                                                </a>
+                                                <?php
+                                                if ($value['trangThai']  == 1) {
+                                                    echo "<button type='button' class='btn btn-danger' style='margin: 5px;' data-toggle='tooltip' data-placement='top' title='Khóa tài khoản'><i class='fa fa-lock'></i></button>";
+                                                } else {
+                                                    echo "<button type='button' class='btn btn-warning' style='margin: 5px;' data-toggle='tooltip' data-placement='top' title='Mở khóa tài khoản'><i class='fa fa-unlock'></i></button>";
+                                                }
+                                                ?>
 
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
+                                                <button type="button" class="btn btn-primary" style="margin: 5px;" data-toggle="tooltip" data-placement="top" title="Reset mật khẩu"><i class="fa fa-refresh"></i></button>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="spacer"></tr>
+
                                 <?php
-                                    }
+
+                                }
                                 ?>
-
-
                             </tbody>
                         </table>
+
 
                         <nav aria-label="...">
                             <ul class="pagination">
@@ -135,83 +143,10 @@
     </div>
 
     <!-- modal medium -->
-    <div class="modal fade" id="modalEdit" tabindex="-1" role="dialog" aria-labelledby="mediumModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="mediumModalLabel">Sửa</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-header">
-                                <strong>Sửa thông tin</strong>
-                            </div>
-                            <div class="card-body card-block">
-                                <form action="" method="post" enctype="multipart/form-data" class="form-horizontal">
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label class=" form-control-label">Tên tài khoản:</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <p class="form-control-static">lorilori</p>
-                                        </div>
-                                    </div>
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="text-input" class=" form-control-label">Họ tên:</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="text" id="text-input" name="text-input" value="Lori Lynch" class="form-control">
-                                            <small class="form-text text-muted">Nhập họ tên cần sửa</small>
-                                        </div>
-                                    </div>
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="email-input" class=" form-control-label">Email:</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="email" id="email-input" name="email-input" value="lori@example.com" class="form-control">
-                                            <small class="help-block form-text">Nhập email cần sửa</small>
-                                        </div>
-                                    </div>
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="password-input" class=" form-control-label">SDT</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="text" id="password-input" name="password-input" value="03452353253" class="form-control">
-                                            <small class="help-block form-text">Nhập số điện thoại cần sửa</small>
-                                        </div>
-                                    </div>
 
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="file-input" class=" form-control-label">Ảnh đại diện</label>
-                                        </div>
+    <!-- end modal medium -->
 
-                                        <div class="col-12 col-md-9">
-                                            <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 20%;">
-                                            <input type="file" id="file-input" name="file-input" class="form-control-file">
-                                        </div>
-                                    </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
-                        <button type="button" class="btn btn-primary">Sửa</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- end modal medium -->
-
-    </div>
+</div>
 </div>
 <!-- END MAIN CONTENT-->
 <!-- END PAGE CONTAINER-->
@@ -242,7 +177,15 @@
 
 <!-- Main JS-->
 <script src="js/main.js"></script>
-
+<script language="javascript" type="text/javascript">
+    function popitup(url) { //Popup cửa sổ
+        newwindow = window.open(url, 'name', 'height=580,width=700');
+        if (window.focus) {
+            newwindow.focus()
+        }
+        return false;
+    }
+</script>
 
 </body>
 

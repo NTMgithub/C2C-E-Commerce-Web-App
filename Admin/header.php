@@ -33,6 +33,8 @@
     <!-- Main CSS-->
     <link href="css/theme.css" rel="stylesheet" media="all">
 
+   
+
 </head>
 
 <body class="animsition">
@@ -203,8 +205,25 @@
                                 <i class="fas fa-tachometer-alt"></i>Trang tổng quan</a>
                         </li>
                         <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-user'); ?> has-sub">
-                            <a class="js-arrow" href="?viewpage=list-user">
-                                <i class="fas fa-group"></i>Quản lý người dùng</a>
+                            <a class="js-arrow" href="#"  >
+                                <i class="fas fa-group"></i>Quản lý người dùng
+                                
+                            </a>
+                            <ul class="list-unstyled navbar__sub-list js-sub-list">
+                                <li class="<?php if ( isset($_GET['viewpage']) && ($_GET['viewpage'] == 'list-user') ){
+                                    if ( isset($_GET['action']) && ( $_GET['action'] == '' )  ) echo 'active';
+                                }
+                                ?> has-sub">
+                                    <a href="?viewpage=list-user"><i class="fa fa-list"></i>Danh sách người dùng</a>
+                                </li>
+                                <li class=" <?php if ( isset($_GET['viewpage']) && ($_GET['viewpage'] == 'list-user') ){
+                                    if ( isset($_GET['action']) && ( $_GET['action'] == 'add' )  ) echo 'active';
+                                }
+                                ?> has-sub" >
+                                    <a href="?viewpage=list-user&action=add"><i class="fa fa-plus" ></i>Thêm người dùng</a>
+                                </li>
+                               
+                            </ul>
                         </li>
                         <li class="has-sub">
                             <a class="js-arrow" href="Admin/pages/Shop/ListShop.php">
@@ -327,7 +346,7 @@
         <!-- PAGE CONTAINER-->
         <div class="page-container">
             <!-- HEADER DESKTOP-->
-            <header class="header-desktop">
+            <header class="header-desktop" >
                 <div class="section__content section__content--p30">
                     <div class="container-fluid">
                         <div class="header-wrap">
