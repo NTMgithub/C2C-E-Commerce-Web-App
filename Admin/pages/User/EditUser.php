@@ -1,8 +1,12 @@
 <?php
 require_once('header.php');
+
+$db = new Database();
+
 ?>
 
 <!-- MAIN CONTENT-->
+
 <div class="main-content">
     <div class="section__content section__content--p30">
         <div class="container-fluid">
@@ -10,8 +14,8 @@ require_once('header.php');
                 <div class="col-md-12">
                     <div class="overview-wrap">
                         <h2 class="title-2" style="text-transform: uppercase;">
-                            <i class="fa fa-plus-circle"></i>
-                            Thêm người dùng
+                            <i class="fa fa-edit"></i>
+                            Sửa thông tin người dùng
                         </h2>
 
                     </div>
@@ -27,7 +31,12 @@ require_once('header.php');
                                 <?php
                                 echo $result;
                                 ?>
-                                <form action="" method="post" enctype="multipart/form-data" class="form-horizontal" id="formThemNguoiDung">
+                                <?php
+                                    $dataResult = $db->ShowDataWithID('tbl_nguoidung', 'id_nguoiDung', $_GET['idNguoiDung']);
+                                    
+                                    foreach ($dataResult as $value){
+                                ?>
+                                <form action="" method="post" enctype="multipart/form-data" class="form-horizontal" id="formSuaNguoiDung">
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
@@ -40,7 +49,7 @@ require_once('header.php');
                                             <label for="hoTen_input" class="form-control-label">Họ tên</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="text" id="hoTen_input" name="hoTen_input" placeholder="Nhập họ tên..." class="form-control" required>
+                                            <input type="text" id="hoTen_input" name="hoTen_input" placeholder="Nhập họ tên..." class="form-control" value="<?php echo $value['hoTen']; ?>" required>
 
                                         </div>
                                     </div>
@@ -50,7 +59,7 @@ require_once('header.php');
                                             <label for="email_input" class=" form-control-label">Email</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="email" id="email_input" name="email_input" placeholder="Nhập email..." class="form-control" required>
+                                            <input type="email" id="email_input" name="email_input" placeholder="Nhập email..." class="form-control" value="<?php echo $value['email']; ?>" required>
 
                                         </div>
                                     </div>
@@ -60,7 +69,7 @@ require_once('header.php');
                                             <label for="sdt_input" class=" form-control-label">Số điện thoại</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="text" id="sdt_input" name="sdt_input" placeholder="Nhập số điện thoại..." class="form-control" required>
+                                            <input type="text" id="sdt_input" name="sdt_input" placeholder="Nhập số điện thoại..." class="form-control" value="<?php echo $value['sdt']; ?>" required>
 
                                         </div>
                                     </div>
@@ -95,7 +104,7 @@ require_once('header.php');
                                             <label for="ngaySinh_input" class=" form-control-label">Ngày sinh</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="date" id="ngaySinh_input" name="ngaySinh_input" class="form-control" required>
+                                            <input type="date" id="ngaySinh_input" name="ngaySinh_input" class="form-control" value="<?php echo $value['ngaySinh']; ?>" required>
 
                                         </div>
                                     </div>
@@ -106,59 +115,25 @@ require_once('header.php');
                                         </div>
                                         <div class="col-12 col-md-9">
                                             <input type="file" id="avatar_input" name="avatar_input" accept="image/*" onchange="loadFile(event)" class="form-control-file">
-                                            <img id="output" style="width: 20%;" />
+                                            <img id="output" style="width: 20%;" src="uploads/user/<?php echo $value['anhDaiDien']; ?>" />
                                         </div>
                                     </div>
 
                                     <hr>
 
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <b>Thông tin đăng nhập</b>
-                                        </div>
-                                    </div>
-
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="tenTaiKhoan_input" class="form-control-label">Tên tài khoản</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="text" id="tenTaiKhoan_input" name="tenTaiKhoan_input" placeholder="Nhập tên tài khoản..." class="form-control">
-
-                                        </div>
-                                    </div>
-
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="matKhau_input" class=" form-control-label">Mật khẩu</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="password" id="matKhau_input" name="matKhau_input" placeholder="Nhập mật khẩu..." class="form-control">
-
-                                        </div>
-                                    </div>
-
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="xacNhanMatKhau_input" class="form-control-label">Xác nhận mật khẩu</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="password" id="xacNhanMatKhau_input" name="xacNhanMatKhau_input" placeholder="Nhập lại mật khẩu..." class="form-control">
-
-                                        </div>
-                                    </div>
-
+                                  
                             </div>
                             <div class="card-footer">
-                                <button type="submit" class="btn btn-success">
-                                    <i class="fa fa-plus-circle"></i> Thêm
-                                </button>
-                                <button type="reset" class="btn btn-danger" id="resetButton" onclick="ResetForm()" style="margin-left: 2%">
-                                    <i class="fa fa-repeat"></i> Reset
+                                <button type="submit" class="btn btn-secondary">
+                                  <i class="fa fa-edit" ></i>Sửa thông tin
                                 </button>
                             </div>
 
                             </form>
+
+                            <?php
+                                }
+                            ?>
                         </div>
 
                     </div>
@@ -205,9 +180,6 @@ require_once('header.php');
 <!-- Main JS-->
 <script src="js/main.js"></script>
 <script>
-    function ResetForm() {
-        document.getElementById("formThemNguoiDung").reset();
-    }
 
     var loadFile = function(event) {
         var output = document.getElementById('output');
@@ -228,7 +200,7 @@ require_once('header.php');
 <script>
     $(document).ready(function() {
         //Khi bàn phím được nhấn và thả ra thì sẽ chạy phương thức này
-        $("#formThemNguoiDung").validate({
+        $("#formSuaNguoiDung").validate({
             errorClass: 'is-invalid errorMessage',
             rules: {
                 hoTen_input: {
@@ -255,22 +227,6 @@ require_once('header.php');
                     date: true
                 },
 
-                tenTaiKhoan_input: {
-                    required: true,
-                    maxlength: 20,
-                    minlength: 6,
-                },
-                matKhau_input: {
-                    required: true,
-                    maxlength: 20,
-                    minlength: 6,
-                },
-                xacNhanMatKhau_input: {
-                    required: true,
-                    maxlength: 20,
-                    minlength: 6,
-                    equalTo: "#matKhau_input"
-                },
 
             },
             messages: {
@@ -294,22 +250,6 @@ require_once('header.php');
                 gioiTinh: "Vui lòng chọn giới tính",
                 ngaySinh_input: "Vui lòng chọn ngày sinh",
 
-                tenTaiKhoan_input: {
-                    required: "Vui lòng nhập tên tài khoản",
-                    maxlength: "Tên tài khoản tối đa 20 kí tự",
-                    minlength: "Tên tài khoản tối thiểu 6 kí tự",
-                },
-                matKhau_input: {
-                    required: "Vui lòng nhập mật khẩu",
-                    maxlength: "Mật khẩu tối đa 20 kí tự",
-                    minlength: "Mật khẩu tối thiểu 6 kí tự",
-                },
-                xacNhanMatKhau_input: {
-                    required: "Vui lòng nhập lại mật khẩu",
-                    maxlength: "Mật khẩu tối đa 20 kí tự",
-                    minlength: "Mật khẩu tối thiểu 6 kí tự",
-                    equalTo: "Xác nhận mật khẩu không khớp với mật khẩu!"
-                },
             }
         });
     });

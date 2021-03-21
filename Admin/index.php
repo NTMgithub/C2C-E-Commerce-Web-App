@@ -18,7 +18,7 @@
         }
 
         case 'list-user':{
-            require_once('controller/User.php');
+            require_once('controller/UserController.php');
             break;
         }
                     
