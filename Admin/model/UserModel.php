@@ -1,7 +1,7 @@
 <?php
 
 class UserModel{
-
+    
     // Hàm thêm người dùng
     public function ThemNguoiDung()
     {
@@ -233,7 +233,61 @@ class UserModel{
 
         }
         
+    }
 
+
+    //Hàm mở/khóa người dùng
+    public function KhoaMoNguoiDung($idNguoiDung, $trangThai){
+        require_once(__DIR__.'/../../ModelChung/DBConfig.php');
+        $db = new Database();
+
+        if ($trangThai == 1){
+            $sqlquery = "UPDATE tbl_nguoidung SET trangThai = 0 WHERE id_nguoiDung = $idNguoiDung ";
+        }else{
+            $sqlquery = "UPDATE tbl_nguoidung SET trangThai = 1 WHERE id_nguoiDung = $idNguoiDung ";
+        }
+        
+        $lockUnlockUser = $db->ExcuteQuery($sqlquery);
+
+        if ($trangThai == 1){
+            if ($lockUnlockUser) {
+                $result = "<div class='alert alert-success'>Khóa người dùng thành công!</div>";
+                return $result;
+            } else {
+                $result = "<div class='alert alert-danger'>Khóa người dùng thất bại!</div>";
+                return $result;
+            }
+        }else{
+            if ($lockUnlockUser) {
+                $result = "<div class='alert alert-success'>Mở khóa người dùng thành công!</div>";
+                return $result;
+            } else {
+                $result = "<div class='alert alert-danger'>Mở khóa người dùng thất bại!</div>";
+                return $result;
+            }
+        }
+
+    }
+
+
+    //Hàm Reset mật khẩu người dùng
+    public function ResetMatKhauNguoiDung($idNguoiDung, $matKhauMoi){
+        require_once(__DIR__.'/../../ModelChung/DBConfig.php');
+        $db = new Database();
+
+        $matKhauMD5 = md5($matKhauMoi);
+
+        $sqlquery = "UPDATE tbl_nguoidung SET matKhau = $matKhauMD5 WHERE id_nguoiDung = $idNguoiDung ";
+        
+        $resetMatKhau = $db->ExcuteQuery($sqlquery);
+
+        if ($resetMatKhau) {
+            $result = "<div class='alert alert-success'>Reset mật khẩu người dùng thành công!</div>";
+            return $result;
+            } else {
+            $result = "<div class='alert alert-danger'>Reset mật khẩu người dùng thất bại!</div>";
+            return $result;
+        }
 
     }
 

@@ -3,6 +3,35 @@
 require_once(__DIR__.'/../model/UserModel.php');
 $userModel = new UserModel();
 
+//Khóa/Mở người dùng
+if (isset($_POST['id_nguoiDung']) && isset($_POST['trangThaiND']) ){
+    $id_nguoiDung = $_POST['id_nguoiDung'];
+    $trangThai = $_POST['trangThaiND'];
+    
+    $result = $userModel->KhoaMoNguoiDung($id_nguoiDung, $trangThai);
+
+    echo "<script>alert('".$result."');</script>";
+    
+    header("Location: http://localhost/WebC2C/Admin/?viewpage=list-user");
+    
+}
+//Khóa/Mở người dùng
+
+//Reset mật khẩu người dùng
+if (isset($_POST['matKhauMoi']) && isset($_POST['id_nguoiDung']) ){
+    $matKhauMoi = $_POST['matKhauMoi'];
+    $xacNhanMatKhauMoi = $_POST['xacNhanMatKhauMoi'];
+    
+    $result = $userModel->KhoaMoNguoiDung($id_nguoiDung, $trangThai);
+
+    echo "<script>alert('".$result."');</script>";
+    
+    header("Location: http://localhost/WebC2C/Admin/?viewpage=list-user");
+    
+}
+//Reset mật khẩu người dùng
+
+
 if (isset($_GET['action'])) {
     $action = $_GET['action'];
 } else {

@@ -82,17 +82,17 @@ $db = new Database();
                                             <div>
                                                 <div class="radio">
                                                     <label for="gioiTinh_Nam" class="form-check-label">
-                                                        <input type="radio" id="gioiTinh_Nam" name="gioiTinh" value="Nam" class="form-check_input" checked>Nam
+                                                        <input type="radio" id="gioiTinh_Nam" name="gioiTinh" value="Nam" class="form-check_input" <?php if ( ($value['gioiTinh']) == 'Nam') echo "checked"; ?>>Nam
                                                     </label>
                                                 </div>
                                                 <div class="radio">
                                                     <label for="gioiTinh_Nu" class="form-check-label">
-                                                        <input type="radio" id="gioiTinh_Nu" name="gioiTinh" value="Nữ" class="form-check_input">Nữ
+                                                        <input type="radio" id="gioiTinh_Nu" name="gioiTinh" value="Nữ" class="form-check_input" <?php if ( ($value['gioiTinh']) == 'Nữ') echo "checked"; ?>>Nữ
                                                     </label>
                                                 </div>
                                                 <div class="radio">
                                                     <label for="gioiTinh-Khac" class="form-check-label">
-                                                        <input type="radio" id="gioiTinh_Khac" name="gioiTinh" value="Khác" class="form-check_input">Khác
+                                                        <input type="radio" id="gioiTinh_Khac" name="gioiTinh" value="Khác" class="form-check_input" <?php if ( ($value['gioiTinh']) == 'Khác') echo "checked"; ?>>Khác
                                                     </label>
                                                 </div>
                                             </div>
@@ -115,7 +115,7 @@ $db = new Database();
                                         </div>
                                         <div class="col-12 col-md-9">
                                             <input type="file" id="avatar_input" name="avatar_input" accept="image/*" onchange="loadFile(event)" class="form-control-file">
-                                            <img id="output" style="width: 20%;" src="uploads/user/<?php echo $value['anhDaiDien']; ?>" />
+                                            <img id="output" style="width: 150px;height: 100px;" src="uploads/user/<?php echo $value['anhDaiDien']; ?>" />
                                         </div>
                                     </div>
 
