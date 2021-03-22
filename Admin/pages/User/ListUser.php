@@ -89,26 +89,31 @@ require_once('header.php');
                                         <td>
                                             <div class="table-data-feature">
                                                 <a href="?viewpage=list-user&action=edit&idNguoiDung=<?php echo $value['id_nguoiDung']; ?>" onclick="return popitup('?viewpage=list-user&action=edit&idNguoiDung=<?php echo $value['id_nguoiDung']; ?>')">
-                                                    <button type="button" class="btn btn-secondary" style="margin: 5px;" id="editButton">
+                                                    <button type="button" class="btn btn-secondary" style="margin: 5px;" id="editButton" >
                                                         <i class="fa fa-edit"></i> Sửa
                                                     </button>
                                                 </a>
                                                 <?php
                                                 if ($value['trangThai']  == 1) {
-                                                    echo "<button type='button' class='btn btn-danger' style='margin: 5px;' data-toggle='tooltip' data-placement='top' title='Khóa tài khoản'><i class='fa fa-lock'></i></button>";
+                                                    $lockButton = "<button type='button' class='btn btn-danger' style='margin: 5px;' data-placement='top' title='Khóa tài khoản'
+                                                    data-toggle='modal' data-target='#LockUnlockModal".$value['id_nguoiDung']."' ><i class='fa fa-lock'></i></button>";
+                                                    echo $lockButton;
                                                 } else {
-                                                    echo "<button type='button' class='btn btn-warning' style='margin: 5px;' data-toggle='tooltip' data-placement='top' title='Mở khóa tài khoản'><i class='fa fa-unlock'></i></button>";
+                                                    $unlockButton = "<button type='button' class='btn btn-warning' style='margin: 5px;' data-placement='top' title='Mở khóa tài khoản'
+                                                    data-toggle='modal' data-target='#LockUnlockModal".$value['id_nguoiDung']."' ><i class='fa fa-unlock'></i></button>";
+                                                    echo $unlockButton;
                                                 }
                                                 ?>
 
-                                                <button type="button" class="btn btn-primary" style="margin: 5px;" data-toggle="tooltip" data-placement="top" title="Reset mật khẩu"><i class="fa fa-refresh"></i></button>
+                                                <button type="button" class="btn btn-primary" style="margin: 5px;" data-toggle="modal" data-target='#ResetPasswordModal<?php echo $value['id_nguoiDung']; ?>' data-placement="top" title="Reset mật khẩu"><i class="fa fa-refresh"></i></button>
                                             </div>
                                         </td>
                                     </tr>
                                     <tr class="spacer"></tr>
 
                                 <?php
-
+                                    include('LockUnlockUserModal.php');
+                                    include('ResetPasswordModal.php');
                                 }
                                 ?>
                             </tbody>
@@ -156,6 +161,7 @@ require_once('header.php');
 
 <!-- Jquery JS-->
 <script src="vendor/jquery-3.2.1.min.js"></script>
+<script src="vendor/jquery.validate.min.js"></script>
 <!-- Bootstrap JS-->
 <script src="vendor/bootstrap-4.1/popper.min.js"></script>
 <script src="vendor/bootstrap-4.1/bootstrap.min.js"></script>
@@ -186,6 +192,7 @@ require_once('header.php');
         return false;
     }
 </script>
+
 
 </body>
 

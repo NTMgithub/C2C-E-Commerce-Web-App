@@ -319,6 +319,9 @@ require_once('header.php');
         return this.optional(element) || phone_number.length > 9 &&
             phone_number.match(/(03|05|07|08|09|01[2|6|8|9])+([0-9]{8})\b/);
     }, "Số điện thoại không đúng định dạng Việt Nam! Ví dụ hợp lệ: 0932451234");
+
+
+    
 </script>
 
 <!-- Lưu giá trị input sau khi refresh trang-->
