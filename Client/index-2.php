@@ -31,7 +31,7 @@
     <!-- Custom css -->
     <link rel="stylesheet" href="css/default.css">
     <!-- Main css -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <!-- Responsive css -->
     <link rel="stylesheet" href="css/responsive.css">
 
@@ -86,7 +86,7 @@
                         <ul>
                             <li><a href="#">Free Shipping on order over $99</a></li>
                             <li><a href="#">Shopping Cart</a></li>
-                            <li><a href="checkout.html">Checkout</a></li>
+                            <li><a href="checkout.php">Checkout</a></li>
                         </ul>
                         <ul>                                          
                             <li><span>Language</span> <a href="#">English<i class="lnr lnr-chevron-down"></i></a>
@@ -109,8 +109,8 @@
                             <li><a href="#">My Account<i class="lnr lnr-chevron-down"></i></a>
                                 <!-- Dropdown Start -->
                                 <ul class="ht-dropdown">
-                                    <li><a href="login.html">Login</a></li>
-                                    <li><a href="register.html">Register</a></li>
+                                    <li><a href="login.php">Login</a></li>
+                                    <li><a href="register.php">Register</a></li>
                                 </ul>
                                 <!-- Dropdown End -->
                             </li> 
@@ -127,7 +127,7 @@
                     <div class="row align-items-center no-gutters">
                         <div class="col-lg-3 col-md-12">
                             <div class="logo mb-all-30">
-                                <a href="index.html"><img src="img/logo/logo.png" alt="logo-image"></a>
+                                <a href="index.php"><img src="img/logo/logo.png" alt="logo-image"></a>
                             </div>
                         </div>
                         <!-- Categorie Search Box Start Here -->
@@ -185,7 +185,7 @@
                                                         <span class="pro-quantity">1X</span>
                                                     </div>
                                                     <div class="cart-content">
-                                                        <h6><a href="product.html">Printed Summer Red </a></h6>
+                                                        <h6><a href="product.php">Printed Summer Red </a></h6>
                                                         <span class="cart-price">27.45</span>
                                                         <span>Size: S</span>
                                                         <span>Color: Yellow</span>
@@ -200,7 +200,7 @@
                                                         <span class="pro-quantity">1X</span>
                                                     </div>
                                                     <div class="cart-content">
-                                                        <h6><a href="product.html">Printed Round Neck</a></h6>
+                                                        <h6><a href="product.php">Printed Round Neck</a></h6>
                                                         <span class="cart-price">45.00</span>
                                                         <span>Size: XL</span>
                                                         <span>Color: Green</span>
@@ -217,7 +217,7 @@
                                                        <li>Total <span>$64.95</span></li>
                                                    </ul>
                                                     <div class="cart-actions text-center">
-                                                        <a class="cart-checkout" href="checkout.html">Checkout</a>
+                                                        <a class="cart-checkout" href="checkout.php">Checkout</a>
                                                     </div>
                                                 </div>
                                                 <!-- Cart Footer Inner End -->
@@ -251,92 +251,92 @@
                         <div class="col-xl-9 col-lg-8 col-md-12 ">
                             <nav class="d-none d-lg-block">
                                 <ul class="header-bottom-list d-flex">
-                                    <li class="active"><a href="index.html">home<i class="fa fa-angle-down"></i></a>
+                                    <li class="active"><a href="index.php">home<i class="fa fa-angle-down"></i></a>
                                         <!-- Home Version Dropdown Start -->
                                         <ul class="ht-dropdown">
-                                            <li><a href="index.html">Home Version 1</a></li>
-                                            <li><a href="index-2.html">Home Version 2</a></li>
-                                            <li><a href="index-3.html">Home Version 3</a></li>
-                                            <li><a href="index-4.html">Home Version 4</a></li>
+                                            <li><a href="index.php">Home Version 1</a></li>
+                                            <li><a href="index-2.php">Home Version 2</a></li>
+                                            <li><a href="index-3.php">Home Version 3</a></li>
+                                            <li><a href="index-4.php">Home Version 4</a></li>
                                         </ul>
                                         <!-- Home Version Dropdown End -->
                                     </li>
-                                    <li><a href="shop.html">shop<i class="fa fa-angle-down"></i></a>
+                                    <li><a href="shop.php">shop<i class="fa fa-angle-down"></i></a>
                                         <!-- Home Version Dropdown Start -->
                                         <ul class="ht-dropdown dropdown-style-two">
-                                            <li><a href="product.html">product details</a></li>
-                                            <li><a href="compare.html">compare</a></li>
-                                            <li><a href="cart.html">cart</a></li>
-                                            <li><a href="checkout.html">checkout</a></li>
-                                            <li><a href="wishlist.html">wishlist</a></li>
+                                            <li><a href="product.php">product details</a></li>
+                                            <li><a href="compare.php">compare</a></li>
+                                            <li><a href="cart.php">cart</a></li>
+                                            <li><a href="checkout.php">checkout</a></li>
+                                            <li><a href="wishlist.php">wishlist</a></li>
                                         </ul>
                                         <!-- Home Version Dropdown End -->
                                     </li>
-                                    <li><a href="blog.html">blog<i class="fa fa-angle-down"></i></a>
+                                    <li><a href="blog.php">blog<i class="fa fa-angle-down"></i></a>
                                         <!-- Home Version Dropdown Start -->
                                         <ul class="ht-dropdown dropdown-style-two">
-                                            <li><a href="single-blog.html">blog details</a></li>
+                                            <li><a href="single-blog.php">blog details</a></li>
                                         </ul>
                                         <!-- Home Version Dropdown End -->
                                     </li>
                                     <li><a href="#">pages<i class="fa fa-angle-down"></i></a>
                                         <!-- Home Version Dropdown Start -->
                                         <ul class="ht-dropdown dropdown-style-two">
-                                            <li><a href="contact.html">contact us</a></li>
-                                            <li><a href="register.html">register</a></li>
-                                            <li><a href="login.html">sign in</a></li>
-                                            <li><a href="forgot-password.html">forgot password</a></li>
-                                            <li><a href="404.html">404</a></li>
+                                            <li><a href="contact.php">contact us</a></li>
+                                            <li><a href="register.php">register</a></li>
+                                            <li><a href="login.php">sign in</a></li>
+                                            <li><a href="forgot-password.php">forgot password</a></li>
+                                            <li><a href="404.php">404</a></li>
                                         </ul>
                                         <!-- Home Version Dropdown End -->
                                     </li>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="contact.html">contact us</a></li>
+                                    <li><a href="about.php">About us</a></li>
+                                    <li><a href="contact.php">contact us</a></li>
                                 </ul>
                             </nav>
                             <div class="mobile-menu d-block d-lg-none">
                                 <nav>
                                     <ul>
-                                        <li><a href="index.html">home</a>
+                                        <li><a href="index.php">home</a>
                                             <!-- Home Version Dropdown Start -->
                                             <ul>
-                                                <li><a href="index.html">Home Version 1</a></li>
-                                                <li><a href="index-2.html">Home Version 2</a></li>
-                                                <li><a href="index-3.html">Home Version 3</a></li>
-                                                <li><a href="index-4.html">Home Version 4</a></li>
+                                                <li><a href="index.php">Home Version 1</a></li>
+                                                <li><a href="index-2.php">Home Version 2</a></li>
+                                                <li><a href="index-3.php">Home Version 3</a></li>
+                                                <li><a href="index-4.php">Home Version 4</a></li>
                                             </ul>
                                             <!-- Home Version Dropdown End -->
                                         </li>
-                                        <li><a href="shop.html">shop</a>
+                                        <li><a href="shop.php">shop</a>
                                             <!-- Mobile Menu Dropdown Start -->
                                             <ul>
-                                                <li><a href="product.html">product details</a></li>
-                                                <li><a href="compare.html">compare</a></li>
-                                                <li><a href="cart.html">cart</a></li>
-                                                <li><a href="checkout.html">checkout</a></li>
-                                                <li><a href="wishlist.html">wishlist</a></li>
+                                                <li><a href="product.php">product details</a></li>
+                                                <li><a href="compare.php">compare</a></li>
+                                                <li><a href="cart.php">cart</a></li>
+                                                <li><a href="checkout.php">checkout</a></li>
+                                                <li><a href="wishlist.php">wishlist</a></li>
                                             </ul>
                                             <!-- Mobile Menu Dropdown End -->
                                         </li>
-                                        <li><a href="blog.html">Blog</a>
+                                        <li><a href="blog.php">Blog</a>
                                             <!-- Mobile Menu Dropdown Start -->
                                             <ul>
-                                                <li><a href="single-blog.html">blog details</a></li>
+                                                <li><a href="single-blog.php">blog details</a></li>
                                             </ul>
                                             <!-- Mobile Menu Dropdown End -->
                                         </li>
                                         <li><a href="#">pages</a>
                                             <!-- Mobile Menu Dropdown Start -->
                                             <ul>
-                                                <li><a href="register.html">register</a></li>
-                                                <li><a href="login.html">sign in</a></li>
-                                                <li><a href="forgot-password.html">forgot password</a></li>
-                                                <li><a href="404.html">404</a></li>
+                                                <li><a href="register.php">register</a></li>
+                                                <li><a href="login.php">sign in</a></li>
+                                                <li><a href="forgot-password.php">forgot password</a></li>
+                                                <li><a href="404.php">404</a></li>
                                             </ul>
                                             <!-- Mobile Menu Dropdown End -->
                                         </li>
-                                        <li><a href="about.html">about us</a></li>
-                                        <li><a href="contact.html">contact us</a></li>
+                                        <li><a href="about.php">about us</a></li>
+                                        <li><a href="contact.php">contact us</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -356,62 +356,62 @@
                             <ul>
                                 <li class="has-sub"><a href="#">Automotive & Motorcycle </a>
                                     <ul class="category-sub">
-                                        <li class="has-sub"><a href="shop.html">Office chair</a>
+                                        <li class="has-sub"><a href="shop.php">Office chair</a>
                                             <ul class="category-sub">
-                                                <li><a href="shop.html">Bibendum Cursus</a></li>
-                                                <li><a href="shop.html">Dignissim Turpis</a></li>
-                                                <li><a href="shop.html">Dining room</a></li>
-                                                <li><a href="shop.html">Dining room</a></li>
+                                                <li><a href="shop.php">Bibendum Cursus</a></li>
+                                                <li><a href="shop.php">Dignissim Turpis</a></li>
+                                                <li><a href="shop.php">Dining room</a></li>
+                                                <li><a href="shop.php">Dining room</a></li>
                                             </ul>
                                         </li>
-                                        <li class="has-sub"><a href="shop.html">Purus Lacus</a>
+                                        <li class="has-sub"><a href="shop.php">Purus Lacus</a>
                                             <ul class="category-sub">
-                                                <li><a href="shop.html">Magna Pellentesq</a></li>
-                                                <li><a href="shop.html">Molestie Tortor</a></li>
-                                                <li><a href="shop.html">Vehicula Element</a></li>
-                                                <li><a href="shop.html">Sagittis Blandit</a></li>
+                                                <li><a href="shop.php">Magna Pellentesq</a></li>
+                                                <li><a href="shop.php">Molestie Tortor</a></li>
+                                                <li><a href="shop.php">Vehicula Element</a></li>
+                                                <li><a href="shop.php">Sagittis Blandit</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="shop.html">gps accessories</a></li>
-                                        <li><a href="shop.html">Microphones</a></li>
-                                        <li><a href="shop.html">Wireless Transmitters</a></li>
+                                        <li><a href="shop.php">gps accessories</a></li>
+                                        <li><a href="shop.php">Microphones</a></li>
+                                        <li><a href="shop.php">Wireless Transmitters</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
                                 <li class="has-sub"><a href="#">Sports & Outdoors</a>
                                     <ul class="category-sub">
                                         <li class="menu-tile">Cameras</li>
-                                        <li><a href="shop.html">Cords and Cables</a></li>
-                                        <li><a href="shop.html">gps accessories</a></li>
-                                        <li><a href="shop.html">Microphones</a></li>
-                                        <li><a href="shop.html">Wireless Transmitters</a></li>
+                                        <li><a href="shop.php">Cords and Cables</a></li>
+                                        <li><a href="shop.php">gps accessories</a></li>
+                                        <li><a href="shop.php">Microphones</a></li>
+                                        <li><a href="shop.php">Wireless Transmitters</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
                                 <li class="has-sub"><a href="#">Home & Kitchen</a>
                                     <ul class="category-sub">
-                                        <li><a href="shop.html">kithen one</a></li>
-                                        <li><a href="shop.html">kithen two</a></li>
-                                        <li><a href="shop.html">kithen three</a></li>
-                                        <li><a href="shop.html">kithen four</a></li>
+                                        <li><a href="shop.php">kithen one</a></li>
+                                        <li><a href="shop.php">kithen two</a></li>
+                                        <li><a href="shop.php">kithen three</a></li>
+                                        <li><a href="shop.php">kithen four</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
                                 <li class="has-sub"><a href="#">Phones & Tablets</a>
                                     <ul class="category-sub">
-                                        <li><a href="shop.html">phone one</a></li>
-                                        <li><a href="shop.html">Tablet two</a></li>
-                                        <li><a href="shop.html">Tablet three</a></li>
-                                        <li><a href="shop.html">phone four</a></li>
+                                        <li><a href="shop.php">phone one</a></li>
+                                        <li><a href="shop.php">Tablet two</a></li>
+                                        <li><a href="shop.php">Tablet three</a></li>
+                                        <li><a href="shop.php">phone four</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
                                 <li class="has-sub"><a href="#">TV & Video</a>
                                     <ul class="category-sub">
-                                        <li><a href="shop.html">smart tv</a></li>
-                                        <li><a href="shop.html">real video</a></li>
-                                        <li><a href="shop.html">Microphones</a></li>
-                                        <li><a href="shop.html">Wireless Transmitters</a></li>
+                                        <li><a href="shop.php">smart tv</a></li>
+                                        <li><a href="shop.php">real video</a></li>
+                                        <li><a href="shop.php">Microphones</a></li>
+                                        <li><a href="shop.php">Wireless Transmitters</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
@@ -436,52 +436,52 @@
                         <div class="vertical-menu mb-all-30">
                             <nav>
                                 <ul class="vertical-menu-list">
-                                    <li class=""><a href="shop.html"><span><img src="img/vertical-menu/1.png" alt="menu-icon"></span>Automotive & Motorcycle<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li class=""><a href="shop.php"><span><img src="img/vertical-menu/1.png" alt="menu-icon"></span>Automotive & Motorcycle<i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
                                         <ul class="ht-dropdown mega-child">
-                                            <li><a href="shop.html">Office chair <i class="fa fa-angle-right"></i></a>
+                                            <li><a href="shop.php">Office chair <i class="fa fa-angle-right"></i></a>
                                                  <!-- category submenu end-->
                                                 <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.html">Bibendum Cursus</a></li>
-                                                    <li><a href="shop.html">Dignissim Turpis</a></li>
-                                                    <li><a href="shop.html">Dining room</a></li>
-                                                    <li><a href="shop.html">Dining room</a></li>
+                                                    <li><a href="shop.php">Bibendum Cursus</a></li>
+                                                    <li><a href="shop.php">Dignissim Turpis</a></li>
+                                                    <li><a href="shop.php">Dining room</a></li>
+                                                    <li><a href="shop.php">Dining room</a></li>
                                                 </ul>
                                                 <!-- category submenu end-->
                                             </li>
-                                            <li><a href="shop.html">Purus Lacus <i class="fa fa-angle-right"></i></a>
+                                            <li><a href="shop.php">Purus Lacus <i class="fa fa-angle-right"></i></a>
                                                  <!-- category submenu end-->
                                                 <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.html">Magna Pellentesq</a></li>
-                                                    <li><a href="shop.html">Molestie Tortor</a></li>
-                                                    <li><a href="shop.html">Vehicula Element</a></li>
-                                                    <li><a href="shop.html">Sagittis Blandit</a></li>
+                                                    <li><a href="shop.php">Magna Pellentesq</a></li>
+                                                    <li><a href="shop.php">Molestie Tortor</a></li>
+                                                    <li><a href="shop.php">Vehicula Element</a></li>
+                                                    <li><a href="shop.php">Sagittis Blandit</a></li>
                                                 </ul>
                                                 <!-- category submenu end-->
                                             </li>                                            
-                                            <li><a href="shop.html">Sagittis Eget</a></li>
-                                            <li><a href="shop.html">Sagittis Eget</a></li>
+                                            <li><a href="shop.php">Sagittis Eget</a></li>
+                                            <li><a href="shop.php">Sagittis Eget</a></li>
                                         </ul>
                                         <!-- category submenu end-->
                                     </li>
-                                    <li><a href="shop.html"><span><img src="img/vertical-menu/3.png" alt="menu-icon"></span>Sports & Outdoors<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li><a href="shop.php"><span><img src="img/vertical-menu/3.png" alt="menu-icon"></span>Sports & Outdoors<i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu first-megamenu">
                                             <!-- Single Column Start -->
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Cameras</li>
-                                                    <li><a href="shop.html">Cords and Cables</a></li>
-                                                    <li><a href="shop.html">gps accessories</a></li>
-                                                    <li><a href="shop.html">Microphones</a></li>
-                                                    <li><a href="shop.html">Wireless Transmitters</a></li>
+                                                    <li><a href="shop.php">Cords and Cables</a></li>
+                                                    <li><a href="shop.php">gps accessories</a></li>
+                                                    <li><a href="shop.php">Microphones</a></li>
+                                                    <li><a href="shop.php">Wireless Transmitters</a></li>
                                                 </ul>
                                                 <ul>
                                                     <li class="menu-tile">GamePad</li>
-                                                    <li><a href="shop.html">real game hd</a></li>
-                                                    <li><a href="shop.html">fighting game</a></li>
-                                                    <li><a href="shop.html">racing pad</a></li>
-                                                    <li><a href="shop.html">puzzle pad</a></li>
+                                                    <li><a href="shop.php">real game hd</a></li>
+                                                    <li><a href="shop.php">fighting game</a></li>
+                                                    <li><a href="shop.php">racing pad</a></li>
+                                                    <li><a href="shop.php">puzzle pad</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
@@ -489,41 +489,41 @@
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Digital Cameras</li>
-                                                    <li><a href="shop.html">Camera one</a></li>
-                                                    <li><a href="shop.html">Camera two</a></li>
-                                                    <li><a href="shop.html">Camera three</a></li>
-                                                    <li><a href="shop.html">Camera four</a></li>
+                                                    <li><a href="shop.php">Camera one</a></li>
+                                                    <li><a href="shop.php">Camera two</a></li>
+                                                    <li><a href="shop.php">Camera three</a></li>
+                                                    <li><a href="shop.php">Camera four</a></li>
                                                 </ul>
                                                 <ul>
                                                     <li class="menu-tile">Virtual Reality</li>
-                                                    <li><a href="shop.html">Reality one</a></li>
-                                                    <li><a href="shop.html">Reality two</a></li>
-                                                    <li><a href="shop.html">Reality three</a></li>
-                                                    <li><a href="shop.html">Reality four</a></li>
+                                                    <li><a href="shop.php">Reality one</a></li>
+                                                    <li><a href="shop.php">Reality two</a></li>
+                                                    <li><a href="shop.php">Reality three</a></li>
+                                                    <li><a href="shop.php">Reality four</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
                                             <!-- Single Megamenu Image Start -->
                                             <li class="megamenu-img">
-                                                <a href="shop.html"><img src="img/vertical-menu/sub-img1.jpg" alt="menu-image"></a>
-                                                <a href="shop.html"><img src="img/vertical-menu/sub-img2.jpg" alt="menu-image"></a>
-                                                <a href="shop.html"><img src="img/vertical-menu/sub-img3.jpg" alt="menu-image"></a>
+                                                <a href="shop.php"><img src="img/vertical-menu/sub-img1.jpg" alt="menu-image"></a>
+                                                <a href="shop.php"><img src="img/vertical-menu/sub-img2.jpg" alt="menu-image"></a>
+                                                <a href="shop.php"><img src="img/vertical-menu/sub-img3.jpg" alt="menu-image"></a>
                                             </li>
                                             <!-- Single Megamenu Image End -->
                                         </ul>
                                         <!-- Vertical Mega-Menu End -->
                                     </li>
-                                    <li><a href="shop.html"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>Fashion<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>Fashion<i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu megamenu-two">
                                             <!-- Single Column Start -->
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Men’s Fashion</li>
-                                                    <li><a href="shop.html">Blazers</a></li>
-                                                    <li><a href="shop.html">Boots</a></li>
-                                                    <li><a href="shop.html">pants</a></li>
-                                                    <li><a href="shop.html">Tops & Tees</a></li>
+                                                    <li><a href="shop.php">Blazers</a></li>
+                                                    <li><a href="shop.php">Boots</a></li>
+                                                    <li><a href="shop.php">pants</a></li>
+                                                    <li><a href="shop.php">Tops & Tees</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
@@ -531,27 +531,27 @@
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.html">Bags</a></li>
-                                                    <li><a href="shop.html">Bottoms</a></li>
-                                                    <li><a href="shop.html">Shirts</a></li>
-                                                    <li><a href="shop.html">Tailored</a></li>
+                                                    <li><a href="shop.php">Bags</a></li>
+                                                    <li><a href="shop.php">Bottoms</a></li>
+                                                    <li><a href="shop.php">Shirts</a></li>
+                                                    <li><a href="shop.php">Tailored</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
                                         </ul>
                                         <!-- Vertical Mega-Menu End -->
                                     </li>
-                                    <li><a href="shop.html"><span><img src="img/vertical-menu/7.png" alt="menu-icon"></span>Home & Kitchen<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li><a href="shop.php"><span><img src="img/vertical-menu/7.png" alt="menu-icon"></span>Home & Kitchen<i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu megamenu-two">
                                             <!-- Single Column Start -->
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Large Appliances</li>
-                                                    <li><a href="shop.html">Armchairs</a></li>
-                                                    <li><a href="shop.html">Bunk Bed</a></li>
-                                                    <li><a href="shop.html">Mattress</a></li>
-                                                    <li><a href="shop.html">Sideboard</a></li>
+                                                    <li><a href="shop.php">Armchairs</a></li>
+                                                    <li><a href="shop.php">Bunk Bed</a></li>
+                                                    <li><a href="shop.php">Mattress</a></li>
+                                                    <li><a href="shop.php">Sideboard</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
@@ -559,17 +559,17 @@
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Small Appliances</li>
-                                                    <li><a href="shop.html">Bootees Bags</a></li>
-                                                    <li><a href="shop.html">Jackets</a></li>
-                                                    <li><a href="shop.html">Shelf</a></li>
-                                                    <li><a href="shop.html">Shoes</a></li>
+                                                    <li><a href="shop.php">Bootees Bags</a></li>
+                                                    <li><a href="shop.php">Jackets</a></li>
+                                                    <li><a href="shop.php">Shelf</a></li>
+                                                    <li><a href="shop.php">Shoes</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
                                         </ul>
                                         <!-- Vertical Mega-Menu End --> 
                                     </li>
-                                    <li><a href="shop.html"><span><img src="img/vertical-menu/4.png" alt="menu-icon"></span>Phones & Tablets<i class="fa fa-angle-right" aria-hidden="true"></i>
+                                    <li><a href="shop.php"><span><img src="img/vertical-menu/4.png" alt="menu-icon"></span>Phones & Tablets<i class="fa fa-angle-right" aria-hidden="true"></i>
                                     </a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu megamenu-two">
@@ -577,10 +577,10 @@
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Tablet</li>
-                                                    <li><a href="shop.html">tablet one</a></li>
-                                                    <li><a href="shop.html">tablet two</a></li>
-                                                    <li><a href="shop.html">tablet three</a></li>
-                                                    <li><a href="shop.html">tablet four</a></li>
+                                                    <li><a href="shop.php">tablet one</a></li>
+                                                    <li><a href="shop.php">tablet two</a></li>
+                                                    <li><a href="shop.php">tablet three</a></li>
+                                                    <li><a href="shop.php">tablet four</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
@@ -588,27 +588,27 @@
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Smartphone</li>
-                                                    <li><a href="shop.html">phone one</a></li>
-                                                    <li><a href="shop.html">phone two</a></li>
-                                                    <li><a href="shop.html">phone three</a></li>
-                                                    <li><a href="shop.html">phone four</a></li>
+                                                    <li><a href="shop.php">phone one</a></li>
+                                                    <li><a href="shop.php">phone two</a></li>
+                                                    <li><a href="shop.php">phone three</a></li>
+                                                    <li><a href="shop.php">phone four</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
                                         </ul>
                                         <!-- Vertical Mega-Menu End -->
                                     </li>
-                                    <li><a href="shop.html"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>TV & Video<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>TV & Video<i class="fa fa-angle-right" aria-hidden="true"></i></a>
                                         <!-- Vertical Mega-Menu Start -->
                                         <ul class="ht-dropdown megamenu megamenu-two">
                                             <!-- Single Column Start -->
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Gaming Desktops</li>
-                                                    <li><a href="shop.html">Alpha Desktop</a></li>
-                                                    <li><a href="shop.html">rober Desktop</a></li>
-                                                    <li><a href="shop.html">Ultra Desktop </a></li>
-                                                    <li><a href="shop.html">beta desktop</a></li>
+                                                    <li><a href="shop.php">Alpha Desktop</a></li>
+                                                    <li><a href="shop.php">rober Desktop</a></li>
+                                                    <li><a href="shop.php">Ultra Desktop </a></li>
+                                                    <li><a href="shop.php">beta desktop</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
@@ -616,27 +616,27 @@
                                             <li class="single-megamenu">
                                                 <ul>
                                                     <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.html">3D-Capable</a></li>
-                                                    <li><a href="shop.html">Clearance</a></li>
-                                                    <li><a href="shop.html">Free Shipping Eligible</a></li>
-                                                    <li><a href="shop.html">On Sale</a></li>
+                                                    <li><a href="shop.php">3D-Capable</a></li>
+                                                    <li><a href="shop.php">Clearance</a></li>
+                                                    <li><a href="shop.php">Free Shipping Eligible</a></li>
+                                                    <li><a href="shop.php">On Sale</a></li>
                                                 </ul>
                                             </li>
                                             <!-- Single Column End -->
                                         </ul>
                                         <!-- Vertical Mega-Menu End -->
                                     </li>
-                                     <li><a href="shop.html"><span><img src="img/vertical-menu/5.png" alt="menu-icon"></span>Beauty</a>
+                                     <li><a href="shop.php"><span><img src="img/vertical-menu/5.png" alt="menu-icon"></span>Beauty</a>
                                     </li>
-                                    <li><a href="shop.html"><span><img src="img/vertical-menu/8.png" alt="menu-icon"></span>Fruits & Veggies</a></li>
-                                    <li><a href="shop.html"><span><img src="img/vertical-menu/9.png" alt="menu-icon"></span>Computer & Laptop</a></li>
-                                    <li><a href="shop.html"><span><img src="img/vertical-menu/10.png" alt="menu-icon"></span>Meat & Seafood</a></li>
+                                    <li><a href="shop.php"><span><img src="img/vertical-menu/8.png" alt="menu-icon"></span>Fruits & Veggies</a></li>
+                                    <li><a href="shop.php"><span><img src="img/vertical-menu/9.png" alt="menu-icon"></span>Computer & Laptop</a></li>
+                                    <li><a href="shop.php"><span><img src="img/vertical-menu/10.png" alt="menu-icon"></span>Meat & Seafood</a></li>
                                     <!-- More Categoies Start -->
                                     <li id="cate-toggle" class="category-menu v-cat-menu">
                                         <ul>
                                             <li class="has-sub"><a href="#">More Categories</a>
                                                 <ul class="category-sub">
-                                                    <li><a href="shop.html"><span><img src="img/vertical-menu/11.png" alt="menu-icon"></span>Accessories</a></li>
+                                                    <li><a href="shop.php"><span><img src="img/vertical-menu/11.png" alt="menu-icon"></span>Accessories</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -652,8 +652,8 @@
                         <div class="slider-wrapper theme-default">
                             <!-- Slider Background  Image Start-->
                             <div id="slider" class="nivoSlider">
-                                <a href="shop.html"><img src="img/slider/4.jpg" data-thumb="img/slider/1.jpg" alt="" title="#htmlcaption" /></a>
-                                <a href="shop.html"><img src="img/slider/3.jpg" data-thumb="img/slider/2.jpg" alt="" title="#htmlcaption2" /></a>
+                                <a href="shop.php"><img src="img/slider/4.jpg" data-thumb="img/slider/1.jpg" alt="" title="#htmlcaption" /></a>
+                                <a href="shop.php"><img src="img/slider/3.jpg" data-thumb="img/slider/2.jpg" alt="" title="#htmlcaption2" /></a>
                             </div>
                             <!-- Slider Background  Image Start-->
                         </div>
@@ -689,7 +689,7 @@
                     <div class="single-product">
                         <!-- Product Image Start -->
                         <div class="pro-img">
-                            <a href="product.html">
+                            <a href="product.php">
                                 <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                             </a>
@@ -700,17 +700,17 @@
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                 <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                             </div>
                             <div class="pro-actions">
                                 <div class="actions-primary">
-                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                 </div>
                                 <div class="actions-secondary">
-                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                 </div>
                             </div>
                         </div>
@@ -721,7 +721,7 @@
                     <div class="single-product">
                         <!-- Product Image Start -->
                         <div class="pro-img">
-                            <a href="product.html">
+                            <a href="product.php">
                                 <img class="primary-img" src="img/products/24.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
                             </a>
@@ -732,17 +732,17 @@
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.html">Light Inverted Pendant Quick</a></h4>
+                                <h4><a href="product.php">Light Inverted Pendant Quick</a></h4>
                                 <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                             </div>
                             <div class="pro-actions">
                                 <div class="actions-primary">
-                                    <a href="cart.html" title="Add to Cart">+ Add To Cart</a>
+                                    <a href="cart.php" title="Add to Cart">+ Add To Cart</a>
                                 </div>
                                 <div class="actions-secondary">
-                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                 </div>
                             </div>
                         </div>
@@ -753,7 +753,7 @@
                     <div class="single-product">
                         <!-- Product Image Start -->
                         <div class="pro-img">
-                            <a href="product.html">
+                            <a href="product.php">
                                 <img class="primary-img" src="img/products/42.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
                             </a>
@@ -764,17 +764,17 @@
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.html">Terra Xpress HE Cooking </a></h4>
+                                <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
                                 <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                 <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                             </div>
                             <div class="pro-actions">
                                 <div class="actions-primary">
-                                    <a href="cart.html" title="Add to Cart">+ Add To Cart</a>
+                                    <a href="cart.php" title="Add to Cart">+ Add To Cart</a>
                                 </div>
                                 <div class="actions-secondary">
-                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                 </div>
                             </div>
                         </div>
@@ -786,7 +786,7 @@
                     <div class="single-product">
                         <!-- Product Image Start -->
                         <div class="pro-img">
-                            <a href="product.html">
+                            <a href="product.php">
                                 <img class="primary-img" src="img/products/30.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/31.jpg" alt="single-product">
                             </a>
@@ -797,17 +797,17 @@
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.html">Calandiva Wrapped 12cm</a></h4>
+                                <h4><a href="product.php">Calandiva Wrapped 12cm</a></h4>
                                 <p><span class="price">$188.45</span><del class="prev-price">$190.50</del></p>
                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                             </div>
                             <div class="pro-actions">
                                 <div class="actions-primary">
-                                    <a href="cart.html" title="Add to Cart">+ Add To Cart</a>
+                                    <a href="cart.php" title="Add to Cart">+ Add To Cart</a>
                                 </div>
                                 <div class="actions-secondary">
-                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                 </div>
                             </div>
                         </div>
@@ -818,7 +818,7 @@
                     <div class="single-product">
                         <!-- Product Image Start -->
                         <div class="pro-img">
-                            <a href="product.html">
+                            <a href="product.php">
                                 <img class="primary-img" src="img/products/8.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
                             </a>
@@ -829,17 +829,17 @@
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.html">Gpoly and Bark Eames Styl...</a></h4>
+                                <h4><a href="product.php">Gpoly and Bark Eames Styl...</a></h4>
                                 <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                 <div class="label-product l_sale">10<span class="symbol-percent">%</span></div>
                             </div>
                             <div class="pro-actions">
                                 <div class="actions-primary">
-                                    <a href="cart.html" title="Add to Cart">+ Add To Cart</a>
+                                    <a href="cart.php" title="Add to Cart">+ Add To Cart</a>
                                 </div>
                                 <div class="actions-secondary">
-                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                 </div>
                             </div>
                         </div>
@@ -851,7 +851,7 @@
                     <div class="single-product">
                         <!-- Product Image Start -->
                         <div class="pro-img">
-                            <a href="product.html">
+                            <a href="product.php">
                                 <img class="primary-img" src="img/products/10.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/11.jpg" alt="single-product">
                             </a>
@@ -862,17 +862,17 @@
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                 <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                 <div class="label-product l_sale">37<span class="symbol-percent">%</span></div>
                             </div>
                             <div class="pro-actions">
                                 <div class="actions-primary">
-                                    <a href="cart.html" title="Add to Cart">+ Add To Cart</a>
+                                    <a href="cart.php" title="Add to Cart">+ Add To Cart</a>
                                 </div>
                                 <div class="actions-secondary">
-                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                 </div>
                             </div>
                         </div>
@@ -977,7 +977,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                 </a>
@@ -987,7 +987,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$188.45</span><del class="prev-price">$190.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -1007,7 +1007,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                                     </a>
@@ -1017,17 +1017,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Work Lamp Silver Proin</a></h4>
+                                                        <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
                                                         <p><span class="price">$320.45</span><del class="prev-price">$400.50</del></p>
                                                         <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1039,7 +1039,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                                     </a>
@@ -1049,17 +1049,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                         <p><span class="price">$150.30</span><del class="prev-price">$175.50</del></p>
                                                         <div class="label-product l_sale">10<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1075,7 +1075,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                                     </a>
@@ -1085,17 +1085,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1107,7 +1107,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/8.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
                                                     </a>
@@ -1117,17 +1117,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Eames and Bark  Style</a></h4>
+                                                        <h4><a href="product.php">Eames and Bark  Style</a></h4>
                                                         <p><span class="price">$180.45</span><del class="prev-price">$200.50</del></p>
                                                         <div class="label-product l_sale">18<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1143,7 +1143,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                                     </a>
@@ -1153,17 +1153,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Eames and Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Eames and Vortex Side</a></h4>
                                                         <p><span class="price">$160.45</span><del class="prev-price">$190.50</del></p>
                                                         <div class="label-product l_sale">12<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1175,7 +1175,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/15.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
                                                     </a>
@@ -1185,17 +1185,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark Vortex Side Eames</a></h4>
+                                                        <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
                                                         <p><span class="price">$188.45</span><del class="prev-price">$190.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1211,7 +1211,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/13.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
                                                     </a>
@@ -1221,17 +1221,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1243,7 +1243,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -1253,17 +1253,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1290,7 +1290,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                 </a>
@@ -1300,7 +1300,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -1320,7 +1320,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/42.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
                                                     </a>
@@ -1330,17 +1330,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                        <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1352,7 +1352,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                                     </a>
@@ -1362,17 +1362,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Terra Xpress HE Cooking </a></h4>
+                                                        <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$300.50</del></p>
                                                         <div class="label-product l_sale">25<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1388,7 +1388,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/39.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
                                                     </a>
@@ -1398,17 +1398,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Robert Welch Knife Block</a></h4>
+                                                        <h4><a href="product.php">Robert Welch Knife Block</a></h4>
                                                         <p><span class="price">$100.45</span><del class="prev-price">$150.50</del></p>
                                                         <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1420,7 +1420,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                                     </a>
@@ -1430,17 +1430,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.50</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1456,7 +1456,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/35.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
                                                     </a>
@@ -1466,17 +1466,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark and  Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Bark and  Vortex Side</a></h4>
                                                         <p><span class="price">$69.20</span><del class="prev-price">$145.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1488,7 +1488,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/34.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
                                                     </a>
@@ -1498,17 +1498,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Compary and Bark Vortex Shewe</a></h4>
+                                                        <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1524,7 +1524,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/32.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
                                                     </a>
@@ -1534,17 +1534,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">kallery kids  weare</a></h4>
+                                                        <h4><a href="product.php">kallery kids  weare</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1556,7 +1556,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -1566,17 +1566,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1603,7 +1603,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                 </a>
@@ -1613,7 +1613,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -1633,7 +1633,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                     </a>
@@ -1643,17 +1643,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1665,7 +1665,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/41.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/39.jpg" alt="single-product">
                                                     </a>
@@ -1675,17 +1675,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1701,7 +1701,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                                     </a>
@@ -1711,17 +1711,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1733,7 +1733,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/9.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
                                                     </a>
@@ -1743,17 +1743,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1769,7 +1769,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                                     </a>
@@ -1779,17 +1779,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1801,7 +1801,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                                     </a>
@@ -1811,17 +1811,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1837,7 +1837,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                     </a>
@@ -1847,17 +1847,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1869,7 +1869,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -1879,17 +1879,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1916,7 +1916,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                 </a>
@@ -1926,7 +1926,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -1946,7 +1946,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/17.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                                     </a>
@@ -1956,17 +1956,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Flos Chasen S2 Suspension</a></h4>
+                                                        <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1978,7 +1978,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/19.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
                                                     </a>
@@ -1988,17 +1988,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Country Squire Florist</a></h4>
+                                                        <h4><a href="product.php">Country Squire Florist</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2014,7 +2014,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/20.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
                                                     </a>
@@ -2024,17 +2024,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Concord Fabric Single</a></h4>
+                                                        <h4><a href="product.php">Concord Fabric Single</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2046,7 +2046,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/21.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
                                                     </a>
@@ -2056,17 +2056,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2082,7 +2082,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/23.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
                                                     </a>
@@ -2092,17 +2092,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2114,7 +2114,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/24.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
                                                     </a>
@@ -2124,17 +2124,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Vortex and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2150,7 +2150,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/26.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
                                                     </a>
@@ -2160,17 +2160,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark and Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Bark and Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2182,7 +2182,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/28.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
                                                     </a>
@@ -2192,17 +2192,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Electronic and Bark Vortex</a></h4>
+                                                        <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2274,7 +2274,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/2.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/13.jpg" alt="single-product">
                                                 </a>
@@ -2284,7 +2284,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -2304,7 +2304,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                                     </a>
@@ -2314,17 +2314,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Work Lamp Silver Proin</a></h4>
+                                                        <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
                                                         <p><span class="price">$320.45</span><del class="prev-price">$400.50</del></p>
                                                         <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2336,7 +2336,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                                     </a>
@@ -2346,17 +2346,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                         <p><span class="price">$150.30</span><del class="prev-price">$175.50</del></p>
                                                         <div class="label-product l_sale">10<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2372,7 +2372,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                                     </a>
@@ -2382,17 +2382,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2404,7 +2404,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/8.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
                                                     </a>
@@ -2414,17 +2414,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Eames and Bark  Style</a></h4>
+                                                        <h4><a href="product.php">Eames and Bark  Style</a></h4>
                                                         <p><span class="price">$180.45</span><del class="prev-price">$200.50</del></p>
                                                         <div class="label-product l_sale">18<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2440,7 +2440,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                                     </a>
@@ -2450,17 +2450,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Eames and Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Eames and Vortex Side</a></h4>
                                                         <p><span class="price">$160.45</span><del class="prev-price">$190.50</del></p>
                                                         <div class="label-product l_sale">12<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2472,7 +2472,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/15.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
                                                     </a>
@@ -2482,17 +2482,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark Vortex Side Eames</a></h4>
+                                                        <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2508,7 +2508,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/13.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
                                                     </a>
@@ -2518,17 +2518,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2540,7 +2540,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -2550,17 +2550,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2587,7 +2587,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/2.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/13.jpg" alt="single-product">
                                                 </a>
@@ -2597,7 +2597,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -2617,7 +2617,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/42.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
                                                     </a>
@@ -2627,17 +2627,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                        <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2649,7 +2649,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                                     </a>
@@ -2659,17 +2659,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Terra Xpress HE Cooking </a></h4>
+                                                        <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$300.50</del></p>
                                                         <div class="label-product l_sale">25<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2685,7 +2685,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/39.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
                                                     </a>
@@ -2695,17 +2695,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Robert Welch Knife Block</a></h4>
+                                                        <h4><a href="product.php">Robert Welch Knife Block</a></h4>
                                                         <p><span class="price">$100.45</span><del class="prev-price">$150.50</del></p>
                                                         <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2717,7 +2717,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                                     </a>
@@ -2727,17 +2727,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.50</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2753,7 +2753,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/35.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
                                                     </a>
@@ -2763,17 +2763,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark and  Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Bark and  Vortex Side</a></h4>
                                                         <p><span class="price">$69.20</span><del class="prev-price">$145.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2785,7 +2785,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/34.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
                                                     </a>
@@ -2795,17 +2795,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Compary and Bark Vortex Shewe</a></h4>
+                                                        <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2821,7 +2821,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/32.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
                                                     </a>
@@ -2831,17 +2831,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">kallery kids  weare</a></h4>
+                                                        <h4><a href="product.php">kallery kids  weare</a></h4>
                                                         <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2853,7 +2853,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -2863,17 +2863,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2900,7 +2900,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/2.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/13.jpg" alt="single-product">
                                                 </a>
@@ -2910,7 +2910,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -2930,7 +2930,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                     </a>
@@ -2940,17 +2940,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2962,7 +2962,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/41.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/39.jpg" alt="single-product">
                                                     </a>
@@ -2972,17 +2972,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -2998,7 +2998,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                                     </a>
@@ -3008,17 +3008,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3030,7 +3030,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/9.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
                                                     </a>
@@ -3040,17 +3040,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3066,7 +3066,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                                     </a>
@@ -3076,17 +3076,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3098,7 +3098,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                                     </a>
@@ -3108,17 +3108,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3134,7 +3134,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                     </a>
@@ -3144,17 +3144,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3166,7 +3166,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -3176,17 +3176,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3213,7 +3213,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/2.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/13.jpg" alt="single-product">
                                                 </a>
@@ -3223,7 +3223,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -3243,7 +3243,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/17.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                                     </a>
@@ -3253,17 +3253,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Flos Chasen S2 Suspension</a></h4>
+                                                        <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3275,7 +3275,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/19.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
                                                     </a>
@@ -3285,17 +3285,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Country Squire Florist</a></h4>
+                                                        <h4><a href="product.php">Country Squire Florist</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3311,7 +3311,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/20.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
                                                     </a>
@@ -3321,17 +3321,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Concord Fabric Single</a></h4>
+                                                        <h4><a href="product.php">Concord Fabric Single</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3343,7 +3343,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/21.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
                                                     </a>
@@ -3353,17 +3353,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3379,7 +3379,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/23.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
                                                     </a>
@@ -3389,17 +3389,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3411,7 +3411,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/24.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
                                                     </a>
@@ -3421,17 +3421,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Vortex and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3447,7 +3447,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/26.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
                                                     </a>
@@ -3457,17 +3457,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark and Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Bark and Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3479,7 +3479,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/28.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
                                                     </a>
@@ -3489,17 +3489,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Electronic and Bark Vortex</a></h4>
+                                                        <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3571,7 +3571,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                                 </a>
@@ -3581,7 +3581,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$90.45</span><del class="prev-price">$120.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -3601,7 +3601,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                                     </a>
@@ -3611,17 +3611,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Work Lamp Silver Proin</a></h4>
+                                                        <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
                                                         <p><span class="price">$320.45</span><del class="prev-price">$400.50</del></p>
                                                         <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3633,7 +3633,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                                     </a>
@@ -3643,17 +3643,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                         <p><span class="price">$150.30</span><del class="prev-price">$175.50</del></p>
                                                         <div class="label-product l_sale">10<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3669,7 +3669,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                                     </a>
@@ -3679,17 +3679,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3701,7 +3701,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/8.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
                                                     </a>
@@ -3711,17 +3711,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Eames and Bark  Style</a></h4>
+                                                        <h4><a href="product.php">Eames and Bark  Style</a></h4>
                                                         <p><span class="price">$180.45</span><del class="prev-price">$200.50</del></p>
                                                         <div class="label-product l_sale">18<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3737,7 +3737,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                                     </a>
@@ -3747,17 +3747,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Eames and Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Eames and Vortex Side</a></h4>
                                                         <p><span class="price">$160.45</span><del class="prev-price">$190.50</del></p>
                                                         <div class="label-product l_sale">12<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3769,7 +3769,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/15.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
                                                     </a>
@@ -3779,17 +3779,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark Vortex Side Eames</a></h4>
+                                                        <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3805,7 +3805,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/13.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
                                                     </a>
@@ -3815,17 +3815,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3837,7 +3837,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -3847,17 +3847,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3884,7 +3884,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                                 </a>
@@ -3894,7 +3894,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -3914,7 +3914,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/42.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
                                                     </a>
@@ -3924,17 +3924,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                        <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3946,7 +3946,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                                     </a>
@@ -3956,17 +3956,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Terra Xpress HE Cooking </a></h4>
+                                                        <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$300.50</del></p>
                                                         <div class="label-product l_sale">25<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -3982,7 +3982,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/39.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
                                                     </a>
@@ -3992,17 +3992,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Robert Welch Knife Block</a></h4>
+                                                        <h4><a href="product.php">Robert Welch Knife Block</a></h4>
                                                         <p><span class="price">$100.45</span><del class="prev-price">$150.50</del></p>
                                                         <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4014,7 +4014,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                                     </a>
@@ -4024,17 +4024,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.50</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4050,7 +4050,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/35.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
                                                     </a>
@@ -4060,17 +4060,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark and  Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Bark and  Vortex Side</a></h4>
                                                         <p><span class="price">$69.20</span><del class="prev-price">$145.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4082,7 +4082,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/34.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
                                                     </a>
@@ -4092,17 +4092,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Compary and Bark Vortex Shewe</a></h4>
+                                                        <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4118,7 +4118,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/32.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
                                                     </a>
@@ -4128,17 +4128,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">kallery kids  weare</a></h4>
+                                                        <h4><a href="product.php">kallery kids  weare</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4150,7 +4150,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -4160,17 +4160,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4197,7 +4197,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                                 </a>
@@ -4207,7 +4207,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -4227,7 +4227,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                     </a>
@@ -4237,17 +4237,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4259,7 +4259,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/41.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/39.jpg" alt="single-product">
                                                     </a>
@@ -4269,17 +4269,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4295,7 +4295,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                                     </a>
@@ -4305,17 +4305,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4327,7 +4327,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/9.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
                                                     </a>
@@ -4337,17 +4337,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4363,7 +4363,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                                     </a>
@@ -4373,17 +4373,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4395,7 +4395,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                                     </a>
@@ -4405,17 +4405,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4431,7 +4431,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                     </a>
@@ -4441,17 +4441,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4463,7 +4463,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -4473,17 +4473,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4510,7 +4510,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                                 </a>
@@ -4520,7 +4520,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -4540,7 +4540,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/17.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                                     </a>
@@ -4550,17 +4550,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Flos Chasen S2 Suspension</a></h4>
+                                                        <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4572,7 +4572,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/19.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
                                                     </a>
@@ -4582,17 +4582,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Country Squire Florist</a></h4>
+                                                        <h4><a href="product.php">Country Squire Florist</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4608,7 +4608,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/20.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
                                                     </a>
@@ -4618,17 +4618,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Concord Fabric Single</a></h4>
+                                                        <h4><a href="product.php">Concord Fabric Single</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4640,7 +4640,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/21.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
                                                     </a>
@@ -4650,17 +4650,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4676,7 +4676,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/23.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
                                                     </a>
@@ -4686,17 +4686,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4708,7 +4708,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/24.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
                                                     </a>
@@ -4718,17 +4718,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Vortex and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4744,7 +4744,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/26.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
                                                     </a>
@@ -4754,17 +4754,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark and Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Bark and Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4776,7 +4776,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/28.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
                                                     </a>
@@ -4786,17 +4786,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Electronic and Bark Vortex</a></h4>
+                                                        <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4868,7 +4868,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                                 </a>
@@ -4878,7 +4878,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -4898,7 +4898,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                                     </a>
@@ -4908,17 +4908,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Work Lamp Silver Proin</a></h4>
+                                                        <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
                                                         <p><span class="price">$320.45</span><del class="prev-price">$400.50</del></p>
                                                         <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4930,7 +4930,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                                     </a>
@@ -4940,17 +4940,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                         <p><span class="price">$150.30</span><del class="prev-price">$175.50</del></p>
                                                         <div class="label-product l_sale">10<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4966,7 +4966,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                                     </a>
@@ -4976,17 +4976,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -4998,7 +4998,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/8.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
                                                     </a>
@@ -5008,17 +5008,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Eames and Bark  Style</a></h4>
+                                                        <h4><a href="product.php">Eames and Bark  Style</a></h4>
                                                         <p><span class="price">$180.45</span><del class="prev-price">$200.50</del></p>
                                                         <div class="label-product l_sale">18<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5034,7 +5034,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                                     </a>
@@ -5044,17 +5044,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Eames and Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Eames and Vortex Side</a></h4>
                                                         <p><span class="price">$160.45</span><del class="prev-price">$190.50</del></p>
                                                         <div class="label-product l_sale">12<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5066,7 +5066,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/15.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
                                                     </a>
@@ -5076,17 +5076,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark Vortex Side Eames</a></h4>
+                                                        <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5102,7 +5102,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/13.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
                                                     </a>
@@ -5112,17 +5112,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5134,7 +5134,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -5144,17 +5144,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5181,7 +5181,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                                 </a>
@@ -5191,7 +5191,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -5211,7 +5211,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/42.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
                                                     </a>
@@ -5221,17 +5221,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                        <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5243,7 +5243,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                                     </a>
@@ -5253,17 +5253,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Terra Xpress HE Cooking </a></h4>
+                                                        <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$300.50</del></p>
                                                         <div class="label-product l_sale">25<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5279,7 +5279,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/39.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
                                                     </a>
@@ -5289,17 +5289,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Robert Welch Knife Block</a></h4>
+                                                        <h4><a href="product.php">Robert Welch Knife Block</a></h4>
                                                         <p><span class="price">$100.45</span><del class="prev-price">$150.50</del></p>
                                                         <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5311,7 +5311,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                                     </a>
@@ -5321,17 +5321,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$90.50</span><del class="prev-price">$120.50</del></p>
                                                         <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5347,7 +5347,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/35.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
                                                     </a>
@@ -5357,17 +5357,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark and  Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Bark and  Vortex Side</a></h4>
                                                         <p><span class="price">$69.20</span><del class="prev-price">$145.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5379,7 +5379,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/34.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
                                                     </a>
@@ -5389,17 +5389,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Compary and Bark Vortex Shewe</a></h4>
+                                                        <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5415,7 +5415,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/32.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
                                                     </a>
@@ -5425,17 +5425,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">kallery kids  weare</a></h4>
+                                                        <h4><a href="product.php">kallery kids  weare</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5447,7 +5447,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -5457,17 +5457,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5494,7 +5494,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                                 </a>
@@ -5504,7 +5504,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -5524,7 +5524,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                     </a>
@@ -5534,17 +5534,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5556,7 +5556,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/41.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/39.jpg" alt="single-product">
                                                     </a>
@@ -5566,17 +5566,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5592,7 +5592,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                                     </a>
@@ -5602,17 +5602,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5624,7 +5624,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/9.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
                                                     </a>
@@ -5634,17 +5634,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5660,7 +5660,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                                     </a>
@@ -5670,17 +5670,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5692,7 +5692,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                                     </a>
@@ -5702,17 +5702,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5728,7 +5728,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                                     </a>
@@ -5738,17 +5738,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5760,7 +5760,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                                     </a>
@@ -5770,17 +5770,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5807,7 +5807,7 @@
                                         <div class="single-product mt-20">
                                             <!-- Product Image Start -->
                                             <div class="pro-img">
-                                                <a href="product.html">
+                                                <a href="product.php">
                                                     <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                                     <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                                 </a>
@@ -5817,7 +5817,7 @@
                                             <!-- Product Content Start -->
                                             <div class="pro-content">
                                                 <div class="pro-info">
-                                                    <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                                    <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                                     <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                     <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
@@ -5837,7 +5837,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/17.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                                     </a>
@@ -5847,17 +5847,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Flos Chasen S2 Suspension</a></h4>
+                                                        <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
                                                         <p><span class="price">$99.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5869,7 +5869,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/19.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
                                                     </a>
@@ -5879,17 +5879,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Country Squire Florist</a></h4>
+                                                        <h4><a href="product.php">Country Squire Florist</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5905,7 +5905,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/20.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
                                                     </a>
@@ -5915,17 +5915,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Concord Fabric Single</a></h4>
+                                                        <h4><a href="product.php">Concord Fabric Single</a></h4>
                                                         <p><span class="price">$99.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5937,7 +5937,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/21.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
                                                     </a>
@@ -5947,17 +5947,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -5973,7 +5973,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/23.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
                                                     </a>
@@ -5983,17 +5983,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                         <p><span class="price">$99.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -6005,7 +6005,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/24.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
                                                     </a>
@@ -6015,17 +6015,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Vortex and Bark Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -6041,7 +6041,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/26.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
                                                     </a>
@@ -6051,17 +6051,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Bark and Vortex Side</a></h4>
+                                                        <h4><a href="product.php">Bark and Vortex Side</a></h4>
                                                         <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -6073,7 +6073,7 @@
                                             <div class="single-product">
                                                 <!-- Product Image Start -->
                                                 <div class="pro-img">
-                                                    <a href="product.html">
+                                                    <a href="product.php">
                                                         <img class="primary-img" src="img/products/28.jpg" alt="single-product">
                                                         <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
                                                     </a>
@@ -6083,17 +6083,17 @@
                                                 <!-- Product Content Start -->
                                                 <div class="pro-content">
                                                     <div class="pro-info">
-                                                        <h4><a href="product.html">Electronic and Bark Vortex</a></h4>
+                                                        <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
                                                         <p><span class="price">$100.45</span><del class="prev-price">$115.50</del></p>
                                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                     </div>
                                                     <div class="pro-actions">
                                                         <div class="actions-primary">
-                                                            <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                         </div>
                                                         <div class="actions-secondary">
-                                                            <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                            <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -6161,7 +6161,7 @@
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
-                                            <a href="product.html">
+                                            <a href="product.php">
                                                 <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                 <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                             </a>
@@ -6171,16 +6171,16 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.html">Work Lamp Silver Proin</a></h4>
+                                                <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
                                                 <p><span class="price">$320.45</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
-                                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                 </div>
                                                 <div class="actions-secondary">
-                                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -6191,7 +6191,7 @@
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
-                                            <a href="product.html">
+                                            <a href="product.php">
                                                 <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                                 <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                             </a>
@@ -6201,16 +6201,16 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                                <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                                 <p><span class="price">$150.30</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
-                                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                 </div>
                                                 <div class="actions-secondary">
-                                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -6221,7 +6221,7 @@
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
-                                            <a href="product.html">
+                                            <a href="product.php">
                                                 <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                                 <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                             </a>
@@ -6231,16 +6231,16 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                 <p><span class="price">$150.45</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
-                                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                 </div>
                                                 <div class="actions-secondary">
-                                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -6251,7 +6251,7 @@
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
-                                            <a href="product.html">
+                                            <a href="product.php">
                                                 <img class="primary-img" src="img/products/8.jpg" alt="single-product">
                                                 <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
                                             </a>
@@ -6261,16 +6261,16 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.html">Eames and Bark  Style</a></h4>
+                                                <h4><a href="product.php">Eames and Bark  Style</a></h4>
                                                 <p><span class="price">$180.45</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
-                                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                 </div>
                                                 <div class="actions-secondary">
-                                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -6281,7 +6281,7 @@
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
-                                            <a href="product.html">
+                                            <a href="product.php">
                                                 <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                                 <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                             </a>
@@ -6291,16 +6291,16 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.html">Eames and Vortex Side</a></h4>
+                                                <h4><a href="product.php">Eames and Vortex Side</a></h4>
                                                 <p><span class="price">$160.45</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
-                                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                 </div>
                                                 <div class="actions-secondary">
-                                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -6311,7 +6311,7 @@
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
-                                            <a href="product.html">
+                                            <a href="product.php">
                                                 <img class="primary-img" src="img/products/15.jpg" alt="single-product">
                                                 <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
                                             </a>
@@ -6321,16 +6321,16 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.html">Bark Vortex Side Eames</a></h4>
+                                                <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
                                                 <p><span class="price">$84.45</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
-                                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                 </div>
                                                 <div class="actions-secondary">
-                                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -6341,7 +6341,7 @@
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
-                                            <a href="product.html">
+                                            <a href="product.php">
                                                 <img class="primary-img" src="img/products/13.jpg" alt="single-product">
                                                 <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
                                             </a>
@@ -6351,16 +6351,16 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                 <p><span class="price">$95.45</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
-                                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                 </div>
                                                 <div class="actions-secondary">
-                                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -6371,7 +6371,7 @@
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
-                                            <a href="product.html">
+                                            <a href="product.php">
                                                 <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                                 <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                             </a>
@@ -6381,16 +6381,16 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                                 <p><span class="price">$84.45</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
-                                                    <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                                 </div>
                                                 <div class="actions-secondary">
-                                                    <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -6408,7 +6408,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/42.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
                                         </a>
@@ -6418,16 +6418,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Utensils and Knives Block</a></h4>
+                                            <h4><a href="product.php">Utensils and Knives Block</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6438,7 +6438,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/40.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
                                         </a>
@@ -6448,16 +6448,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Terra Xpress HE Cooking </a></h4>
+                                            <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
                                             <p><span class="price">$63.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6468,7 +6468,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/39.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
                                         </a>
@@ -6478,16 +6478,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Robert Welch Knife Block</a></h4>
+                                            <h4><a href="product.php">Robert Welch Knife Block</a></h4>
                                             <p><span class="price">$100.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6498,7 +6498,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/36.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
                                         </a>
@@ -6508,16 +6508,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$90.50</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6528,7 +6528,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/35.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
                                         </a>
@@ -6538,16 +6538,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Bark and  Vortex Side</a></h4>
+                                            <h4><a href="product.php">Bark and  Vortex Side</a></h4>
                                             <p><span class="price">$69.20</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6558,7 +6558,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/34.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
                                         </a>
@@ -6568,16 +6568,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Compary and Bark Vortex Shewe</a></h4>
+                                            <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6588,7 +6588,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/32.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
                                         </a>
@@ -6598,16 +6598,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">kallery kids  weare</a></h4>
+                                            <h4><a href="product.php">kallery kids  weare</a></h4>
                                             <p><span class="price">$98.50</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6618,7 +6618,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                                         </a>
@@ -6628,16 +6628,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6655,7 +6655,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/43.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
                                         </a>
@@ -6665,16 +6665,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6685,7 +6685,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/41.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/39.jpg" alt="single-product">
                                         </a>
@@ -6695,16 +6695,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6715,7 +6715,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/5.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                         </a>
@@ -6725,16 +6725,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6745,7 +6745,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/9.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
                                         </a>
@@ -6755,16 +6755,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6775,7 +6775,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/11.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
                                         </a>
@@ -6785,16 +6785,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6805,7 +6805,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/3.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
                                         </a>
@@ -6815,16 +6815,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6842,7 +6842,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/17.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                         </a>
@@ -6852,16 +6852,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Flos Chasen S2 Suspension</a></h4>
+                                            <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6872,7 +6872,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/19.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
                                         </a>
@@ -6882,16 +6882,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Country Squire Florist</a></h4>
+                                            <h4><a href="product.php">Country Squire Florist</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6902,7 +6902,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/20.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
                                         </a>
@@ -6912,16 +6912,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Concord Fabric Single</a></h4>
+                                            <h4><a href="product.php">Concord Fabric Single</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6932,7 +6932,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/21.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
                                         </a>
@@ -6942,16 +6942,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Poly and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6962,7 +6962,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/23.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
                                         </a>
@@ -6972,16 +6972,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Gpoly and Bark Eames Style</a></h4>
+                                            <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -6992,7 +6992,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/24.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
                                         </a>
@@ -7002,16 +7002,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Vortex and Bark Vortex Side</a></h4>
+                                            <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -7022,7 +7022,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/26.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
                                         </a>
@@ -7032,16 +7032,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Bark and Vortex Side</a></h4>
+                                            <h4><a href="product.php">Bark and Vortex Side</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -7052,7 +7052,7 @@
                                 <div class="single-product">
                                     <!-- Product Image Start -->
                                     <div class="pro-img">
-                                        <a href="product.html">
+                                        <a href="product.php">
                                             <img class="primary-img" src="img/products/28.jpg" alt="single-product">
                                             <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
                                         </a>
@@ -7062,16 +7062,16 @@
                                     <!-- Product Content Start -->
                                     <div class="pro-content">
                                         <div class="pro-info">
-                                            <h4><a href="product.html">Electronic and Bark Vortex</a></h4>
+                                            <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
                                             <p><span class="price">$84.45</span></p>
                                         </div>
                                         <div class="pro-actions">
                                             <div class="actions-primary">
-                                                <a href="cart.html" title="Add to Cart"> + Add To Cart</a>
+                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
                                             </div>
                                             <div class="actions-secondary">
-                                                <a href="compare.html" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.html" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
+                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
                                             </div>
                                         </div>
                                     </div>
@@ -7100,15 +7100,15 @@
                    <!-- Single Blog Start -->
                    <div class="single-latest-blog">
                        <div class="blog-img">
-                           <a href="single-blog.html"><img src="img/blog/1.jpg" alt="blog-image"></a>
+                           <a href="single-blog.php"><img src="img/blog/1.jpg" alt="blog-image"></a>
                        </div>
                        <div class="blog-desc">
-                           <h4><a href="single-blog.html">At wisi enim ad minim veniam.</a></h4>
+                           <h4><a href="single-blog.php">At wisi enim ad minim veniam.</a></h4>
                             <ul class="meta-box d-flex">
                                 <li><a href="#">By Truemart</a></li>
                             </ul>
                             <p>Aenean vestibulum pretium enim vitae , non commodo urna volutpat . Pellentesque vel lacus  eget est d...</p>
-                            <a  class="readmore" href="single-blog.html">Read More</a>
+                            <a  class="readmore" href="single-blog.php">Read More</a>
                        </div>
                        <div class="blog-date">
                             <span>28</span>
@@ -7119,15 +7119,15 @@
                    <!-- Single Blog Start -->
                    <div class="single-latest-blog">
                        <div class="blog-img">
-                           <a href="single-blog.html"><img src="img/blog/2.jpg" alt="blog-image"></a>
+                           <a href="single-blog.php"><img src="img/blog/2.jpg" alt="blog-image"></a>
                        </div>
                        <div class="blog-desc">
-                           <h4><a href="single-blog.html">Dt wisi enim ad minim veniam.</a></h4>
+                           <h4><a href="single-blog.php">Dt wisi enim ad minim veniam.</a></h4>
                             <ul class="meta-box d-flex">
                                 <li><a href="#">By Truemart</a></li>
                             </ul>
                             <p>Aenean vestibulum pretium enim vitae , non commodo urna volutpat . Pellentesque vel lacus  eget est d...</p>
-                            <a  class="readmore" href="single-blog.html">Read More</a>
+                            <a  class="readmore" href="single-blog.php">Read More</a>
                        </div>
                        <div class="blog-date">
                             <span>28</span>
@@ -7138,15 +7138,15 @@
                    <!-- Single Blog Start -->
                    <div class="single-latest-blog">
                        <div class="blog-img">
-                           <a href="single-blog.html"><img src="img/blog/1.jpg" alt="blog-image"></a>
+                           <a href="single-blog.php"><img src="img/blog/1.jpg" alt="blog-image"></a>
                        </div>
                        <div class="blog-desc">
-                           <h4><a href="single-blog.html">At wisi enim ad minim veniam.</a></h4>
+                           <h4><a href="single-blog.php">At wisi enim ad minim veniam.</a></h4>
                             <ul class="meta-box d-flex">
                                 <li><a href="#">By Truemart</a></li>
                             </ul>
                             <p>Aenean vestibulum pretium enim vitae , non commodo urna volutpat . Pellentesque vel lacus  eget est d...</p>
-                            <a  class="readmore" href="single-blog.html">Read More</a>
+                            <a  class="readmore" href="single-blog.php">Read More</a>
                        </div>
                        <div class="blog-date">
                             <span>28</span>
@@ -7157,15 +7157,15 @@
                    <!-- Single Blog Start -->
                    <div class="single-latest-blog">
                        <div class="blog-img">
-                           <a href="single-blog.html"><img src="img/blog/2.jpg" alt="blog-image"></a>
+                           <a href="single-blog.php"><img src="img/blog/2.jpg" alt="blog-image"></a>
                        </div>
                        <div class="blog-desc">
-                           <h4><a href="single-blog.html">Dt wisi enim ad minim veniam.</a></h4>
+                           <h4><a href="single-blog.php">Dt wisi enim ad minim veniam.</a></h4>
                             <ul class="meta-box d-flex">
                                 <li><a href="#">By Truemart</a></li>
                             </ul>
                             <p>Aenean vestibulum pretium enim vitae , non commodo urna volutpat . Pellentesque vel lacus  eget est d...</p>
-                            <a  class="readmore" href="single-blog.html">Read More</a>
+                            <a  class="readmore" href="single-blog.php">Read More</a>
                        </div>
                        <div class="blog-date">
                             <span>28</span>
@@ -7345,12 +7345,12 @@
                                 <h3 class="footer-title">Information</h3>
                                 <div class="footer-content">
                                     <ul class="footer-list">
-                                        <li><a href="about.html">About Us</a></li>
+                                        <li><a href="about.php">About Us</a></li>
                                         <li><a href="#">Delivery Information</a></li>
                                         <li><a href="#">Privacy Policy</a></li>
-                                        <li><a href="contact.html">Terms & Conditions</a></li>
-                                        <li><a href="login.html">FAQs</a></li>
-                                        <li><a href="login.html">Return Policy</a></li>
+                                        <li><a href="contact.php">Terms & Conditions</a></li>
+                                        <li><a href="login.php">FAQs</a></li>
+                                        <li><a href="login.php">Return Policy</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -7362,10 +7362,10 @@
                                 <h3 class="footer-title">Customer Service</h3>
                                 <div class="footer-content">
                                     <ul class="footer-list">
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                         <li><a href="#">Returns</a></li>
                                         <li><a href="#">Order History</a></li>
-                                        <li><a href="wishlist.html">Wish List</a></li>
+                                        <li><a href="wishlist.php">Wish List</a></li>
                                         <li><a href="#">Site Map</a></li>
                                         <li><a href="#">Gift Certificates</a></li>
                                     </ul>
@@ -7396,11 +7396,11 @@
                                 <h3 class="footer-title">My Account</h3>
                                 <div class="footer-content">
                                     <ul class="footer-list">
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li><a href="contact.php">Contact Us</a></li>
                                         <li><a href="#">Returns</a></li>
                                         <li><a href="#">My Account</a></li>
                                         <li><a href="#">Order History</a></li>
-                                        <li><a href="wishlist.html">Wish List</a></li>
+                                        <li><a href="wishlist.php">Wish List</a></li>
                                         <li><a href="#">Newsletter</a></li>
                                     </ul>
                                 </div>
@@ -7541,7 +7541,7 @@
                                                 <form action="#">
                                                     <input class="quantity mr-40" type="number" min="1" value="1">
                                                 </form>
-                                                <a class="add-cart" href="cart.html">add to cart</a>
+                                                <a class="add-cart" href="cart.php">add to cart</a>
                                             </div>
                                             <div class="pro-ref mt-15">
                                                 <p><span class="in-stock"><i class="ion-checkmark-round"></i> IN STOCK</span></p>
