@@ -12,7 +12,7 @@ if (isset($_POST['id_nguoiDung']) && isset($_POST['trangThaiND']) ){
 
     echo "<script>alert('".$result."');</script>";
     
-    header("Location: http://localhost/WebC2C/Admin/?viewpage=list-user");
+    header("Location: ../?viewpage=list-user");
     
 }
 //Khóa/Mở người dùng
@@ -26,7 +26,7 @@ if (isset($_POST['matKhauMoi']) && isset($_POST['id_nguoiDung']) ){
 
     echo "<script>alert('".$result."');</script>";
     
-    header("Location: http://localhost/WebC2C/Admin/?viewpage=list-user");
+    header("Location: ../?viewpage=list-user");
     
 }
 //Reset mật khẩu người dùng

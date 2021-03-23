@@ -204,7 +204,7 @@
                             <a class="js-arrow" href="index.php">
                                 <i class="fas fa-tachometer-alt"></i>Trang tổng quan</a>
                         </li>
-                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-user'); ?> has-sub">
+                        <li class="<?php if ( isset($_GET['viewpage'])) $db->ActiveMenuSelected($_GET['viewpage'], 'list-user'); ?> has-sub">
                             <a class="js-arrow" href="#"  >
                                 <i class="fas fa-group"></i>Quản lý người dùng
                                 
