@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>About || Truemart Responsive Html5 Ecommerce Template</title>
+    <title>Thông Tin Cửa Hàng | Web C2C</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicons -->
     <link rel="shortcut icon" href="img/favicon.ico">
@@ -47,17 +47,11 @@
     <!-- Main Wrapper Start Here -->
     <div class="wrapper">
        <!-- Banner Popup Start -->
-        <div class="popup_banner">
-            <span class="popup_off_banner">×</span>
-            <div class="banner_popup_area">
-                    <img src="img/banner/pop-banner.jpg" alt="">
-            </div>
-        </div>
         <!-- Banner Popup End -->        
        <!-- Newsletter Popup Start -->
         <div class="popup_wrapper">
             <div class="test">
-                <span class="popup_off">Close</span>
+                <span class="popup_off">Đóng</span>
                 <div class="subscribe_area text-center mt-60">
                     <h2>Newsletter</h2>
                     <p>Subscribe to the Truemart mailing list to receive updates on new arrivals, special offers and other discount information.</p>
@@ -83,33 +77,33 @@
                     <!-- Header Top Start -->
                     <div class="header-top">
                         <ul>
-                            <li><a href="#">Free Shipping on order over $99</a></li>
-                            <li><a href="#">Shopping Cart</a></li>
-                            <li><a href="checkout.php">Checkout</a></li>
+                            <li><a href="#">Miễn phí giao hàng khi mua trên 500.000 VNĐ</a></li>
+                            <li><a href="#">Giỏ Hàng</a></li>
+                            <li><a href="checkout.php">Thanh Toán</a></li>
                         </ul>
                         <ul>                                          
-                            <li><span>Language</span> <a href="#">English<i class="lnr lnr-chevron-down"></i></a>
+                            <li><span>Ngôn Ngữ: </span> <a href="#">Tiếng Việt<i class="lnr lnr-chevron-down"></i></a>
                                 <!-- Dropdown Start -->
                                 <ul class="ht-dropdown">
-                                    <li><a href="#"><img src="img/header/1.jpg" alt="language-selector">English</a></li>
-                                    <li><a href="#"><img src="img/header/2.jpg" alt="language-selector">Francis</a></li>
+                                    <li><a href="#"><img src="img/header/1.jpg" alt="language-selector">Tiếng Anh</a></li>
+                                    <li><a href="#"><img src="img/header/2.jpg" alt="language-selector">Tiếng Pháp</a></li>
                                 </ul>
                                 <!-- Dropdown End -->
                             </li>
-                            <li><span>Currency</span><a href="#"> USD $ <i class="lnr lnr-chevron-down"></i></a>
+                            <li><span>Hình thức thanh toán: </span><a href="#">Tiền Mặt<i class="lnr lnr-chevron-down"></i></a>
                                 <!-- Dropdown Start -->
                                 <ul class="ht-dropdown">
-                                    <li><a href="#">&#36; USD</a></li>
-                                    <li><a href="#"> € Euro</a></li>
-                                    <li><a href="#">&#163; Pound Sterling</a></li>
+                                    <li><a href="#">Thẻ Visa</a></li>
+                                    <li><a href="#">Thẻ tín dụng</a></li>
+                                    <li><a href="#">Momo</a></li>
                                 </ul>
                                 <!-- Dropdown End -->
                             </li>
-                            <li><a href="#">My Account<i class="lnr lnr-chevron-down"></i></a>
+                            <li><a href="#">Tài Khoản<i class="lnr lnr-chevron-down"></i></a>
                                 <!-- Dropdown Start -->
-                                <ul class="ht-dropdown">
-                                    <li><a href="login.php">Login</a></li>
-                                    <li><a href="register.php">Register</a></li>
+                                <ul class="ht-dropdown" style="right: -70px;">
+                                    <li><a href="login.php">Đăng nhập</a></li>
+                                    <li><a href="register.php">Đăng ký</a></li>
                                 </ul>
                                 <!-- Dropdown End -->
                             </li> 
@@ -135,8 +129,8 @@
                                 <form action="#">
                                     <div class="form-group">
                                         <select class="bootstrap-select" name="poscats">
-                                            <option value="0">All categories</option>
-                                            <option value="2">Arrivals</option>
+                                            <option value="0">Tất cả sản phẩm</option>
+                                            <option value="2">Áo Thun</option>
                                             <option value="3">Cameras</option>
                                             <option value="4">Cords and Cables</option>
                                             <option value="5">gps accessories</option>
@@ -158,13 +152,13 @@
                                             <option value="21">Bootees Bags</option>
                                             <option value="22">Jackets</option>
                                             <option value="23">Shelf</option>
-                                            <option value="24">Shoes</option>
+                                            <option value="24">Giày</option>
                                             <option value="25">Phones &amp; Tablets</option>
                                             <option value="26">Tablet</option>
                                             <option value="27">phones</option>
                                         </select>
                                     </div>
-                                    <input type="text" name="search" placeholder="I’m shopping for...">
+                                    <input type="text" name="search" placeholder="Bạn cần tìm gì ...">
                                     <button><i class="lnr lnr-magnifier"></i></button>
                                 </form>
                             </div>
@@ -174,20 +168,20 @@
                         <div class="col-lg-4 col-md-12">
                             <div class="cart-box mt-all-30">
                                 <ul class="d-flex justify-content-lg-end justify-content-center align-items-center">
-                                    <li><a href="#"><i class="lnr lnr-cart"></i><span class="my-cart"><span class="total-pro">2</span><span>cart</span></span></a>
+                                    <li><a href="#"><i class="lnr lnr-cart"></i><span class="my-cart"><span class="total-pro">2</span><span>Giỏ Hàng</span></span></a>
                                         <ul class="ht-dropdown cart-box-width">
                                             <li>
                                                 <!-- Cart Box Start -->
                                                 <div class="single-cart-box">
                                                     <div class="cart-img">
                                                         <a href="#"><img src="img/products/1.jpg" alt="cart-image"></a>
-                                                        <span class="pro-quantity">1X</span>
+                                                        <span class="pro-quantity">1X</span> <!-- Số lượng sản phẩm-->
                                                     </div>
                                                     <div class="cart-content">
-                                                        <h6><a href="product.php">Printed Summer Red </a></h6>
-                                                        <span class="cart-price">27.45</span>
-                                                        <span>Size: S</span>
-                                                        <span>Color: Yellow</span>
+                                                        <h6><a href="product.php">Áo Thun Nam</a></h6>
+                                                        <span class="cart-price">250.000 VNĐ</span>
+                                                        <span>Kích thước: size S</span>
+                                                        <span>Màu sắc: Trắng</span>
                                                     </div>
                                                     <a class="del-icone" href="#"><i class="ion-close"></i></a>
                                                 </div>
@@ -199,10 +193,10 @@
                                                         <span class="pro-quantity">1X</span>
                                                     </div>
                                                     <div class="cart-content">
-                                                        <h6><a href="product.php">Printed Round Neck</a></h6>
-                                                        <span class="cart-price">45.00</span>
-                                                        <span>Size: XL</span>
-                                                        <span>Color: Green</span>
+                                                        <h6><a href="product.php">Áo Thun Nữ</a></h6>
+                                                        <span class="cart-price">450.000 VNĐ</span>
+                                                        <span>Kích thước: size L</span>
+                                                        <span>Màu sắc: Hồng Nhạt</span>
                                                     </div>
                                                     <a class="del-icone" href="#"><i class="ion-close"></i></a>
                                                 </div>
@@ -210,22 +204,22 @@
                                                 <!-- Cart Footer Inner Start -->
                                                 <div class="cart-footer">
                                                    <ul class="price-content">
-                                                       <li>Subtotal <span>$57.95</span></li>
-                                                       <li>Shipping <span>$7.00</span></li>
-                                                       <li>Taxes <span>$0.00</span></li>
-                                                       <li>Total <span>$64.95</span></li>
+                                                       <li>Tổng Thu: <span>700.000 VNĐ</span></li>
+                                                       <li>Phí Giao Hàng: <span>0 VNĐ</span></li>
+                                                       <li>Phí VAT: <span>0 VNĐ</span></li>
+                                                       <li>Tổng Cộng: <span>700.000 VNĐ</span></li>
                                                    </ul>
                                                     <div class="cart-actions text-center">
-                                                        <a class="cart-checkout" href="checkout.php">Checkout</a>
+                                                        <a class="cart-checkout" href="checkout.php">Thanh Toán</a>
                                                     </div>
                                                 </div>
                                                 <!-- Cart Footer Inner End -->
                                             </li>
                                         </ul>
                                     </li>
-                                    <li><a href="#"><i class="lnr lnr-heart"></i><span class="my-cart"><span>Wish</span><span>list (0)</span></span></a>
+                                    <li><a href="#"><i class="lnr lnr-heart"></i><span class="my-cart"><span>Sản phẩm</span><span>yêu thích (0)</span></span></a>
                                     </li>
-                                    <li><a href="#"><i class="lnr lnr-user"></i><span class="my-cart"><span> <strong>Sign in</strong> Or</span><span> Join My Site</span></span></a>
+                                    <li><a href="#"><i class="lnr lnr-user"></i><span class="my-cart"><span> <strong>Đăng nhập</strong></span><span>Đăng ký</span></span></a>
 
 
 
@@ -245,97 +239,97 @@
                 <div class="container">
                     <div class="row align-items-center">
                          <div class="col-xl-3 col-lg-4 col-md-6 vertical-menu d-none d-lg-block">
-                            <span class="categorie-title">Shop by Categories</span>
+                            <span class="categorie-title">DANH MỤC SẢN PHẨM</span>
                         </div>                       
                         <div class="col-xl-9 col-lg-8 col-md-12 ">
                             <nav class="d-none d-lg-block">
                                 <ul class="header-bottom-list d-flex">
-                                    <li class="active"><a href="index.php">home<i class="fa fa-angle-down"></i></a>
+                                    <li class="active"><a href="index.php">Trang chủ<i class="fa fa-angle-down"></i></a>
                                         <!-- Home Version Dropdown Start -->
                                         <ul class="ht-dropdown">
-                                            <li><a href="index.php">Home Version 1</a></li>
-                                            <li><a href="index-2.php">Home Version 2</a></li>
-                                            <li><a href="index-3.php">Home Version 3</a></li>
-                                            <li><a href="index-4.php">Home Version 4</a></li>
+                                            <li><a href="index.php">Trang chủ 1</a></li>
+                                            <li><a href="index-2.php">Trang chủ 2</a></li>
+                                            <li><a href="index-3.php">Trang chủ 3</a></li>
+                                            <li><a href="index-4.php">Trang chủ 4</a></li>
                                         </ul>
                                         <!-- Home Version Dropdown End -->
                                     </li>
-                                    <li><a href="shop.php">shop<i class="fa fa-angle-down"></i></a>
+                                    <li><a href="shop.php">Cửa hàng<i class="fa fa-angle-down"></i></a>
                                         <!-- Home Version Dropdown Start -->
                                         <ul class="ht-dropdown dropdown-style-two">
-                                            <li><a href="product.php">product details</a></li>
-                                            <li><a href="compare.php">compare</a></li>
-                                            <li><a href="cart.php">cart</a></li>
-                                            <li><a href="checkout.php">checkout</a></li>
-                                            <li><a href="wishlist.php">wishlist</a></li>
+                                            <li><a href="product.php">Chi tiết sản phẩm</a></li>
+                                            <li><a href="compare.php">So sánh</a></li>
+                                            <li><a href="cart.php">Giỏ hàng</a></li>
+                                            <li><a href="checkout.php">Thanh toán</a></li>
+                                            <li><a href="wishlist.php">Sản phẩm yêu thích</a></li>
                                         </ul>
                                         <!-- Home Version Dropdown End -->
                                     </li>
-                                    <li><a href="blog.php">blog<i class="fa fa-angle-down"></i></a>
+                                    <li><a href="blog.php">blog Cá Nhân<i class="fa fa-angle-down"></i></a>
                                         <!-- Home Version Dropdown Start -->
                                         <ul class="ht-dropdown dropdown-style-two">
-                                            <li><a href="single-blog.php">blog details</a></li>
+                                            <li><a href="single-blog.php">blog của chúng tôi</a></li>
                                         </ul>
                                         <!-- Home Version Dropdown End -->
                                     </li>
-                                    <li><a href="#">pages<i class="fa fa-angle-down"></i></a>
+                                    <li><a href="#">Trang<i class="fa fa-angle-down"></i></a>
                                         <!-- Home Version Dropdown Start -->
                                         <ul class="ht-dropdown dropdown-style-two">
-                                            <li><a href="contact.php">contact us</a></li>
-                                            <li><a href="register.php">register</a></li>
-                                            <li><a href="login.php">sign in</a></li>
-                                            <li><a href="forgot-password.php">forgot password</a></li>
-                                            <li><a href="404.php">404</a></li>
+                                            <li><a href="contact.php">Liên hệ với chúng tôi</a></li>
+                                            <li><a href="register.php">Đăng ký</a></li>
+                                            <li><a href="login.php">Đăng nhập</a></li>
+                                            <li><a href="forgot-password.php">Quên mật khẩu</a></li>
+                                            <li><a href="404.php">Lỗi trang ?</a></li>
                                         </ul>
                                         <!-- Home Version Dropdown End -->
                                     </li>
-                                    <li><a href="about.php">About us</a></li>
-                                    <li><a href="contact.php">contact us</a></li>
+                                    <li><a href="about.php">Thông tin cửa hàng</a></li>
+                                    <li><a href="contact.php">Liên hệ với chúng tôi</a></li>
                                 </ul>
                             </nav>
                             <div class="mobile-menu d-block d-lg-none">
                                 <nav>
                                     <ul>
-                                        <li><a href="index.php">home</a>
+                                        <li><a href="index.php">Trang chủ</a>
                                             <!-- Home Version Dropdown Start -->
                                             <ul>
-                                                <li><a href="index.php">Home Version 1</a></li>
-                                                <li><a href="index-2.php">Home Version 2</a></li>
-                                                <li><a href="index-3.php">Home Version 3</a></li>
-                                                <li><a href="index-4.php">Home Version 4</a></li>
+                                                <li><a href="index.php">Trang chủ 1</a></li>
+                                                <li><a href="index-2.php">Trang chủ 2</a></li>
+                                                <li><a href="index-3.php">Trang chủ 3</a></li>
+                                                <li><a href="index-4.php">Trang chủ 4</a></li>
                                             </ul>
                                             <!-- Home Version Dropdown End -->
                                         </li>
-                                        <li><a href="shop.php">shop</a>
+                                        <li><a href="shop.php">Cửa hàng</a>
                                             <!-- Mobile Menu Dropdown Start -->
                                             <ul>
-                                                <li><a href="product.php">product details</a></li>
-                                                <li><a href="compare.php">compare</a></li>
-                                                <li><a href="cart.php">cart</a></li>
-                                                <li><a href="checkout.php">checkout</a></li>
-                                                <li><a href="wishlist.php">wishlist</a></li>
+                                                <li><a href="product.php">Chi tiết sản phầm</a></li>
+                                                <li><a href="compare.php">So sánh</a></li>
+                                                <li><a href="cart.php">Giỏ hàng</a></li>
+                                                <li><a href="checkout.php">Thanh toán</a></li>
+                                                <li><a href="wishlist.php">Sản phẩm yêu thích</a></li>
                                             </ul>
                                             <!-- Mobile Menu Dropdown End -->
                                         </li>
-                                        <li><a href="blog.php">Blog</a>
+                                        <li><a href="blog.php">Blog Cá Nhân</a>
                                             <!-- Mobile Menu Dropdown Start -->
                                             <ul>
-                                                <li><a href="single-blog.php">blog details</a></li>
+                                                <li><a href="single-blog.php">blog của chúng tôi</a></li>
                                             </ul>
                                             <!-- Mobile Menu Dropdown End -->
                                         </li>
-                                        <li><a href="#">pages</a>
+                                        <li><a href="#">Trang</a>
                                             <!-- Mobile Menu Dropdown Start -->
                                             <ul>
-                                                <li><a href="register.php">register</a></li>
-                                                <li><a href="login.php">sign in</a></li>
-                                                <li><a href="forgot-password.php">forgot password</a></li>
-                                                <li><a href="404.php">404</a></li>
+                                                <li><a href="register.php">Đăng ký</a></li>
+                                                <li><a href="login.php">Đăng nhập</a></li>
+                                                <li><a href="forgot-password.php">Quên mật khẩu</a></li>
+                                                <li><a href="404.php">Lỗi trang</a></li>
                                             </ul>
                                             <!-- Mobile Menu Dropdown End -->
                                         </li>
-                                        <li><a href="about.php">about us</a></li>
-                                        <li><a href="contact.php">contact us</a></li>
+                                        <li><a href="about.php">Thông tin cửa hàng</a></li>
+                                        <li><a href="contact.php">Liên hệ với chúng tôi</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -349,7 +343,7 @@
             <!-- Mobile Vertical Menu Start Here -->
             <div class="container d-block d-lg-none">
                 <div class="vertical-menu mt-30">
-                    <span class="categorie-title mobile-categorei-menu">Shop by Categories </span>
+                    <span class="categorie-title mobile-categorei-menu">DANH MỤC SẢN PHẨM</span>
                     <nav>  
                         <div id="cate-mobile-toggle" class="category-menu sidebar-menu sidbar-style mobile-categorei-menu-list menu-hidden ">
                             <ul>
@@ -657,8 +651,8 @@
             <div class="container">
                 <div class="breadcrumb">
                     <ul class="d-flex align-items-center">
-                        <li><a href="index.php">Home</a></li>
-                        <li class="active"><a href="about.php">About Us</a></li>
+                        <li><a href="index.php">Trang Chủ</a></li>
+                        <li class="active"><a href="about.php">Thông Tin Cửa Hàng</a></li>
                     </ul>
                 </div>
             </div>
@@ -676,11 +670,15 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-desc">
-                            <h3 class="mb-10 about-title">About our success story</h3>
-                            <p class="mb-20">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?</p>
-                            <p class="mb-20">Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo volup.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi malesuada vestibulum. Phasellus tempor nunc eleifend cursus molestie. Mauris lectus arcu, pellentesque at sodales sit amet, condimentum id nunc. Donec ornare mattis suscipit. Praesent fermentum accumsan vulputate.</p>
-                            <a href="#" class="return-customer-btn read-more">read more</a>
+                            <h3 class="mb-10 about-title">Thông Tin Cửa Hàng</h3>
+                            <p class="mb-20">Chào mừng bạn đến với cửa hàng trực tuyến Web C2C</p>
+                            <p>▶ Ban đầu được đảm bảo 100% đáng tin cậy</p>
+<p>▶ SUNTAIHO là một thương hiệu hàng đầu về phụ kiện điện thoại di động.</p>
+<p>▶ Chúng tôi là một nhà máy cung cấp cho bạn giá bán buôn nhà máy trực tiếp</p>
+<p>▶ Nếu bạn hài lòng với sản phẩm, vui lòng đánh giá chúng tôi và theo dõi chúng tôi.</p>
+<p>▶ Hầu hết các mặt hàng sẽ được gửi trong vòng 48 giờ làm việc, thời gian giao hàng là 7-14 ngày.</p>
+<p>▶ Dịch vụ sau bán hàng, cung cấp dịch vụ bảo hành 1-3 tháng.</p>
+                            <a href="#" class="return-customer-btn read-more">đọc thêm</a>
                         </div>
                     </div>
                 </div>
@@ -691,7 +689,7 @@
         <!-- About Us Team Start Here -->
         <div class="about-team pt-100 pt-sm-60">
             <div class="container">
-               <h3 class="mb-30 about-title">our exclusive team</h3>
+               <h3 class="mb-30 about-title">các thành viên của cửa hàng</h3>
                 <div class="row text-center">
                     <!-- Single Team Start Here -->
                     <div class="col-lg-3 col-md-6 col-sm-6 col-6">
@@ -707,8 +705,8 @@
                                 </div>
                             </div>
                             <div class="team-info">
-                                <h4>Marcos Alonso</h4>
-                                <p>web designer</p>
+                                <h4>Nguyễn Thương Mến</h4>
+                                <p>web developer and web designer</p>
                             </div>
                         </div>
                     </div>
@@ -727,8 +725,8 @@
                                 </div>
                             </div>
                             <div class="team-info">
-                                <h4>Luis Aragones</h4>
-                                <p>web developer</p>
+                                <h4>Giang Thế Phong</h4>
+                                <p>php developer</p>
                             </div>
                         </div>
                     </div>
@@ -747,7 +745,7 @@
                                 </div>
                             </div>
                             <div class="team-info">
-                                <h4>Maria Alessis</h4>
+                                <h4>Đặng Thị Kiều Oanh</h4>
                                 <p>class master</p>
                             </div>
                         </div>
@@ -767,8 +765,8 @@
                                 </div>
                             </div>
                             <div class="team-info">
-                                <h4>John Doe</h4>
-                                <p>php developer</p>
+                                <h4>Trần Thanh Phong</h4>
+                                <p>Cu li</p>
                             </div>
                         </div>
                     </div>
@@ -783,30 +781,30 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
-                       <h3 class="about-title mb-20">Our skills</h3>
+                       <h3 class="about-title mb-20">Những Kỹ Năng Của Chúng Tôi</h3>
                         <div class="skill-progress mb-all-40">
                             <div class="progress">
-                                <div class="skill-title">Strategy 79%</div>
+                                <div class="skill-title">Chiến Lược 79%</div>
                                 <div class="progress-bar wow fadeInLeft" data-wow-delay="0.2s" role="progressbar" style="width: 79%; visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
                                 </div>
                             </div>
                             <div class="progress">
-                                <div class="skill-title">Marketing 96%</div>
+                                <div class="skill-title">Tiếp Thị 96%</div>
                                 <div class="progress-bar wow fadeInLeft" data-wow-delay="0.3s" role="progressbar" style="width: 96%; visibility: visible; animation-delay: 0.3s; animation-name: fadeInLeft;">
                                 </div>
                             </div>
                             <div class="progress">
-                                <div class="skill-title">Wordpress Theme 65%</div>
+                                <div class="skill-title">Chủ Đề Wordpress 65%</div>
                                 <div class="progress-bar wow fadeInLeft" data-wow-delay="0.4s" role="progressbar" style="width: 65%; visibility: visible; animation-delay: 0.4s; animation-name: fadeInLeft;">
                                 </div>
                             </div>
                             <div class="progress">
-                                <div class="skill-title">Shopify Theme 75%</div>
+                                <div class="skill-title">Chủ Đề Shopify 75%</div>
                                 <div class="progress-bar wow fadeInLeft" data-wow-delay="0.5s" role="progressbar" style="width: 75%; visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
                                 </div>
                             </div>
                             <div class="progress">
-                                <div class="skill-title">UI/UX Design 92%</div>
+                                <div class="skill-title">Thiết Kế UI/UX 92%</div>
                                 <div class="progress-bar wow fadeInLeft" data-wow-delay="0.6s" role="progressbar" style="width: 89%; visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
                                 </div>
                             </div>
@@ -814,33 +812,33 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="ht-single-about">
-                            <h3 class="about-title mb-20">our works</h3>
+                            <h3 class="about-title mb-20">những công việc của chúng tôi</h3>
                             <div class="ht-about-work">
                                 <span>1</span>
                                 <div class="ht-work-text">
-                                    <h5><a href="#">LOREM IPSUM DOLOR SIT AMET</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi</p>
+                                    <h5><a href="#">Trưởng phòng Web Developer</a></h5>
+                                    <p>Mô tả công việc sơ sơ</p>
                                 </div>
                             </div>
                             <div class="ht-about-work">
                                 <span>2</span>
                                 <div class="ht-work-text">
-                                    <h5><a href="#">DONEC FERMENTUM EROS</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi</p>
+                                    <h5><a href="#">Phát triển ngôn ngữ php</a></h5>
+                                    <p>Mô tả công việc sơ sơ</p>
                                 </div>
                             </div>
                             <div class="ht-about-work">
                                 <span>3</span>
                                 <div class="ht-work-text">
-                                    <h5><a href="#">LOREM IPSUM DOLOR SIT AMET</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi</p>
+                                    <h5><a href="#">Trưởng phòng phân tích thiết kế phần mềm</a></h5>
+                                    <p>Mô tả công việc sơ sơ</p>
                                 </div>
                             </div>
                             <div class="ht-about-work">
                                 <span>4</span>
                                 <div class="ht-work-text">
-                                    <h5><a href="#">Adipiscing IPSUM DOLOR SIT AMET</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisi ac mi</p>
+                                    <h5><a href="#">IT Support</a></h5>
+                                    <p>Mô tả công việc sơ sơ</p>
                                 </div>
                             </div>
                         </div>
