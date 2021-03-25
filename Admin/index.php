@@ -21,6 +21,11 @@
             require_once('controller/UserController.php');
             break;
         }
+
+        case 'list-shop': {
+            require_once('controller/ShopController.php');
+            break;
+        }
                     
         default:{
             require_once('404.php');

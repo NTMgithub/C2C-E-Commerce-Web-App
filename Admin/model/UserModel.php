@@ -121,7 +121,6 @@ class UserModel{
 
         $data1 = $db->ShowDataWithID('id_nguoidung', 'id_nguoiDung', $id_nguoiDung);
 
-
         if (
             isset($_POST['hoTen_input']) && isset($_POST['email_input']) && isset($_POST['sdt_input']) &&
             isset($_POST['gioiTinh']) && isset($_POST['ngaySinh_input']) && isset($_FILES)

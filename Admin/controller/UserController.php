@@ -26,7 +26,9 @@ if (isset($_POST['matKhauMoi']) && isset($_POST['id_nguoiDung']) ){
 
     echo "<script>alert('".$result."');</script>";
     
-    header("Location: ../?viewpage=list-user");
+
+    header("Location: ../?viewpage=list-user&resultReset=success");
+
     
 }
 //Reset mật khẩu người dùng
@@ -45,6 +47,7 @@ switch ($action) {
         $pageTitle = 'Danh sách người dùng | Quản lý người dùng';
 
         $dataResult = $db->ShowAllData('tbl_nguoidung');
+        $count = $db->CountDataTable('tbl_nguoidung');
 
         require_once(__DIR__ . '/../pages/User/ListUser.php');
         break;
