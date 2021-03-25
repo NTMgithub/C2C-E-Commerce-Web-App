@@ -12,7 +12,7 @@ if (isset($_POST['id_nguoiDung']) && isset($_POST['trangThaiND']) ){
 
     echo "<script>alert('".$result."');</script>";
     
-    header("Location: http://localhost/WebC2C/Admin/?viewpage=list-user");
+    header("Location: ../?viewpage=list-user");
     
 }
 //Khóa/Mở người dùng
@@ -26,7 +26,7 @@ if (isset($_POST['matKhauMoi']) && isset($_POST['id_nguoiDung']) ){
 
     echo "<script>alert('".$result."');</script>";
     
-    header("Location: http://localhost/WebC2C/Admin/?viewpage=list-user");
+    header("Location: ../?viewpage=list-user&resultReset=success");
     
 }
 //Reset mật khẩu người dùng
@@ -45,6 +45,7 @@ switch ($action) {
         $pageTitle = 'Danh sách người dùng | Quản lý người dùng';
 
         $dataResult = $db->ShowAllData('tbl_nguoidung');
+        $count = $db->CountDataTable('tbl_nguoidung');
 
         require_once(__DIR__ . '/../pages/User/ListUser.php');
         break;

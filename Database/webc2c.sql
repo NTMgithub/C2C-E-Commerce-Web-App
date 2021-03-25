@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Máy chủ: 127.0.0.1
--- Thời gian đã tạo: Th3 20, 2021 lúc 01:39 PM
+-- Thời gian đã tạo: Th3 25, 2021 lúc 05:01 PM
 -- Phiên bản máy phục vụ: 10.4.18-MariaDB
 -- Phiên bản PHP: 7.4.16
 
@@ -161,6 +161,7 @@ CREATE TABLE `tbl_nguoidung` (
   `gioiTinh` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
   `anhDaiDien` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
   `trangThai` tinyint(1) NOT NULL DEFAULT 1,
+  `dangKyShop` bit(1) NOT NULL DEFAULT b'0',
   `thoiGianTao` datetime(6) NOT NULL,
   `thoiGianSua` datetime(6) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
@@ -169,11 +170,11 @@ CREATE TABLE `tbl_nguoidung` (
 -- Đang đổ dữ liệu cho bảng `tbl_nguoidung`
 --
 
-INSERT INTO `tbl_nguoidung` (`id_nguoiDung`, `tenTaiKhoan`, `matKhau`, `email`, `sdt`, `hoTen`, `ngaySinh`, `gioiTinh`, `anhDaiDien`, `trangThai`, `thoiGianTao`, `thoiGianSua`) VALUES
-(1, 'testuser', '5d9c68c6c50ed3d02a2fcf54f63993b6', 'menprommo1@gmail.com', '0349384823', 'testuser', '2021-03-24', 'Nam', NULL, 1, '2021-03-20 12:14:36.000000', NULL),
-(2, 'testuser112', 'f388bfb9825b7544a919c26e3d978ebe', 'menprommo1@gmail.com', '0394983434', 'testuser112', '2021-03-18', 'Nam', NULL, 1, '2021-03-20 12:33:03.000000', NULL),
-(3, 'testbros', '7b262216a837e6d5abf713a8b87fcb24', 'menprommo1@gmail.com', '0934873473', 'Nguyễn Văn Ba', '2021-03-26', 'Nam', NULL, 1, '2021-03-20 13:10:38.000000', NULL),
-(4, 'tenTaiKhoan_input', '6768ddcfa18c48fe8f997e1d05015972', 'menprommo23@gmail.com', '0342342343', 'ádsadsdsd', '2021-03-03', 'Nam', NULL, 1, '2021-03-20 13:27:13.000000', NULL);
+INSERT INTO `tbl_nguoidung` (`id_nguoiDung`, `tenTaiKhoan`, `matKhau`, `email`, `sdt`, `hoTen`, `ngaySinh`, `gioiTinh`, `anhDaiDien`, `trangThai`, `dangKyShop`, `thoiGianTao`, `thoiGianSua`) VALUES
+(1, 'testuserrr', '0ff357fd011c3a28093d780f78a38961', 'testuserrr@gam.com', '0834432424', 'testuserrraa', '2021-03-09', 'Nữ', '1616409358.png', 1, b'0', '2021-03-20 15:08:36.000000', '2021-03-25 16:27:52.000000'),
+(2, 'smenproasd', '33302788bfa627cb8ffd3078773bd9b6', 'menprommo1@gmail.com', '0934823434', 'menpro11111111', '2021-04-07', 'Nam', '1616348142.jpg', 0, b'1', '2021-03-20 15:10:03.000000', '2021-03-22 11:35:18.000000'),
+(3, 'tesuteea', '0410e308160ee2fbaf3f79c92ae26433', 'tesuteea@c.com', '0934823489', 'testttttt', '2021-03-19', 'Nam', '1616312281.jpg', 1, b'1', '2021-03-21 08:38:01.000000', '2021-03-21 18:07:16.000000'),
+(4, 'bababa', '4e510be093d346512011c3f4fe36e4af', 'jsjdad@ga.com', '0569249595', 'Nguyễn Văn ba', '2021-03-10', 'Nữ', '1616470958.jpg', 1, b'0', '2021-03-23 04:42:38.000000', NULL);
 
 -- --------------------------------------------------------
 
@@ -219,8 +220,18 @@ CREATE TABLE `tbl_shop` (
   `diaChiShop` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
   `moTaShop` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
   `anhShop` varchar(50) COLLATE utf8_unicode_ci NOT NULL,
-  `diemDanhGia` int(10) DEFAULT NULL
+  `diemDanhGia` int(10) DEFAULT NULL,
+  `ngayTaoShop` datetime(6) NOT NULL,
+  `trangThai` int(11) NOT NULL DEFAULT 1
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+--
+-- Đang đổ dữ liệu cho bảng `tbl_shop`
+--
+
+INSERT INTO `tbl_shop` (`id_shop`, `id_nguoiDung`, `tenShop`, `diaChiShop`, `moTaShop`, `anhShop`, `diemDanhGia`, `ngayTaoShop`, `trangThai`) VALUES
+(1, 2, 'Cửa hàng VJp PRoaaaaaaaaa', 'Cửa hàng VJp PRoaaa', 'Cửa hàng VJp PRoCửa hàng VJp PRo', '1616656781.png', NULL, '2021-03-25 08:19:41.000000', 1),
+(2, 3, 'Cửa hàng Testutteaa', '133 Nguyễn Trãi', 'shop chuyên bán giày dép', '1616656877.jpg', NULL, '2021-03-25 08:21:17.000000', 1);
 
 -- --------------------------------------------------------
 
@@ -400,7 +411,7 @@ ALTER TABLE `tbl_sanpham`
 -- AUTO_INCREMENT cho bảng `tbl_shop`
 --
 ALTER TABLE `tbl_shop`
-  MODIFY `id_shop` int(10) NOT NULL AUTO_INCREMENT;
+  MODIFY `id_shop` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT cho bảng `tbl_sodiachi`

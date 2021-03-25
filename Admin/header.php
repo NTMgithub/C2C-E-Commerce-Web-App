@@ -33,6 +33,12 @@
     <!-- Main CSS-->
     <link href="css/theme.css" rel="stylesheet" media="all">
 
+    <!-- Link CDN Script -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta.2/js/bootstrap.bundle.min.js"></script>
+
    
 
 </head>
@@ -70,8 +76,8 @@
                             <a class="js-arrow" href="?viewpage=list-user">
                                 <i class="fas fa-group"></i>Quản lý người dùng</a>
                         </li>
-                        <li class="has-sub">
-                            <a class="js-arrow" href="Admin/pages/Shop/ListShop.php">
+                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-shop'); ?> has-sub">
+                            <a class="js-arrow" href="?viewpage=list-shop">
                                 <i class="fas fa-shopping-cart"></i>Quản lý các cửa hàng</a>
                         </li>
 
@@ -225,11 +231,29 @@
                                
                             </ul>
                         </li>
-                        <li class="has-sub">
-                            <a class="js-arrow" href="Admin/pages/Shop/ListShop.php">
-                                <i class="fas fa-shopping-cart"></i>Quản lý các cửa hàng</a>
-                        </li>
 
+                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-shop'); ?> has-sub">
+                            <a class="js-arrow" href="#"  >
+                                <i class="fas fa-shopping-cart"></i>Quản lý cửa hàng
+                                
+                            </a>
+                            <ul class="list-unstyled navbar__sub-list js-sub-list">
+                                <li class="<?php if ( isset($_GET['viewpage']) && ($_GET['viewpage'] == 'list-shop') ){
+                                    if ( isset($_GET['action']) && ( $_GET['action'] == '' )  ) echo 'active';
+                                }
+                                ?> has-sub">
+                                    <a href="?viewpage=list-shop"><i class="fa fa-list"></i>Danh sách cửa hàng</a>
+                                </li>
+                                <li class=" <?php if ( isset($_GET['viewpage']) && ($_GET['viewpage'] == 'list-shop') ){
+                                    if ( isset($_GET['action']) && ( $_GET['action'] == 'add' )  ) echo 'active';
+                                }
+                                ?> has-sub" >
+                                    <a href="?viewpage=list-shop&action=add"><i class="fa fa-plus" ></i>Thêm cửa hàng</a>
+                                </li>
+                               
+                            </ul>
+                        </li>
+                        
                         <li class="has-sub">
                             <a class="js-arrow" href="ListVoucher.php">
                                 <i class="fas fa-gift"></i>Quản lý khuyến mãi</a>

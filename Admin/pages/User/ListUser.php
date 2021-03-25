@@ -44,7 +44,13 @@ require_once('header.php');
                             </a>
                         </div>
                     </div>
+                    <?php
+                    if (isset($_GET['resultReset']) && ($_GET['resultReset']  == 'success')) echo "<div class='alert alert-success'>Reset mật khẩu người dùng thành công!</div>";
+                    ?>
                     <div class="table-responsive table-responsive-data2">
+                        <!-- Load nội dung table vào đây -->
+                        <!-- <div id="loading"><img src="/WebC2C/Admin/pages/User/loading.gif" /></div> -->
+
                         <table class="table table-data2">
                             <thead style="background-color: #f2f2f2;">
                                 <tr>
@@ -61,6 +67,7 @@ require_once('header.php');
                             </thead>
                             <tbody>
                                 <?php
+
                                 $stt = 0;
                                 foreach ($dataResult as $value) {
                                     $stt++;
@@ -89,18 +96,18 @@ require_once('header.php');
                                         <td>
                                             <div class="table-data-feature">
                                                 <a href="?viewpage=list-user&action=edit&idNguoiDung=<?php echo $value['id_nguoiDung']; ?>" onclick="return popitup('?viewpage=list-user&action=edit&idNguoiDung=<?php echo $value['id_nguoiDung']; ?>')">
-                                                    <button type="button" class="btn btn-secondary" style="margin: 5px;" id="editButton" >
+                                                    <button type="button" class="btn btn-secondary" style="margin: 5px;" id="editButton">
                                                         <i class="fa fa-edit"></i> Sửa
                                                     </button>
                                                 </a>
                                                 <?php
                                                 if ($value['trangThai']  == 1) {
                                                     $lockButton = "<button type='button' class='btn btn-danger' style='margin: 5px;' data-placement='top' title='Khóa tài khoản'
-                                                    data-toggle='modal' data-target='#LockUnlockModal".$value['id_nguoiDung']."' ><i class='fa fa-lock'></i></button>";
+                                                    data-toggle='modal' data-target='#LockUnlockModal" . $value['id_nguoiDung'] . "' ><i class='fa fa-lock'></i></button>";
                                                     echo $lockButton;
                                                 } else {
                                                     $unlockButton = "<button type='button' class='btn btn-warning' style='margin: 5px;' data-placement='top' title='Mở khóa tài khoản'
-                                                    data-toggle='modal' data-target='#LockUnlockModal".$value['id_nguoiDung']."' ><i class='fa fa-unlock'></i></button>";
+                                                    data-toggle='modal' data-target='#LockUnlockModal" . $value['id_nguoiDung'] . "' ><i class='fa fa-unlock'></i></button>";
                                                     echo $unlockButton;
                                                 }
                                                 ?>
@@ -119,8 +126,7 @@ require_once('header.php');
                             </tbody>
                         </table>
 
-
-                        <nav aria-label="...">
+                        <!-- <nav aria-label="...">
                             <ul class="pagination">
                                 <li class="page-item disabled">
                                     <a class="page-link" href="#" tabindex="-1">Previous</a>
@@ -133,10 +139,13 @@ require_once('header.php');
                                 <li class="page-item"><a class="page-link" href="#">4</a></li>
                                 <li class="page-item"><a class="page-link" href="#">5</a></li>
                                 <li class="page-item">
-                                    <a class="page-link" href="#">Next</a>
+                                <a class="page-link" href="#">Next</a>
                                 </li>
                             </ul>
-                        </nav>
+                        </nav> -->
+
+                        
+
                     </div>
                     <!-- END DATA TABLE -->
                 </div>
@@ -178,8 +187,7 @@ require_once('header.php');
 <script src="vendor/circle-progress/circle-progress.min.js"></script>
 <script src="vendor/perfect-scrollbar/perfect-scrollbar.js"></script>
 <script src="vendor/chartjs/Chart.bundle.min.js"></script>
-<script src="vendor/select2/select2.min.js">
-</script>
+<script src="vendor/select2/select2.min.js"></script>
 
 <!-- Main JS-->
 <script src="js/main.js"></script>
