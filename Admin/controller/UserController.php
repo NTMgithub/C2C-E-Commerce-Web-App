@@ -26,6 +26,7 @@ if (isset($_POST['matKhauMoi']) && isset($_POST['id_nguoiDung']) ){
 
     echo "<script>alert('".$result."');</script>";
     
+
     header("Location: ../?viewpage=list-user&resultReset=success");
 
     
