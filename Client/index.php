@@ -58,220 +58,9 @@
             <div class="container">
                 <div class="row">
                     <!-- Vertical Menu Start Here -->
-                    <div class="col-xl-3 col-lg-4 d-none d-lg-block">
-                        <div class="vertical-menu mb-all-30">
-                            <nav>
-                                <ul class="vertical-menu-list">
-                                    <li class=""><a href="shop.php"><span><img src="img/vertical-menu/1.png" alt="menu-icon"></span>Automotive & Motorcycle<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-
-                                        <ul class="ht-dropdown mega-child">
-                                            <li><a href="shop.php">Office chair <i class="fa fa-angle-right"></i></a>
-                                                 <!-- category submenu end-->
-                                                <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.php">Bibendum Cursus</a></li>
-                                                    <li><a href="shop.php">Dignissim Turpis</a></li>
-                                                    <li><a href="shop.php">Dining room</a></li>
-                                                    <li><a href="shop.php">Dining room</a></li>
-                                                </ul>
-                                                <!-- category submenu end-->
-                                            </li>
-                                            <li><a href="shop.php">Purus Lacus <i class="fa fa-angle-right"></i></a>
-                                                 <!-- category submenu end-->
-                                                <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.php">Magna Pellentesq</a></li>
-                                                    <li><a href="shop.php">Molestie Tortor</a></li>
-                                                    <li><a href="shop.php">Vehicula Element</a></li>
-                                                    <li><a href="shop.php">Sagittis Blandit</a></li>
-                                                </ul>
-                                                <!-- category submenu end-->
-                                            </li>                                            
-                                            <li><a href="shop.php">Sagittis Eget</a></li>
-                                            <li><a href="shop.php">Sagittis Eget</a></li>
-                                        </ul>
-                                        <!-- category submenu end-->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/3.png" alt="menu-icon"></span>Sports & Outdoors<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu first-megamenu">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Cameras</li>
-                                                    <li><a href="shop.php">Cords and Cables</a></li>
-                                                    <li><a href="shop.php">gps accessories</a></li>
-                                                    <li><a href="shop.php">Microphones</a></li>
-                                                    <li><a href="shop.php">Wireless Transmitters</a></li>
-                                                </ul>
-                                                <ul>
-                                                    <li class="menu-tile">GamePad</li>
-                                                    <li><a href="shop.php">real game hd</a></li>
-                                                    <li><a href="shop.php">fighting game</a></li>
-                                                    <li><a href="shop.php">racing pad</a></li>
-                                                    <li><a href="shop.php">puzzle pad</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Digital Cameras</li>
-                                                    <li><a href="shop.php">Camera one</a></li>
-                                                    <li><a href="shop.php">Camera two</a></li>
-                                                    <li><a href="shop.php">Camera three</a></li>
-                                                    <li><a href="shop.php">Camera four</a></li>
-                                                </ul>
-                                                <ul>
-                                                    <li class="menu-tile">Virtual Reality</li>
-                                                    <li><a href="shop.php">Reality one</a></li>
-                                                    <li><a href="shop.php">Reality two</a></li>
-                                                    <li><a href="shop.php">Reality three</a></li>
-                                                    <li><a href="shop.php">Reality four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Megamenu Image Start -->
-                                            <li class="megamenu-img">
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img1.jpg" alt="menu-image"></a>
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img2.jpg" alt="menu-image"></a>
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img3.jpg" alt="menu-image"></a>
-                                            </li>
-                                            <!-- Single Megamenu Image End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>Fashion<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Men’s Fashion</li>
-                                                    <li><a href="shop.php">Blazers</a></li>
-                                                    <li><a href="shop.php">Boots</a></li>
-                                                    <li><a href="shop.php">pants</a></li>
-                                                    <li><a href="shop.php">Tops & Tees</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.php">Bags</a></li>
-                                                    <li><a href="shop.php">Bottoms</a></li>
-                                                    <li><a href="shop.php">Shirts</a></li>
-                                                    <li><a href="shop.php">Tailored</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/7.png" alt="menu-icon"></span>Home & Kitchen<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Large Appliances</li>
-                                                    <li><a href="shop.php">Armchairs</a></li>
-                                                    <li><a href="shop.php">Bunk Bed</a></li>
-                                                    <li><a href="shop.php">Mattress</a></li>
-                                                    <li><a href="shop.php">Sideboard</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Small Appliances</li>
-                                                    <li><a href="shop.php">Bootees Bags</a></li>
-                                                    <li><a href="shop.php">Jackets</a></li>
-                                                    <li><a href="shop.php">Shelf</a></li>
-                                                    <li><a href="shop.php">Shoes</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End --> 
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/4.png" alt="menu-icon"></span>Phones & Tablets<i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    </a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Tablet</li>
-                                                    <li><a href="shop.php">tablet one</a></li>
-                                                    <li><a href="shop.php">tablet two</a></li>
-                                                    <li><a href="shop.php">tablet three</a></li>
-                                                    <li><a href="shop.php">tablet four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Smartphone</li>
-                                                    <li><a href="shop.php">phone one</a></li>
-                                                    <li><a href="shop.php">phone two</a></li>
-                                                    <li><a href="shop.php">phone three</a></li>
-                                                    <li><a href="shop.php">phone four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>TV & Video<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Gaming Desktops</li>
-                                                    <li><a href="shop.php">Alpha Desktop</a></li>
-                                                    <li><a href="shop.php">rober Desktop</a></li>
-                                                    <li><a href="shop.php">Ultra Desktop </a></li>
-                                                    <li><a href="shop.php">beta desktop</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.php">3D-Capable</a></li>
-                                                    <li><a href="shop.php">Clearance</a></li>
-                                                    <li><a href="shop.php">Free Shipping Eligible</a></li>
-                                                    <li><a href="shop.php">On Sale</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                     <li><a href="shop.php"><span><img src="img/vertical-menu/5.png" alt="menu-icon"></span>Beauty</a>
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/8.png" alt="menu-icon"></span>Fruits & Veggies</a></li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/9.png" alt="menu-icon"></span>Computer & Laptop</a></li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/10.png" alt="menu-icon"></span>Meat & Seafood</a></li>
-                                    <!-- More Categoies Start -->
-                                    <li id="cate-toggle" class="category-menu v-cat-menu">
-                                        <ul>
-                                            <li class="has-sub"><a href="#">More Categories</a>
-                                                <ul class="category-sub">
-                                                    <li><a href="shop.php"><span><img src="img/vertical-menu/11.png" alt="menu-icon"></span>Accessories</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <!-- More Categoies End -->
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
+                    <?php
+                    require_once("./lib/menu-left.php");
+                    ?>
                     <!-- Vertical Menu End Here -->
                     <!-- Slider Area Start Here -->
                     <div class="col-xl-9 col-lg-8 slider_box">
@@ -312,14 +101,14 @@
                                 <img class="primary-img" src="img/products/1.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
                             </a>
-                            <div class="countdown" data-countdown="2020/03/01"></div>
+                            <div class="countdown" data-countdown="2021/04/04"></div> <!--Giới hạn sales-->
                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                         </div>
                         <!-- Product Image End -->
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.php">Áo Thun Nam</a></h4>
+                                <h4><a href="product.php">Sản phẩm</a></h4>
                                 <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                             </div>
@@ -344,14 +133,14 @@
                                 <img class="primary-img" src="img/products/24.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
                             </a>
-                            <div class="countdown" data-countdown="2020/03/01"></div>
+                            <div class="countdown" data-countdown="2021/04/04"></div>
                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                         </div>
                         <!-- Product Image End -->
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.php">Áo Thun Nữ</a></h4>
+                                <h4><a href="product.php">Sản phẩm</a></h4>
                                 <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                             </div>
@@ -376,14 +165,14 @@
                                 <img class="primary-img" src="img/products/42.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
                             </a>
-                            <div class="countdown" data-countdown="2020/03/01"></div>
+                            <div class="countdown" data-countdown="2021/04/04"></div>
                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                         </div>
                         <!-- Product Image End -->
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.php">Áo Thun Trơn</a></h4>
+                                <h4><a href="product.php">Sản phẩm</a></h4>
                                 <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                 <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                             </div>
@@ -409,14 +198,14 @@
                                 <img class="primary-img" src="img/products/30.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/31.jpg" alt="single-product">
                             </a>
-                            <div class="countdown" data-countdown="2020/03/01"></div>
+                            <div class="countdown" data-countdown="2021/04/04"></div>
                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                         </div>
                         <!-- Product Image End -->
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.php">Áo Thun Ngắn Tay</a></h4>
+                                <h4><a href="product.php">Sản phẩm</a></h4>
                                 <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                             </div>
@@ -441,14 +230,14 @@
                                 <img class="primary-img" src="img/products/8.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
                             </a>
-                            <div class="countdown" data-countdown="2020/03/01"></div>
+                            <div class="countdown" data-countdown="2021/04/04"></div>
                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                         </div>
                         <!-- Product Image End -->
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.php">Áo Thun Dài Tay</a></h4>
+                                <h4><a href="product.php">Sản phẩm</a></h4>
                                 <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                 <div class="label-product l_sale">10<span class="symbol-percent">%</span></div>
                             </div>
@@ -474,14 +263,14 @@
                                 <img class="primary-img" src="img/products/10.jpg" alt="single-product">
                                 <img class="secondary-img" src="img/products/11.jpg" alt="single-product">
                             </a>
-                            <div class="countdown" data-countdown="2020/03/01"></div>
+                            <div class="countdown" data-countdown="2021/04/04"></div>
                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                         </div>
                         <!-- Product Image End -->
                         <!-- Product Content Start -->
                         <div class="pro-content">
                             <div class="pro-info">
-                                <h4><a href="product.php">Áo Hoodie</a></h4>
+                                <h4><a href="product.php">Sản phẩm</a></h4>
                                 <p><span class="price">50.000 VNĐ</span><del class="prev-price">75.000 VNĐ</del></p>
                                 <div class="label-product l_sale">37<span class="symbol-percent">%</span></div>
                             </div>
@@ -560,25 +349,25 @@
                         <!-- Nav tabs -->
                         <ul class="nav tabs-area" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" data-toggle="tab" href="#fshion">Fashion</a>
+                                <a class="nav-link active" data-toggle="tab" href="#fshion">Menu 1</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#beauty">Beauty</a>
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 2</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#electronics">Sport/Outdoor</a>
+                                <a class="nav-link" data-toggle="tab" href="#electronics">Menu 3</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#kids">Living</a>
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 4</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#beauty">Food</a>
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 5</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#kids">Baby/Kids</a>
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 6</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#electronics">Electronics </a>
+                                <a class="nav-link" data-toggle="tab" href="#electronics">Menu 7 </a>
                             </li>
                         </ul>                       
 
@@ -605,7 +394,7 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Áo Mới</a></h4>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
                                                 <p><span class="price">45.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                             </div>
@@ -637,7 +426,7 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Áo HOT</a></h4>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
                                                 <p><span class="price">50.000 VNĐ</span><del class="prev-price">55.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">10<span class="symbol-percent">%</span></div>
                                             </div>
@@ -673,7 +462,7 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Áo HOT</a></h4>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
                                                 <p><span class="price">50.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
@@ -705,7 +494,7 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Áo Mới</a></h4>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
                                                 <p><span class="price">60.000 VNĐ</span><del class="prev-price">80.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">18<span class="symbol-percent">%</span></div>
                                             </div>
@@ -741,7 +530,7 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Áo Mới</a></h4>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
                                                 <p><span class="price">60.000 VNĐ</span><del class="prev-price">80.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">12<span class="symbol-percent">%</span></div>
                                             </div>
@@ -773,8 +562,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -809,8 +598,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -841,8 +630,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -884,8 +673,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Utensils and Knives Block</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -916,8 +705,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$300.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">25<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -952,8 +741,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Robert Welch Knife Block</a></h4>
-                                                <p><span class="price">$100.45</span><del class="prev-price">$150.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -984,8 +773,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$90.50</span><del class="prev-price">$120.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1020,8 +809,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Bark and  Vortex Side</a></h4>
-                                                <p><span class="price">$69.20</span><del class="prev-price">$145.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.00 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1052,8 +841,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1088,8 +877,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">kallery kids  weare</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1120,8 +909,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1163,8 +952,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1195,8 +984,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1231,8 +1020,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1250,12 +1039,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                      <!-- Single Product Start -->
-                                    <div class="single-product">
+                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/9.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1263,8 +1052,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1290,8 +1079,8 @@
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/11.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1299,8 +1088,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1318,12 +1107,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                      <!-- Single Product Start -->
-                                    <div class="single-product">
+                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/3.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1331,8 +1120,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1358,8 +1147,8 @@
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/43.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1367,8 +1156,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1386,12 +1175,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                      <!-- Single Product Start -->
-                                    <div class="single-product">
+                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1399,8 +1188,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1442,8 +1231,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1461,12 +1250,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                      <!-- Single Product Start -->
-                                    <div class="single-product">
+                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/19.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1474,8 +1263,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Country Squire Florist</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1501,8 +1290,8 @@
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/20.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1510,8 +1299,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Concord Fabric Single</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1529,12 +1318,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                      <!-- Single Product Start -->
-                                    <div class="single-product">
+                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/21.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1542,8 +1331,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1569,8 +1358,8 @@
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/23.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1578,8 +1367,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1597,12 +1386,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                      <!-- Single Product Start -->
-                                    <div class="single-product">
+                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/24.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1610,8 +1399,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1637,8 +1426,8 @@
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/26.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1646,8 +1435,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Bark and Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1665,12 +1454,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                      <!-- Single Product Start -->
-                                    <div class="single-product">
+                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/28.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1678,8 +1467,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                                 <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                             </div>
                                             <div class="pro-actions">
@@ -1721,25 +1510,25 @@
                         <!-- Nav tabs -->
                         <ul class="nav tabs-area" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" data-toggle="tab" href="#electronics2">Electronics </a>
+                                <a class="nav-link active" data-toggle="tab" href="#electronics2">Menu 1 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#beauty2">Beauty</a>
+                                <a class="nav-link" data-toggle="tab" href="#beauty2">Menu 2</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#electronics2">Sport/Outdoor</a>
+                                <a class="nav-link" data-toggle="tab" href="#electronics2">Menu 3</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#kids2">Living</a>
+                                <a class="nav-link" data-toggle="tab" href="#kids2">Menu 4</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#beauty2">Food</a>
+                                <a class="nav-link" data-toggle="tab" href="#beauty2">Menu 5</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#kids2">Baby/Kids</a>
+                                <a class="nav-link" data-toggle="tab" href="#kids2">Menu 6</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#fshion2">Fashion</a>
+                                <a class="nav-link" data-toggle="tab" href="#fshion2">Menu 7</a>
                             </li>
                         </ul>                       
 
@@ -1764,8 +1553,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
-                                                <p><span class="price">$320.45</span></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
@@ -1781,12 +1570,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                      <!-- Single Product Start -->
-                                    <div class="single-product">
+                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
-                                                <img class="primary-img" src="img/products/3.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1794,8 +1583,8 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                                <p><span class="price">$150.30</span></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
@@ -1811,162 +1600,12 @@
                                     </div>
                                     <!-- Single Product End -->
                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$150.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/8.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Eames and Bark  Style</a></h4>
-                                                <p><span class="price">$180.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/11.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Eames and Vortex Side</a></h4>
-                                                <p><span class="price">$160.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/15.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
-                                                <p><span class="price">$84.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/13.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$95.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
                                     <div class="single-product">
                                         <!-- Product Image Start -->
                                         <div class="pro-img">
                                             <a href="product.php">
                                                 <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                             </a>
                                             <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
@@ -1974,8 +1613,158 @@
                                         <!-- Product Content Start -->
                                         <div class="pro-content">
                                             <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span></p>
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
+                                            </div>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Product Content End -->
+                                    </div>
+                                    <!-- Single Product End -->
+                                     <!-- Single Product Start -->
+                                     <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                        </div>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
+                                            </div>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Product Content End -->
+                                    </div>
+                                    <!-- Single Product End -->
+                                    <!-- Single Product Start -->
+                                    <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                        </div>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
+                                            </div>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Product Content End -->
+                                    </div>
+                                    <!-- Single Product End -->
+                                     <!-- Single Product Start -->
+                                     <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                        </div>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
+                                            </div>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Product Content End -->
+                                    </div>
+                                    <!-- Single Product End -->
+                                    <!-- Single Product Start -->
+                                    <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                        </div>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
+                                            </div>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Product Content End -->
+                                    </div>
+                                    <!-- Single Product End -->
+                                     <!-- Single Product Start -->
+                                     <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                        </div>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
                                             <div class="pro-actions">
                                                 <div class="actions-primary">
@@ -1999,243 +1788,243 @@
                             <div class="best-seller-pro-active owl-carousel">
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/42.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Utensils and Knives Block</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/40.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
-                                            <p><span class="price">$63.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/39.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Robert Welch Knife Block</a></h4>
-                                            <p><span class="price">$100.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/36.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$90.50</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/35.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Bark and  Vortex Side</a></h4>
-                                            <p><span class="price">$69.20</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/34.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/32.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">kallery kids  weare</a></h4>
-                                            <p><span class="price">$98.50</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                             </div>
                             <!-- Arrivals Product Activation End Here -->
@@ -2246,183 +2035,243 @@
                             <div class="best-seller-pro-active owl-carousel">
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/43.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/41.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/39.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/5.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/9.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/11.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                        </div>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
+                                            </div>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Product Content End -->
+                                    </div>
+                                <!-- Single Product End -->
+                                <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/3.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
+                                <!-- Single Product End -->
+                                 <!-- Single Product Start -->
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                        </div>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
+                                            </div>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- Product Content End -->
+                                    </div>
                                 <!-- Single Product End -->
                             </div>
                             <!-- Arrivals Product Activation End Here -->
@@ -2433,243 +2282,243 @@
                             <div class="best-seller-pro-active owl-carousel">
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/17.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/19.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Country Squire Florist</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/20.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Concord Fabric Single</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/21.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/23.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/24.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                 <!-- Single Product Start -->
                                 <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/26.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Bark and Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                                  <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/28.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                                 <div class="single-product">
+                                        <!-- Product Image Start -->
+                                        <div class="pro-img">
+                                            <a href="product.php">
+                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                            </a>
+                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        <!-- Product Image End -->
+                                        <!-- Product Content Start -->
+                                        <div class="pro-content">
+                                            <div class="pro-info">
+                                                <h4><a href="product.php">Sản phẩm</a></h4>
+                                                <p><span class="price">100.000 VNĐ</span></p>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                            <div class="pro-actions">
+                                                <div class="actions-primary">
+                                                    <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                                </div>
+                                                <div class="actions-secondary">
+                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                                </div>
                                             </div>
                                         </div>
+                                        <!-- Product Content End -->
                                     </div>
-                                    <!-- Product Content End -->
-                                </div>
                                 <!-- Single Product End -->
                             </div>
                             <!-- Arrivals Product Activation End Here -->
@@ -2706,8 +2555,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -2724,12 +2573,12 @@
                             </div>
                             <!-- Single Product End -->
                              <!-- Single Product Start -->
-                            <div class="single-product">
+                             <div class="single-product">
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/19.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -2737,8 +2586,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Country Squire Florist</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -2763,8 +2612,8 @@
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/39.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -2772,9 +2621,9 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Robert Welch Knife Block</a></h4>
-                                        <p><span class="price">$100.45</span><del class="prev-price">$150.50</del></p>
-                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
+                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
                                         <div class="actions-primary">
@@ -2790,12 +2639,12 @@
                             </div>
                             <!-- Single Product End -->
                              <!-- Single Product Start -->
-                            <div class="single-product">
+                             <div class="single-product">
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/36.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -2803,9 +2652,9 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                        <p><span class="price">$90.50</span><del class="prev-price">$120.50</del></p>
-                                        <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
+                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
                                         <div class="actions-primary">
@@ -2829,8 +2678,8 @@
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/20.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -2838,8 +2687,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Concord Fabric Single</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -2856,12 +2705,12 @@
                             </div>
                             <!-- Single Product End -->
                              <!-- Single Product Start -->
-                            <div class="single-product">
+                             <div class="single-product">
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/21.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -2869,8 +2718,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -2895,8 +2744,8 @@
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/23.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -2904,8 +2753,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -2922,12 +2771,12 @@
                             </div>
                             <!-- Single Product End -->
                              <!-- Single Product Start -->
-                            <div class="single-product">
+                             <div class="single-product">
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/24.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -2935,8 +2784,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -2961,8 +2810,8 @@
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/26.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -2970,8 +2819,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Bark and Vortex Side</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -2988,12 +2837,12 @@
                             </div>
                             <!-- Single Product End -->
                              <!-- Single Product Start -->
-                            <div class="single-product">
+                             <div class="single-product">
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/28.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -3001,8 +2850,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -3027,8 +2876,8 @@
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -3036,8 +2885,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Utensils and Knives Block</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -3054,12 +2903,12 @@
                             </div>
                             <!-- Single Product End -->
                              <!-- Single Product Start -->
-                            <div class="single-product">
+                             <div class="single-product">
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/40.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -3067,74 +2916,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$300.50</del></p>
-                                        <div class="label-product l_sale">25<span class="symbol-percent">%</span></div>
-                                    </div>
-                                    <div class="pro-actions">
-                                        <div class="actions-primary">
-                                            <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
-                                        </div>
-                                        <div class="actions-secondary">
-                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Product Content End -->
-                            </div>
-                            <!-- Single Product End -->
-                        </div>
-                        <!-- Double Product End -->
-                        <!-- Double Product Start -->
-                        <div class="double-product">
-                            <!-- Single Product Start -->
-                            <div class="single-product">
-                                <!-- Product Image Start -->
-                                <div class="pro-img">
-                                    <a href="product.php">
-                                        <img class="primary-img" src="img/products/35.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
-                                    </a>
-                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                </div>
-                                <!-- Product Image End -->
-                                <!-- Product Content Start -->
-                                <div class="pro-content">
-                                    <div class="pro-info">
-                                        <h4><a href="product.php">Bark and  Vortex Side</a></h4>
-                                        <p><span class="price">$69.20</span><del class="prev-price">$145.50</del></p>
-                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                    </div>
-                                    <div class="pro-actions">
-                                        <div class="actions-primary">
-                                            <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
-                                        </div>
-                                        <div class="actions-secondary">
-                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
-                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- Product Content End -->
-                            </div>
-                            <!-- Single Product End -->
-                             <!-- Single Product Start -->
-                            <div class="single-product">
-                                <!-- Product Image Start -->
-                                <div class="pro-img">
-                                    <a href="product.php">
-                                        <img class="primary-img" src="img/products/34.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
-                                    </a>
-                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                </div>
-                                <!-- Product Image End -->
-                                <!-- Product Content Start -->
-                                <div class="pro-content">
-                                    <div class="pro-info">
-                                        <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -3159,8 +2942,8 @@
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/32.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -3168,8 +2951,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">kallery kids  weare</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -3186,12 +2969,12 @@
                             </div>
                             <!-- Single Product End -->
                              <!-- Single Product Start -->
-                            <div class="single-product">
+                             <div class="single-product">
                                 <!-- Product Image Start -->
                                 <div class="pro-img">
                                     <a href="product.php">
-                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                        <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
                                     </a>
                                     <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                 </div>
@@ -3199,8 +2982,8 @@
                                 <!-- Product Content Start -->
                                 <div class="pro-content">
                                     <div class="pro-info">
-                                        <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
                                         <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                     </div>
                                     <div class="pro-actions">
@@ -3214,8 +2997,75 @@
                                     </div>
                                 </div>
                                 <!-- Product Content End -->
-                                <span class="sticker-new">new</span>
                             </div>
+                            <!-- Single Product End -->
+                        </div>
+                        <!-- Double Product End -->
+                        <!-- Double Product Start -->
+                        <div class="double-product">
+                            <!-- Single Product Start -->
+                            <div class="single-product">
+                                <!-- Product Image Start -->
+                                <div class="pro-img">
+                                    <a href="product.php">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                    </a>
+                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                </div>
+                                <!-- Product Image End -->
+                                <!-- Product Content Start -->
+                                <div class="pro-content">
+                                    <div class="pro-info">
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
+                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                    </div>
+                                    <div class="pro-actions">
+                                        <div class="actions-primary">
+                                            <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        </div>
+                                        <div class="actions-secondary">
+                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Product Content End -->
+                            </div>
+                            <!-- Single Product End -->
+                             <!-- Single Product Start -->
+                             <div class="single-product">
+                                <!-- Product Image Start -->
+                                <div class="pro-img">
+                                    <a href="product.php">
+                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                    </a>
+                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                </div>
+                                <!-- Product Image End -->
+                                <!-- Product Content Start -->
+                                <div class="pro-content">
+                                    <div class="pro-info">
+                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                        <p><span class="price">40.000 VNĐ</span><del class="prev-price">60.000 VNĐ</del></p>
+                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                    </div>
+                                    <div class="pro-actions">
+                                        <div class="actions-primary">
+                                            <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                        </div>
+                                        <div class="actions-secondary">
+                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Product Content End -->
+                            </div>
+                            <!-- Single Product End -->
+                        </div>
                             <!-- Single Product End -->
                         </div>
                         <!-- Double Product End -->                        

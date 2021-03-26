@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Checkout || Truemart Responsive Html5 Ecommerce Template</title>
+    <title>Thanh Toán | Web C2C</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicons -->
     <link rel="shortcut icon" href="img/favicon.ico">
@@ -56,220 +56,9 @@
             <div class="container">
                 <div class="row">
                     <!-- Vertical Menu Start Here -->
-                    <div class="col-xl-3 col-lg-4 d-none d-lg-block">
-                        <div class="vertical-menu mb-all-30">
-                            <nav>
-                                <ul class="vertical-menu-list">
-                                    <li class=""><a href="shop.php"><span><img src="img/vertical-menu/1.png" alt="menu-icon"></span>Automotive & Motorcycle<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-
-                                        <ul class="ht-dropdown mega-child">
-                                            <li><a href="shop.php">Office chair <i class="fa fa-angle-right"></i></a>
-                                                 <!-- category submenu end-->
-                                                <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.php">Bibendum Cursus</a></li>
-                                                    <li><a href="shop.php">Dignissim Turpis</a></li>
-                                                    <li><a href="shop.php">Dining room</a></li>
-                                                    <li><a href="shop.php">Dining room</a></li>
-                                                </ul>
-                                                <!-- category submenu end-->
-                                            </li>
-                                            <li><a href="shop.php">Purus Lacus <i class="fa fa-angle-right"></i></a>
-                                                 <!-- category submenu end-->
-                                                <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.php">Magna Pellentesq</a></li>
-                                                    <li><a href="shop.php">Molestie Tortor</a></li>
-                                                    <li><a href="shop.php">Vehicula Element</a></li>
-                                                    <li><a href="shop.php">Sagittis Blandit</a></li>
-                                                </ul>
-                                                <!-- category submenu end-->
-                                            </li>                                            
-                                            <li><a href="shop.php">Sagittis Eget</a></li>
-                                            <li><a href="shop.php">Sagittis Eget</a></li>
-                                        </ul>
-                                        <!-- category submenu end-->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/3.png" alt="menu-icon"></span>Sports & Outdoors<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu first-megamenu">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Cameras</li>
-                                                    <li><a href="shop.php">Cords and Cables</a></li>
-                                                    <li><a href="shop.php">gps accessories</a></li>
-                                                    <li><a href="shop.php">Microphones</a></li>
-                                                    <li><a href="shop.php">Wireless Transmitters</a></li>
-                                                </ul>
-                                                <ul>
-                                                    <li class="menu-tile">GamePad</li>
-                                                    <li><a href="shop.php">real game hd</a></li>
-                                                    <li><a href="shop.php">fighting game</a></li>
-                                                    <li><a href="shop.php">racing pad</a></li>
-                                                    <li><a href="shop.php">puzzle pad</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Digital Cameras</li>
-                                                    <li><a href="shop.php">Camera one</a></li>
-                                                    <li><a href="shop.php">Camera two</a></li>
-                                                    <li><a href="shop.php">Camera three</a></li>
-                                                    <li><a href="shop.php">Camera four</a></li>
-                                                </ul>
-                                                <ul>
-                                                    <li class="menu-tile">Virtual Reality</li>
-                                                    <li><a href="shop.php">Reality one</a></li>
-                                                    <li><a href="shop.php">Reality two</a></li>
-                                                    <li><a href="shop.php">Reality three</a></li>
-                                                    <li><a href="shop.php">Reality four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Megamenu Image Start -->
-                                            <li class="megamenu-img">
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img1.jpg" alt="menu-image"></a>
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img2.jpg" alt="menu-image"></a>
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img3.jpg" alt="menu-image"></a>
-                                            </li>
-                                            <!-- Single Megamenu Image End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>Fashion<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Men’s Fashion</li>
-                                                    <li><a href="shop.php">Blazers</a></li>
-                                                    <li><a href="shop.php">Boots</a></li>
-                                                    <li><a href="shop.php">pants</a></li>
-                                                    <li><a href="shop.php">Tops & Tees</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.php">Bags</a></li>
-                                                    <li><a href="shop.php">Bottoms</a></li>
-                                                    <li><a href="shop.php">Shirts</a></li>
-                                                    <li><a href="shop.php">Tailored</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/7.png" alt="menu-icon"></span>Home & Kitchen<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Large Appliances</li>
-                                                    <li><a href="shop.php">Armchairs</a></li>
-                                                    <li><a href="shop.php">Bunk Bed</a></li>
-                                                    <li><a href="shop.php">Mattress</a></li>
-                                                    <li><a href="shop.php">Sideboard</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Small Appliances</li>
-                                                    <li><a href="shop.php">Bootees Bags</a></li>
-                                                    <li><a href="shop.php">Jackets</a></li>
-                                                    <li><a href="shop.php">Shelf</a></li>
-                                                    <li><a href="shop.php">Shoes</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End --> 
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/4.png" alt="menu-icon"></span>Phones & Tablets<i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    </a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Tablet</li>
-                                                    <li><a href="shop.php">tablet one</a></li>
-                                                    <li><a href="shop.php">tablet two</a></li>
-                                                    <li><a href="shop.php">tablet three</a></li>
-                                                    <li><a href="shop.php">tablet four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Smartphone</li>
-                                                    <li><a href="shop.php">phone one</a></li>
-                                                    <li><a href="shop.php">phone two</a></li>
-                                                    <li><a href="shop.php">phone three</a></li>
-                                                    <li><a href="shop.php">phone four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>TV & Video<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Gaming Desktops</li>
-                                                    <li><a href="shop.php">Alpha Desktop</a></li>
-                                                    <li><a href="shop.php">rober Desktop</a></li>
-                                                    <li><a href="shop.php">Ultra Desktop </a></li>
-                                                    <li><a href="shop.php">beta desktop</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.php">3D-Capable</a></li>
-                                                    <li><a href="shop.php">Clearance</a></li>
-                                                    <li><a href="shop.php">Free Shipping Eligible</a></li>
-                                                    <li><a href="shop.php">On Sale</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                     <li><a href="shop.php"><span><img src="img/vertical-menu/5.png" alt="menu-icon"></span>Beauty</a>
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/8.png" alt="menu-icon"></span>Fruits & Veggies</a></li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/9.png" alt="menu-icon"></span>Computer & Laptop</a></li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/10.png" alt="menu-icon"></span>Meat & Seafood</a></li>
-                                    <!-- More Categoies Start -->
-                                    <li id="cate-toggle" class="category-menu v-cat-menu">
-                                        <ul>
-                                            <li class="has-sub"><a href="#">More Categories</a>
-                                                <ul class="category-sub">
-                                                    <li><a href="shop.php"><span><img src="img/vertical-menu/11.png" alt="menu-icon"></span>Accessories</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <!-- More Categoies End -->
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
+                    <?php
+                    require_once("./lib/menu-left.php");
+                    ?>
                     <!-- Vertical Menu End Here -->
                 </div>
                 <!-- Row End -->
@@ -282,8 +71,8 @@
             <div class="container">
                 <div class="breadcrumb">
                     <ul class="d-flex align-items-center">
-                        <li><a href="index.php">Home</a></li>
-                        <li class="active"><a href="checkout.php">Checkout</a></li>
+                        <li><a href="index.php">Trang Chủ</a></li>
+                        <li class="active"><a href="checkout.php">Thanh Toán</a></li>
                     </ul>
                 </div>
             </div>
@@ -297,41 +86,41 @@
                     <div class="col-md-12">
                         <div class="coupon-accordion">
                             <!-- ACCORDION START -->
-                            <h3>Returning customer? <span id="showlogin">Click here to login</span></h3>
+                            <h3>Bạn có điều muốn góp ý? <span id="showlogin">Nhấn vào đây để đăng nhập</span></h3>
                             <div id="checkout-login" class="coupon-content">
                                 <div class="coupon-info">
-                                    <p class="coupon-text">Quisque gravida turpis sit amet nulla posuere lacinia. Cras sed est sit amet ipsum luctus.</p>
+                                    <p class="coupon-text">Chúng tôi đang hoàn thiện để đem những điều tốt nhất đến cho khách hàng!</p>
                                     <form action="#">
                                         <p class="form-row-first">
-                                            <label>Username or email <span class="required">*</span></label>
+                                            <label>Tên tài khoản hoặc email <span class="required">*</span></label>
                                             <input type="text" />
                                         </p>
                                         <p class="form-row-last">
-                                            <label>Password  <span class="required">*</span></label>
+                                            <label>Mật khẩu  <span class="required">*</span></label>
                                             <input type="text" />
                                         </p>
                                         <p class="form-row">
-                                            <input type="submit" value="Login" />
+                                            <input type="submit" value="Đăng Nhập" />
                                             <label>
 											<input type="checkbox" />
-											 Remember me 
+											 Lưu thông tin đăng nhập
 										</label>
                                         </p>
                                         <p class="lost-password">
-                                            <a href="#">Lost your password?</a>
+                                            <a href="#">Quên mật khẩu ?</a>
                                         </p>
                                     </form>
                                 </div>
                             </div>
                             <!-- ACCORDION END -->
                             <!-- ACCORDION START -->
-                            <h3>Have a coupon? <span id="showcoupon">Click here to enter your code</span></h3>
+                            <h3>Bạn có phiếu giảm giá ? <span id="showcoupon">Nhấn vào đây để nhập mã giảm giá</span></h3>
                             <div id="checkout_coupon" class="coupon-checkout-content">
                                 <div class="coupon-info">
                                     <form action="#">
                                         <p class="checkout-coupon">
-                                            <input type="text" class="code" placeholder="Coupon code" />
-                                            <input type="submit" value="Apply Coupon" />
+                                            <input type="text" class="code" placeholder="Mã giảm giá" />
+                                            <input type="submit" value="Áp dụng" />
                                         </p>
                                     </form>
                                 </div>
@@ -349,11 +138,11 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <div class="checkbox-form mb-sm-40">
-                            <h3>Billing Details</h3>
+                            <h3>Chi Tiết Thanh Toán</h3>
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="country-select clearfix mb-30">
-                                        <label>Country <span class="required">*</span></label>
+                                        <label>Đất nước <span class="required">*</span></label>
                                         <select class="wide">
                                             <option value="volvo">Bangladesh</option>
                                             <option value="saab">Algeria</option>
@@ -368,164 +157,165 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="checkout-form-list mb-sm-30">
-                                        <label>First Name <span class="required">*</span></label>
-                                        <input type="text" placeholder="" />
+                                        <label>Họ<span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập họ" />
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="checkout-form-list mb-30">
-                                        <label>Last Name <span class="required">*</span></label>
-                                        <input type="text" placeholder="" />
+                                        <label>Tên<span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập tên" />
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="checkout-form-list mb-30">
-                                        <label>Company Name</label>
-                                        <input type="text" placeholder="" />
+                                        <label>Tên công ty</label>
+                                        <input type="text" placeholder="Nhập tên công ty" />
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="checkout-form-list">
-                                        <label>Address <span class="required">*</span></label>
-                                        <input type="text" placeholder="Street address" />
+                                        <label>Địa chỉ <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập địa chỉ" />
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="checkout-form-list mtb-30">
-                                        <input type="text" placeholder="Apartment, suite, unit etc. (optional)" />
+                                        <input type="text" placeholder="Số nhà, căn hộ, dãy phòng, v.v. ( tùy chọn )" />
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="checkout-form-list mb-30">
-                                        <label>Town / City <span class="required">*</span></label>
-                                        <input type="text" placeholder="Town / City" />
+                                        <label>Tỉnh / Thành phố <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập Tỉnh / Thành phố" />
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="checkout-form-list mb-30">
-                                        <label>State / County <span class="required">*</span></label>
-                                        <input type="text" placeholder="" />
+                                        <label>Quận / Huyện <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập Quận / Huyện" />
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="checkout-form-list mb-30">
-                                        <label>Postcode / Zip <span class="required">*</span></label>
-                                        <input type="text" placeholder="Postcode / Zip" />
+                                        <label>Phường / Xã <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập Phường / Xã" />
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="checkout-form-list mb-30">
-                                        <label>Email Address <span class="required">*</span></label>
-                                        <input type="email" placeholder="" />
+                                        <label>Địa chỉ email <span class="required">*</span></label>
+                                        <input type="email" placeholder="Nhập địa chỉ email" />
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="checkout-form-list mb-30">
-                                        <label>Phone  <span class="required">*</span></label>
-                                        <input type="text" placeholder="Postcode / Zip" />
+                                        <label>Số điện thoại <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập số điện thoại" />
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="checkout-form-list create-acc mb-30">
                                         <input id="cbox" type="checkbox" />
-                                        <label>Create an account?</label>
+                                        <label>Tạo tài khoản?</label>
                                     </div>
                                     <div id="cbox_info" class="checkout-form-list create-accounts mb-25">
-                                        <p class="mb-10">Create an account by entering the information below. If you are a returning customer please login at the top of the page.</p>
-                                        <label>Account password  <span class="required">*</span></label>
-                                        <input type="password" placeholder="password" />
+                                        <p class="mb-10">Tạo tài khoản bằng cách nhập thông tin bên dưới. Nếu bạn là khách hàng cũ, vui lòng đăng nhập ở đầu trang.</p>
+                                        <label>Mật khẩu tài khoản: <span class="required">*</span></label>
+                                        <input type="password" placeholder="Nhập mật khẩu" />
                                     </div>
                                 </div>
                             </div>
                             <div class="different-address">
                                 <div class="ship-different-title">
                                     <h3>
-                                        <label>Ship to a different address?</label>
+                                        <label>Giao hàng đến địa chỉ khác?</label>
                                         <input id="ship-box" type="checkbox" />
                                     </h3>
                                 </div>
                                 <div id="ship-box-info">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="country-select clearfix mb-30">
-                                                <label>Country <span class="required">*</span></label>
-                                                <select class="wide">
-                                                    <option value="volvo">Bangladesh</option>
-                                                    <option value="saab">Algeria</option>
-                                                    <option value="mercedes">Afghanistan</option>
-                                                    <option value="audi">Ghana</option>
-                                                    <option value="audi2">Albania</option>
-                                                    <option value="audi3">Bahrain</option>
-                                                    <option value="audi4">Colombia</option>
-                                                    <option value="audi5">Dominican Republic</option>
-                                               </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>First Name <span class="required">*</span></label>
-                                                <input type="text" placeholder="" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>Last Name <span class="required">*</span></label>
-                                                <input type="text" placeholder="" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>Company Name</label>
-                                                <input type="text" placeholder="" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>Address <span class="required">*</span></label>
-                                                <input type="text" placeholder="Street address" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <div class="checkout-form-list mb-30">
-                                                <input type="text" placeholder="Apartment, suite, unit etc. (optional)" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>Town / City <span class="required">*</span></label>
-                                                <input type="text" placeholder="Town / City" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>State / County <span class="required">*</span></label>
-                                                <input type="text" placeholder="" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>Postcode / Zip <span class="required">*</span></label>
-                                                <input type="text" placeholder="Postcode / Zip" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>Email Address <span class="required">*</span></label>
-                                                <input type="email" placeholder="" />
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="checkout-form-list mb-30">
-                                                <label>Phone  <span class="required">*</span></label>
-                                                <input type="text" placeholder="Postcode / Zip" />
-                                            </div>
-                                        </div>
+                                <div class="row">
+                                <div class="col-md-12">
+                                    <div class="country-select clearfix mb-30">
+                                        <label>Đất nước <span class="required">*</span></label>
+                                        <select class="wide">
+                                            <option value="volvo">Bangladesh</option>
+                                            <option value="saab">Algeria</option>
+                                            <option value="mercedes">Afghanistan</option>
+                                            <option value="audi">Ghana</option>
+                                            <option value="audi2">Albania</option>
+                                            <option value="audi3">Bahrain</option>
+                                            <option value="audi4">Colombia</option>
+                                            <option value="audi5">Dominican Republic</option>
+                                        </select>
                                     </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="checkout-form-list mb-sm-30">
+                                        <label>Họ<span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập họ" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="checkout-form-list mb-30">
+                                        <label>Tên<span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập tên" />
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="checkout-form-list mb-30">
+                                        <label>Tên công ty</label>
+                                        <input type="text" placeholder="Nhập tên công ty" />
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="checkout-form-list">
+                                        <label>Địa chỉ <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập địa chỉ" />
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="checkout-form-list mtb-30">
+                                        <input type="text" placeholder="Số nhà, căn hộ, dãy phòng, v.v. ( tùy chọn )" />
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="checkout-form-list mb-30">
+                                        <label>Tỉnh / Thành phố <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập Tỉnh / Thành phố" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="checkout-form-list mb-30">
+                                        <label>Quận / Huyện <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập Quận / Huyện" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="checkout-form-list mb-30">
+                                        <label>Phường / Xã <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập Phường / Xã" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="checkout-form-list mb-30">
+                                        <label>Địa chỉ email <span class="required">*</span></label>
+                                        <input type="email" placeholder="Nhập địa chỉ email" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="checkout-form-list mb-30">
+                                        <label>Số điện thoại <span class="required">*</span></label>
+                                        <input type="text" placeholder="Nhập số điện thoại" />
+                                    </div>
+                                </div>
+                            </div>
                                 </div>
                                 <div class="order-notes">
                                     <div class="checkout-form-list">
-                                        <label>Order Notes</label>
-                                        <textarea id="checkout-mess" cols="30" rows="10" placeholder="Notes about your order, e.g. special notes for delivery."></textarea>
+                                        <label>Ghi chú</label>
+                                        <textarea id="checkout-mess" cols="30" rows="10" placeholder="
+Ghi chú về đơn đặt hàng của bạn, ví dụ: lưu ý đặc biệt khi giao hàng."></textarea>
                                     </div>
                                 </div>
                             </div>
@@ -533,41 +323,41 @@
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="your-order">
-                            <h3>Your order</h3>
+                            <h3>Đơn hàng của bạn</h3>
                             <div class="your-order-table table-responsive">
                                 <table>
                                     <thead>
                                         <tr>
-                                            <th class="product-name">Product</th>
-                                            <th class="product-total">Total</th>
+                                            <th class="product-name">Sản Phẩm</th>
+                                            <th class="product-total">Thành tiền</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr class="cart_item">
                                             <td class="product-name">
-                                                Vestibulum suscipit <span class="product-quantity"> × 1</span>
+                                                Sản phẩm 1 <span class="product-quantity"> × 1</span>
                                             </td>
                                             <td class="product-total">
-                                                <span class="amount">£165.00</span>
+                                                <span class="amount">100.000 VNĐ</span>
                                             </td>
                                         </tr>
                                         <tr class="cart_item">
                                             <td class="product-name">
-                                                Vestibulum dictum magna <span class="product-quantity"> × 1</span>
+                                            Sản phẩm 2 <span class="product-quantity"> × 1</span>
                                             </td>
                                             <td class="product-total">
-                                                <span class="amount">£50.00</span>
+                                                <span class="amount">50.000 VNĐ</span>
                                             </td>
                                         </tr>
                                     </tbody>
                                     <tfoot>
                                         <tr class="cart-subtotal">
-                                            <th>Cart Subtotal</th>
-                                            <td><span class="amount">£215.00</span></td>
+                                            <th>Tổng thu</th>
+                                            <td><span class="amount">150.000 VNĐ</span></td>
                                         </tr>
                                         <tr class="order-total">
-                                            <th>Order Total</th>
-                                            <td><span class=" total amount">£215.00</span>
+                                            <th>Thành tiền</th>
+                                            <td><span class=" total amount">150.000 VNĐ</span>
                                             </td>
                                         </tr>
                                     </tfoot>
@@ -579,14 +369,14 @@
                                         <div class="card-header" id="headingone">
                                             <h5 class="mb-0">
                                                 <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                  Direct Bank Transfer
+                                                  Chuyển khoản trực tiếp
                                                 </button>
                                             </h5>
                                         </div>
 
                                         <div id="collapseOne" class="collapse show" aria-labelledby="headingone" data-parent="#accordion">
                                             <div class="card-body">
-                                                <p>Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order won’t be shipped until the funds have cleared in our account.</p>
+                                                <p>Thông báo khi thanh toán bằng chuyển khoản</p>
                                             </div>
                                         </div>
                                     </div>
@@ -594,13 +384,13 @@
                                         <div class="card-header" id="headingtwo">
                                             <h5 class="mb-0">
                                                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                          Cheque Payment
+                                          Thẻ tín dụng
                                         </button>
                                             </h5>
                                         </div>
                                         <div id="collapseTwo" class="collapse" aria-labelledby="headingtwo" data-parent="#accordion">
                                             <div class="card-body">
-                                                <p>Please send your cheque to Store Name, Store Street, Store Town, Store State / County, Store Postcode.</p>
+                                                <p>Thông báo khi thanh toán bằng thẻ tín dụng</p>
                                             </div>
                                         </div>
                                     </div>
@@ -608,13 +398,13 @@
                                         <div class="card-header" id="headingthree">
                                             <h5 class="mb-0">
                                                 <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                          PayPal
+                                          Momo
                                         </button>
                                             </h5>
                                         </div>
                                         <div id="collapseThree" class="collapse" aria-labelledby="headingthree" data-parent="#accordion">
                                             <div class="card-body">
-                                                 <p>Pay via PayPal; you can pay with your credit card if you don’t have a PayPal account.</p>
+                                                 <p>Thông báo khi thanh toán bằng Momo</p>
                                             </div>
                                         </div>
                                     </div>

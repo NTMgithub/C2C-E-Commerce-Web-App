@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Home-3 || Truemart Responsive Html5 Ecommerce Template</title>
+    <title>Trang chủ 3 | Web C2C</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicons -->
     <link rel="shortcut icon" href="img/favicon.ico">
@@ -56,220 +56,9 @@
             <div class="container">
                 <div class="row">
                     <!-- Vertical Menu Start Here -->
-                    <div class="col-xl-3 col-lg-4 d-none d-lg-block">
-                        <div class="vertical-menu mb-all-30">
-                            <nav>
-                                <ul class="vertical-menu-list">
-                                    <li class=""><a href="shop.php"><span><img src="img/vertical-menu/1.png" alt="menu-icon"></span>Automotive & Motorcycle<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-
-                                        <ul class="ht-dropdown mega-child">
-                                            <li><a href="shop.php">Office chair <i class="fa fa-angle-right"></i></a>
-                                                 <!-- category submenu end-->
-                                                <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.php">Bibendum Cursus</a></li>
-                                                    <li><a href="shop.php">Dignissim Turpis</a></li>
-                                                    <li><a href="shop.php">Dining room</a></li>
-                                                    <li><a href="shop.php">Dining room</a></li>
-                                                </ul>
-                                                <!-- category submenu end-->
-                                            </li>
-                                            <li><a href="shop.php">Purus Lacus <i class="fa fa-angle-right"></i></a>
-                                                 <!-- category submenu end-->
-                                                <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.php">Magna Pellentesq</a></li>
-                                                    <li><a href="shop.php">Molestie Tortor</a></li>
-                                                    <li><a href="shop.php">Vehicula Element</a></li>
-                                                    <li><a href="shop.php">Sagittis Blandit</a></li>
-                                                </ul>
-                                                <!-- category submenu end-->
-                                            </li>                                            
-                                            <li><a href="shop.php">Sagittis Eget</a></li>
-                                            <li><a href="shop.php">Sagittis Eget</a></li>
-                                        </ul>
-                                        <!-- category submenu end-->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/3.png" alt="menu-icon"></span>Sports & Outdoors<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu first-megamenu">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Cameras</li>
-                                                    <li><a href="shop.php">Cords and Cables</a></li>
-                                                    <li><a href="shop.php">gps accessories</a></li>
-                                                    <li><a href="shop.php">Microphones</a></li>
-                                                    <li><a href="shop.php">Wireless Transmitters</a></li>
-                                                </ul>
-                                                <ul>
-                                                    <li class="menu-tile">GamePad</li>
-                                                    <li><a href="shop.php">real game hd</a></li>
-                                                    <li><a href="shop.php">fighting game</a></li>
-                                                    <li><a href="shop.php">racing pad</a></li>
-                                                    <li><a href="shop.php">puzzle pad</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Digital Cameras</li>
-                                                    <li><a href="shop.php">Camera one</a></li>
-                                                    <li><a href="shop.php">Camera two</a></li>
-                                                    <li><a href="shop.php">Camera three</a></li>
-                                                    <li><a href="shop.php">Camera four</a></li>
-                                                </ul>
-                                                <ul>
-                                                    <li class="menu-tile">Virtual Reality</li>
-                                                    <li><a href="shop.php">Reality one</a></li>
-                                                    <li><a href="shop.php">Reality two</a></li>
-                                                    <li><a href="shop.php">Reality three</a></li>
-                                                    <li><a href="shop.php">Reality four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Megamenu Image Start -->
-                                            <li class="megamenu-img">
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img1.jpg" alt="menu-image"></a>
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img2.jpg" alt="menu-image"></a>
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img3.jpg" alt="menu-image"></a>
-                                            </li>
-                                            <!-- Single Megamenu Image End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>Fashion<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Men’s Fashion</li>
-                                                    <li><a href="shop.php">Blazers</a></li>
-                                                    <li><a href="shop.php">Boots</a></li>
-                                                    <li><a href="shop.php">pants</a></li>
-                                                    <li><a href="shop.php">Tops & Tees</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.php">Bags</a></li>
-                                                    <li><a href="shop.php">Bottoms</a></li>
-                                                    <li><a href="shop.php">Shirts</a></li>
-                                                    <li><a href="shop.php">Tailored</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/7.png" alt="menu-icon"></span>Home & Kitchen<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Large Appliances</li>
-                                                    <li><a href="shop.php">Armchairs</a></li>
-                                                    <li><a href="shop.php">Bunk Bed</a></li>
-                                                    <li><a href="shop.php">Mattress</a></li>
-                                                    <li><a href="shop.php">Sideboard</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Small Appliances</li>
-                                                    <li><a href="shop.php">Bootees Bags</a></li>
-                                                    <li><a href="shop.php">Jackets</a></li>
-                                                    <li><a href="shop.php">Shelf</a></li>
-                                                    <li><a href="shop.php">Shoes</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End --> 
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/4.png" alt="menu-icon"></span>Phones & Tablets<i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    </a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Tablet</li>
-                                                    <li><a href="shop.php">tablet one</a></li>
-                                                    <li><a href="shop.php">tablet two</a></li>
-                                                    <li><a href="shop.php">tablet three</a></li>
-                                                    <li><a href="shop.php">tablet four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Smartphone</li>
-                                                    <li><a href="shop.php">phone one</a></li>
-                                                    <li><a href="shop.php">phone two</a></li>
-                                                    <li><a href="shop.php">phone three</a></li>
-                                                    <li><a href="shop.php">phone four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>TV & Video<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Gaming Desktops</li>
-                                                    <li><a href="shop.php">Alpha Desktop</a></li>
-                                                    <li><a href="shop.php">rober Desktop</a></li>
-                                                    <li><a href="shop.php">Ultra Desktop </a></li>
-                                                    <li><a href="shop.php">beta desktop</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.php">3D-Capable</a></li>
-                                                    <li><a href="shop.php">Clearance</a></li>
-                                                    <li><a href="shop.php">Free Shipping Eligible</a></li>
-                                                    <li><a href="shop.php">On Sale</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                     <li><a href="shop.php"><span><img src="img/vertical-menu/5.png" alt="menu-icon"></span>Beauty</a>
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/8.png" alt="menu-icon"></span>Fruits & Veggies</a></li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/9.png" alt="menu-icon"></span>Computer & Laptop</a></li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/10.png" alt="menu-icon"></span>Meat & Seafood</a></li>
-                                    <!-- More Categoies Start -->
-                                    <li id="cate-toggle" class="category-menu v-cat-menu">
-                                        <ul>
-                                            <li class="has-sub"><a href="#">More Categories</a>
-                                                <ul class="category-sub">
-                                                    <li><a href="shop.php"><span><img src="img/vertical-menu/11.png" alt="menu-icon"></span>Accessories</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <!-- More Categoies End -->
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
+                    <?php
+                    require_once("./lib/menu-left.php");
+                    ?>
                     <!-- Vertical Menu End Here -->
                 </div>
                 <!-- Row End -->
@@ -290,21 +79,14 @@
         </div>
         <!-- Categorie Menu & Slider Area End Here -->
         <!-- Brand Banner Area Start Here -->
-        <div class="image-banner pb-30 off-white-bg">
-            <div class="container">
-                <div class="col-img">
-                    <a href="#"><img src="img/banner/h1-banner.jpg" alt="image banner"></a>
-                </div>
-            </div>
-            <!-- Container End -->
-        </div>
+        
         <!-- Brand Banner Area End Here -->
         <!-- Trending Products End Here -->
         <div class="trendig-product pb-10 off-white-bg">
             <div class="container">
                 <div class="trending-box">
                 <div class="title-box">
-                    <h2>Trending Styles</h2>
+                    <h2>Thịnh hành</h2>
                 </div>
                 <div class="product-list-box">
                     <!-- Arrivals Product Activation Start Here -->
@@ -323,17 +105,17 @@
                             <!-- Product Content Start -->
                             <div class="pro-content">
                                 <div class="pro-info">
-                                    <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
-                                    <p><span class="price">$320.45</span> <del class="prev-price">$330.50</del></p>
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
                                     <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                 </div>
                                 <div class="pro-actions">
                                     <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
                                     </div>
                                     <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -341,12 +123,12 @@
                         </div>
                         <!-- Single Product End -->
                          <!-- Single Product Start -->
-                        <div class="single-product">
+                         <div class="single-product">
                             <!-- Product Image Start -->
                             <div class="pro-img">
                                 <a href="product.php">
-                                    <img class="primary-img" src="img/products/3.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                 </a>
                                 <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                             </div>
@@ -354,17 +136,17 @@
                             <!-- Product Content Start -->
                             <div class="pro-content">
                                 <div class="pro-info">
-                                    <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                    <p><span class="price">$150.30</span> <del class="prev-price">$105.50</del></p>
-                                    <div class="label-product l_sale">22<span class="symbol-percent">%</span></div>
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                 </div>
                                 <div class="pro-actions">
                                     <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
                                     </div>
                                     <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -372,163 +154,12 @@
                         </div>
                         <!-- Single Product End -->
                         <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/5.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                    <p><span class="price">$90.45</span></p>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                         <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/8.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Eames and Bark  Style</a></h4>
-                                    <p><span class="price">$90.45</span><del class="prev-price">$100.50</del></p>
-                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                        <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/11.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Eames and Vortex Side</a></h4>
-                                    <p><span class="price">$160.45</span></p>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                         <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/15.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
-                                    <p><span class="price">$84.45</span></p>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                        <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/13.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                    <p><span class="price">$95.45</span></p>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                         <!-- Single Product Start -->
                         <div class="single-product">
                             <!-- Product Image Start -->
                             <div class="pro-img">
                                 <a href="product.php">
                                     <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                 </a>
                                 <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                             </div>
@@ -536,16 +167,172 @@
                             <!-- Product Content Start -->
                             <div class="pro-content">
                                 <div class="pro-info">
-                                    <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                    <p><span class="price">$84.45</span></p>
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                 </div>
                                 <div class="pro-actions">
                                     <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
                                     </div>
                                     <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                         <!-- Single Product Start -->
+                         <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                        <!-- Single Product Start -->
+                        <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                         <!-- Single Product Start -->
+                         <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                        <!-- Single Product Start -->
+                        <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                         <!-- Single Product Start -->
+                         <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -566,7 +353,7 @@
             <div class="container">
                 <div class="trending-box">
                 <div class="title-box">
-                    <h2>Best Selling</h2>
+                    <h2>Bán chạy nhất</h2>
                 </div>
                 <div class="product-list-box">
                     <!-- Arrivals Product Activation Start Here -->
@@ -576,8 +363,8 @@
                             <!-- Product Image Start -->
                             <div class="pro-img">
                                 <a href="product.php">
-                                    <img class="primary-img" src="img/products/17.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                 </a>
                                 <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                             </div>
@@ -585,47 +372,17 @@
                             <!-- Product Content Start -->
                             <div class="pro-content">
                                 <div class="pro-info">
-                                    <h4><a href="product.php">Eames and Vortex Side</a></h4>
-                                    <p><span class="price">$160.45</span></p>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->                        
-                        <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/19.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
-                                    <p><span class="price">$320.45</span> <del class="prev-price">$330.50</del></p>
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
                                     <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                 </div>
                                 <div class="pro-actions">
                                     <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
                                     </div>
                                     <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -633,12 +390,12 @@
                         </div>
                         <!-- Single Product End -->
                          <!-- Single Product Start -->
-                        <div class="single-product">
+                         <div class="single-product">
                             <!-- Product Image Start -->
                             <div class="pro-img">
                                 <a href="product.php">
-                                    <img class="primary-img" src="img/products/21.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                 </a>
                                 <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                             </div>
@@ -646,17 +403,17 @@
                             <!-- Product Content Start -->
                             <div class="pro-content">
                                 <div class="pro-info">
-                                    <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                    <p><span class="price">$150.30</span> <del class="prev-price">$105.50</del></p>
-                                    <div class="label-product l_sale">22<span class="symbol-percent">%</span></div>
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                 </div>
                                 <div class="pro-actions">
                                     <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
                                     </div>
                                     <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -664,133 +421,12 @@
                         </div>
                         <!-- Single Product End -->
                         <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/22.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/23.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                    <p><span class="price">$90.45</span></p>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                         <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/8.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Eames and Bark  Style</a></h4>
-                                    <p><span class="price">$90.45</span><del class="prev-price">$100.50</del></p>
-                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                         <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/15.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
-                                    <p><span class="price">$84.45</span></p>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                        <!-- Single Product Start -->
-                        <div class="single-product">
-                            <!-- Product Image Start -->
-                            <div class="pro-img">
-                                <a href="product.php">
-                                    <img class="primary-img" src="img/products/13.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
-                                </a>
-                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                            </div>
-                            <!-- Product Image End -->
-                            <!-- Product Content Start -->
-                            <div class="pro-content">
-                                <div class="pro-info">
-                                    <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                    <p><span class="price">$95.45</span></p>
-                                </div>
-                                <div class="pro-actions">
-                                    <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                    </div>
-                                    <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Product Content End -->
-                        </div>
-                        <!-- Single Product End -->
-                         <!-- Single Product Start -->
                         <div class="single-product">
                             <!-- Product Image Start -->
                             <div class="pro-img">
                                 <a href="product.php">
                                     <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                    <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
                                 </a>
                                 <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                             </div>
@@ -798,16 +434,172 @@
                             <!-- Product Content Start -->
                             <div class="pro-content">
                                 <div class="pro-info">
-                                    <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                    <p><span class="price">$84.45</span></p>
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
                                 </div>
                                 <div class="pro-actions">
                                     <div class="actions-primary">
-                                        <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
                                     </div>
                                     <div class="actions-secondary">
-                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                         <!-- Single Product Start -->
+                         <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                        <!-- Single Product Start -->
+                        <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                         <!-- Single Product Start -->
+                         <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                        <!-- Single Product Start -->
+                        <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Product Content End -->
+                        </div>
+                        <!-- Single Product End -->
+                         <!-- Single Product Start -->
+                         <div class="single-product">
+                            <!-- Product Image Start -->
+                            <div class="pro-img">
+                                <a href="product.php">
+                                    <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                    <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                </a>
+                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            </div>
+                            <!-- Product Image End -->
+                            <!-- Product Content Start -->
+                            <div class="pro-content">
+                                <div class="pro-info">
+                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                    <p><span class="price">320.000 VNĐ</span> <del class="prev-price">330.000 VNĐ</del></p>
+                                    <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
+                                </div>
+                                <div class="pro-actions">
+                                    <div class="actions-primary">
+                                        <a href="cart.php" title="Add to Cart"> + Thêm vào giỏ hàng</a>
+                                    </div>
+                                    <div class="actions-secondary">
+                                        <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                        <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -829,7 +621,7 @@
                 <div class="all-border">
                    <!-- Product Title Start -->
                    <div class="section-ttitle mb-30">
-                        <h2>hot deals  </h2>
+                        <h2>Ưu đãi lớn</h2>
                    </div>
                    <!-- Product Title End -->
                     <!-- Hot Deal Product Activation Start -->
@@ -869,19 +661,19 @@
                             <div class="col-lg-6 hot-product2">
                                 <div class="thubnail-desc fix">
                                     <div class="countdown" data-countdown="2025/03/01"></div>
-                                    <h3><a href="product.php">Light Inverted Pendant Qu...</a></h3>
+                                    <h3><a href="product.php">Sản Phẩm</a></h3>
                                     <div class="pro-price mtb-30">
-                                        <p><span class="price">$90.45</span><del class="prev-price">$105.50</del></p>
+                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
                                         <div class="label-product l_sale">6<span class="symbol-percent">%</span></div>
                                     </div>
-                                    <p class="mb-30 pro-desc-details">  Canon's press material for the EOS 5D states that it 'defines (a) new D-SLR category', while we're not typically too concerned with marketing talk this particular statement is clearly pretty accurate. The EOS 5D is unlike any previous digital SLR in that it combines a full-frame (35 mm sized) high resolution sensor (12.8 megapixels) with a relatively compact body (slightly larger than the EOS.</p>
+                                    <p class="mb-30 pro-desc-details">Mô tả sản phẩm</p>
                                     <div class="pro-actions">
                                         <div class="actions-primary">
-                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                            <a href="cart.php" title="Add to Cart">+Thêm vào giỏ hàng</a>
                                         </div>
                                         <div class="actions-secondary">
-                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
                                         </div>
                                     </div>                                
                                 </div>
@@ -893,27 +685,27 @@
                             <div class="col-lg-6 mb-all-40 hot-product2 ">
                                 <!-- Thumbnail Large Image start -->
                                 <div class="tab-content">
-                                    <div id="thumb11" class="tab-pane fade show active">
-                                        <a data-fancybox="images" href="img/products/21.jpg"><img src="img/products/21.jpg" alt="product-view"></a>
+                                    <div id="thumb1" class="tab-pane fade show active">
+                                        <a data-fancybox="images" href="img/products/35.jpg"><img src="img/products/35.jpg" alt="product-view"></a>
                                     </div>
-                                    <div id="thumb21" class="tab-pane fade">
-                                        <a data-fancybox="images" href="img/products/22.jpg"><img src="img/products/22.jpg" alt="product-view"></a>
+                                    <div id="thumb2" class="tab-pane fade">
+                                        <a data-fancybox="images" href="img/products/13.jpg"><img src="img/products/13.jpg" alt="product-view"></a>
                                     </div>
-                                    <div id="thumb31" class="tab-pane fade">
-                                        <a data-fancybox="images" href="img/products/23.jpg"><img src="img/products/23.jpg" alt="product-view"></a>
+                                    <div id="thumb3" class="tab-pane fade">
+                                        <a data-fancybox="images" href="img/products/15.jpg"><img src="img/products/15.jpg" alt="product-view"></a>
                                     </div>
-                                    <div id="thumb41" class="tab-pane fade">
-                                        <a data-fancybox="images" href="img/products/24.jpg"><img src="img/products/24.jpg" alt="product-view"></a>
+                                    <div id="thumb4" class="tab-pane fade">
+                                        <a data-fancybox="images" href="img/products/4.jpg"><img src="img/products/4.jpg" alt="product-view"></a>
                                     </div>
                                 </div>
                                 <!-- Thumbnail Large Image End -->
                                 <!-- Thumbnail Image End -->
                                 <div class="product-thumbnail">
                                     <div class="pro-tab-menu nav tabs-area" role="tablist">
-                                        <a class="active" data-toggle="tab" href="#thumb11"><img src="img/products/21.jpg" alt="product-thumbnail"></a>
-                                        <a data-toggle="tab" href="#thumb21"><img src="img/products/22.jpg" alt="product-thumbnail"></a>
-                                        <a data-toggle="tab" href="#thumb31"><img src="img/products/23.jpg" alt="product-thumbnail"></a>
-                                        <a data-toggle="tab" href="#thumb41"><img src="img/products/24.jpg" alt="product-thumbnail"></a>
+                                        <a class="active" data-toggle="tab" href="#thumb1"><img src="img/products/35.jpg" alt="product-thumbnail"></a>
+                                        <a data-toggle="tab" href="#thumb2"><img src="img/products/13.jpg" alt="product-thumbnail"></a>
+                                        <a data-toggle="tab" href="#thumb3"><img src="img/products/15.jpg" alt="product-thumbnail"></a>
+                                        <a data-toggle="tab" href="#thumb4"><img src="img/products/4.jpg" alt="product-thumbnail"></a>
                                     </div>
                                 </div>
                                 <!-- Thumbnail image end -->
@@ -923,19 +715,19 @@
                             <div class="col-lg-6 hot-product2">
                                 <div class="thubnail-desc fix">
                                     <div class="countdown" data-countdown="2025/03/01"></div>
-                                    <h3><a href="product.php">Flos Chasen S2 Suspension </a></h3>
+                                    <h3><a href="product.php">Sản Phẩm</a></h3>
                                     <div class="pro-price mtb-30">
-                                        <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                        <div class="label-product l_sale">6<span class="symbol-percent">%</span></div>
                                     </div>
-                                    <p class="mb-30 pro-desc-details">  Canon's press material for the EOS 5D states that it 'defines (a) new D-SLR category', while we're not typically too concerned with marketing talk this particular statement is clearly pretty accurate. The EOS 5D is unlike any previous digital SLR in that it combines a full-frame (35 mm sized) high resolution sensor (12.8 megapixels) with a relatively compact body (slightly larger than the EOS.</p>
+                                    <p class="mb-30 pro-desc-details">Mô tả sản phẩm</p>
                                     <div class="pro-actions">
                                         <div class="actions-primary">
-                                            <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                            <a href="cart.php" title="Add to Cart">+Thêm vào giỏ hàng</a>
                                         </div>
                                         <div class="actions-secondary">
-                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So sánh</span></a>
+                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu thích</span></a>
                                         </div>
                                     </div>                                
                                 </div>
@@ -996,30 +788,30 @@
                 <div class="main-product-tab-area">
                     <div class="tab-menu mb-25">
                         <div class="section-ttitle">
-                            <h2>New Arrivals</h2>
+                            <h2>SẢN PHẨM YÊU THÍCH NHẤT</h2>
                        </div>
                         <!-- Nav tabs -->
                         <ul class="nav tabs-area" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" data-toggle="tab" href="#fshion">Fashion</a>
+                                <a class="nav-link active" data-toggle="tab" href="#electronics">Menu 1 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#beauty">Beauty</a>
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 2</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#electronics">Sport/Outdoor</a>
+                                <a class="nav-link" data-toggle="tab" href="#electronics">Menu 3</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#kids">Living</a>
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 4</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#beauty">Food</a>
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 5</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#kids">Baby/Kids</a>
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 6</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#electronics">Electronics </a>
+                                <a class="nav-link" data-toggle="tab" href="#fshion">Menu 7</a>
                             </li>
                         </ul>                       
 
@@ -1028,1119 +820,1255 @@
                     <!-- Tab Contetn Start -->
                     <div class="tab-content">
                         <div id="fshion" class="tab-pane fade">
-                            <!-- Arrivals Product Activation Start Here -->
-                            <div class="electronics-pro-active owl-carousel">
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
-                                                <p><span class="price">$320.45</span><del class="prev-price">$400.50</del></p>
-                                                <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản phâm 1</a></h4>
+                                                    <p><span class="price">188.00 VNĐ</span><del class="prev-price">190.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/3.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                                <p><span class="price">$150.30</span><del class="prev-price">$175.50</del></p>
-                                                <div class="label-product l_sale">10<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
                                 </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                                 </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
                                                 </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
                                         </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/8.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Eames and Bark  Style</a></h4>
-                                                <p><span class="price">$180.45</span><del class="prev-price">$200.50</del></p>
-                                                <div class="label-product l_sale">18<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
+                                    <!-- Arrivals Product Activation End Here -->
                                 </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/11.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Eames and Vortex Side</a></h4>
-                                                <p><span class="price">$160.45</span><del class="prev-price">$190.50</del></p>
-                                                <div class="label-product l_sale">12<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/15.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/13.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                </div>
-                                <!-- Double Product End -->
                             </div>
-                            <!-- Arrivals Product Activation End Here -->
                         </div>
                         <!-- #fshion End Here -->
                         <div id="kids" class="tab-pane fade show active">
-                            <!-- Arrivals Product Activation Start Here -->
-                            <div class="electronics-pro-active owl-carousel">
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/42.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Utensils and Knives Block</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/40.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$300.50</del></p>
-                                                <div class="label-product l_sale">25<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
                                 </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/39.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Robert Welch Knife Block</a></h4>
-                                                <p><span class="price">$100.45</span><del class="prev-price">$150.50</del></p>
-                                                <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                                 </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
                                                 </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
                                         </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/36.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$90.50</span><del class="prev-price">$120.50</del></p>
-                                                <div class="label-product l_sale">15<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
+                                    <!-- Arrivals Product Activation End Here -->
                                 </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/35.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Bark and  Vortex Side</a></h4>
-                                                <p><span class="price">$69.20</span><del class="prev-price">$145.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/34.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/32.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">kallery kids  weare</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                </div>
-                                <!-- Double Product End -->
                             </div>
-                            <!-- Arrivals Product Activation End Here -->
                         </div>
                         <!-- #fshion End Here -->
                         <div id="beauty" class="tab-pane fade">
-                            <!-- Arrivals Product Activation Start Here -->
-                            <div class="electronics-pro-active owl-carousel">
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/43.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/41.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/39.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
                                 </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                                 </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
                                                 </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
                                         </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/9.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
+                                    <!-- Arrivals Product Activation End Here -->
                                 </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/11.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/3.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/43.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                </div>
-                                <!-- Double Product End -->
                             </div>
-                            <!-- Arrivals Product Activation End Here -->
                         </div>
                         <!-- #beauty End Here -->
                         <div id="electronics" class="tab-pane fade">
-                            <!-- Arrivals Product Activation Start Here -->
-                            <div class="electronics-pro-active owl-carousel">
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/17.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/19.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Country Squire Florist</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
                                 </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/20.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Concord Fabric Single</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                                 </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
                                                 </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
                                         </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/21.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
+                                    <!-- Arrivals Product Activation End Here -->
                                 </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/23.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/24.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                </div>
-                                <!-- Double Product End -->
-                                <!-- Double Product Start -->
-                                <div class="double-product">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/26.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Bark and Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/28.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
-                                                <p><span class="price">$84.45</span><del class="prev-price">$105.50</del></p>
-                                                <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                        <span class="sticker-new">new</span>
-                                    </div>
-                                    <!-- Single Product End -->
-                                </div>
-                                <!-- Double Product End -->
-                            </div>
-                            <!-- Arrivals Product Activation End Here -->
+                            </div>                            
                         </div>
                         <!-- #electronics End Here -->
                     </div>
@@ -2151,36 +2079,36 @@
             <!-- Container End -->
         </div>
         <!-- Arrivals Products Area End Here -->
-        <!-- Arrivals Products Area Start Here -->
-        <div class="second-arrivals-product pb-45 pb-sm-5">
+        <!-- Womens Products Area Start Here -->
+        <div class="arrivals-product pb-85 pb-sm-45">
             <div class="container">
                 <div class="main-product-tab-area">
                     <div class="tab-menu mb-25">
                         <div class="section-ttitle">
-                            <h2>Best Seller</h2>
+                            <h2>Nam & Nữ</h2>
                        </div>
                         <!-- Nav tabs -->
                         <ul class="nav tabs-area" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" data-toggle="tab" href="#electronics2">Electronics </a>
+                                <a class="nav-link active" data-toggle="tab" href="#electronics">Menu 1 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#beauty2">Beauty</a>
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 2</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#electronics2">Sport/Outdoor</a>
+                                <a class="nav-link" data-toggle="tab" href="#electronics">Menu 3</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#kids2">Living</a>
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 4</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#beauty2">Food</a>
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 5</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#kids2">Baby/Kids</a>
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 6</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" data-toggle="tab" href="#fshion2">Fashion</a>
+                                <a class="nav-link" data-toggle="tab" href="#fshion">Menu 7</a>
                             </li>
                         </ul>                       
 
@@ -2188,932 +2116,5147 @@
 
                     <!-- Tab Contetn Start -->
                     <div class="tab-content">
-                        <div id="fshion2" class="tab-pane fade">
-                            <!-- Arrivals Product Activation Start Here -->
-                            <div class="best-seller-pro-active owl-carousel">
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                        <div id="fshion" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Work Lamp Silver Proin</a></h4>
-                                                <p><span class="price">$320.45</span></p>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản phâm 1</a></h4>
+                                                    <p><span class="price">188.00 VNĐ</span><del class="prev-price">190.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
                                                 </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
-                                        <!-- Product Content End -->
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/3.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                                <p><span class="price">$150.30</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                                 </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
                                                 </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
                                         </div>
-                                        <!-- Product Content End -->
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Single Product End -->
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/5.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$150.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/8.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/9.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Eames and Bark  Style</a></h4>
-                                                <p><span class="price">$180.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/11.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Eames and Vortex Side</a></h4>
-                                                <p><span class="price">$160.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/15.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/16.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Bark Vortex Side Eames</a></h4>
-                                                <p><span class="price">$84.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                    <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/13.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/14.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$95.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
-                                     <!-- Single Product Start -->
-                                    <div class="single-product">
-                                        <!-- Product Image Start -->
-                                        <div class="pro-img">
-                                            <a href="product.php">
-                                                <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                                <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
-                                            </a>
-                                            <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                        </div>
-                                        <!-- Product Image End -->
-                                        <!-- Product Content Start -->
-                                        <div class="pro-content">
-                                            <div class="pro-info">
-                                                <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                                <p><span class="price">$84.45</span></p>
-                                            </div>
-                                            <div class="pro-actions">
-                                                <div class="actions-primary">
-                                                    <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                                </div>
-                                                <div class="actions-secondary">
-                                                    <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                    <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Product Content End -->
-                                    </div>
-                                    <!-- Single Product End -->
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
                             </div>
-                            <!-- Arrivals Product Activation End Here -->
                         </div>
                         <!-- #fshion End Here -->
-                        <div id="kids2" class="tab-pane fade">
-                            <!-- Arrivals Product Activation Start Here -->
-                            <div class="best-seller-pro-active owl-carousel">
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/42.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Utensils and Knives Block</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                        <div id="kids" class="tab-pane fade show active">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Product Content End -->
                                 </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/40.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/41.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Terra Xpress HE Cooking </a></h4>
-                                            <p><span class="price">$63.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
                                         </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Product Content End -->
+                                    <!-- Arrivals Product Activation End Here -->
                                 </div>
-                                <!-- Single Product End -->
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/39.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/38.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Robert Welch Knife Block</a></h4>
-                                            <p><span class="price">$100.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/36.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/37.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$90.50</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/35.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/36.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Bark and  Vortex Side</a></h4>
-                                            <p><span class="price">$69.20</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/34.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/35.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Compary and Bark Vortex Shewe</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/32.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/33.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">kallery kids  weare</a></h4>
-                                            <p><span class="price">$98.50</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/1.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/7.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
                             </div>
-                            <!-- Arrivals Product Activation End Here -->
                         </div>
                         <!-- #fshion End Here -->
-                        <div id="beauty2" class="tab-pane fade">
-                            <!-- Arrivals Product Activation Start Here -->
-                            <div class="best-seller-pro-active owl-carousel">
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/43.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                        <div id="beauty" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Product Content End -->
                                 </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/41.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/39.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
                                         </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Product Content End -->
+                                    <!-- Arrivals Product Activation End Here -->
                                 </div>
-                                <!-- Single Product End -->
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/5.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/6.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/9.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/10.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/11.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/12.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/3.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/4.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
                             </div>
-                            <!-- Arrivals Product Activation End Here -->
                         </div>
                         <!-- #beauty End Here -->
-                        <div id="electronics2" class="tab-pane fade show active">
-                            <!-- Arrivals Product Activation Start Here -->
-                            <div class="best-seller-pro-active owl-carousel">
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/17.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Flos Chasen S2 Suspension</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                        <div id="electronics" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Product Content End -->
                                 </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/19.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/20.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Country Squire Florist</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
                                         </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Product Content End -->
+                                    <!-- Arrivals Product Activation End Here -->
                                 </div>
-                                <!-- Single Product End -->
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/20.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/21.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Concord Fabric Single</a></h4>
-                                            <p><span class="price">$84.45</span></p>
+                            </div>                            
+                        </div>
+                        <!-- #electronics End Here -->
+                    </div>
+                    <!-- Tab Content End -->
+                </div>
+                <!-- main-product-tab-area-->
+            </div>
+            <!-- Container End -->
+        </div>
+        <!-- Womens Products Area End Here -->
+        <!-- Furniture Products Area Start Here -->
+        <div class="arrivals-product pb-85 pb-sm-45">
+            <div class="container">
+                <div class="main-product-tab-area">
+                    <div class="tab-menu mb-25">
+                        <div class="section-ttitle">
+                            <h2>Hàng Trẻ Con</h2>
+                       </div>
+                        <!-- Nav tabs -->
+                        <ul class="nav tabs-area" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" data-toggle="tab" href="#electronics">Menu 1 </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 2</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#electronics">Menu 3</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 4</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 5</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 6</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#fshion">Menu 7</a>
+                            </li>
+                        </ul>                        
+
+                    </div> 
+
+                    <!-- Tab Contetn Start -->
+                    <div class="tab-content">
+                        <div id="fshion" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
                                         </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản phâm 1</a></h4>
+                                                    <p><span class="price">188.00 VNĐ</span><del class="prev-price">190.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
                                             </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
                                         </div>
+                                        <!-- Single Product End -->
                                     </div>
-                                    <!-- Product Content End -->
                                 </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/21.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/22.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Poly and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
                                             </div>
+                                            <!-- Single Product End -->
                                         </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
                                     </div>
-                                    <!-- Product Content End -->
+                                    <!-- Arrivals Product Activation End Here -->
                                 </div>
-                                <!-- Single Product End -->
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/23.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/24.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Gpoly and Bark Eames Style</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/24.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/25.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Vortex and Bark Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/26.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/27.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Bark and Vortex Side</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
-                                 <!-- Single Product Start -->
-                                <div class="single-product">
-                                    <!-- Product Image Start -->
-                                    <div class="pro-img">
-                                        <a href="product.php">
-                                            <img class="primary-img" src="img/products/28.jpg" alt="single-product">
-                                            <img class="secondary-img" src="img/products/29.jpg" alt="single-product">
-                                        </a>
-                                        <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
-                                    </div>
-                                    <!-- Product Image End -->
-                                    <!-- Product Content Start -->
-                                    <div class="pro-content">
-                                        <div class="pro-info">
-                                            <h4><a href="product.php">Electronic and Bark Vortex</a></h4>
-                                            <p><span class="price">$84.45</span></p>
-                                        </div>
-                                        <div class="pro-actions">
-                                            <div class="actions-primary">
-                                                <a href="cart.php" title="Add to Cart"> + Add To Cart</a>
-                                            </div>
-                                            <div class="actions-secondary">
-                                                <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>Add To Compare</span></a>
-                                                <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Add to WishList</span></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Product Content End -->
-                                </div>
-                                <!-- Single Product End -->
                             </div>
-                            <!-- Arrivals Product Activation End Here -->
+                        </div>
+                        <!-- #fshion End Here -->
+                        <div id="kids" class="tab-pane fade show active">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- #fshion End Here -->
+                        <div id="beauty" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- #beauty End Here -->
+                        <div id="electronics" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>                            
+                        </div>
+                        <!-- #electronics End Here -->
+                    </div>
+                    <!-- Tab Content End -->
+                </div>
+                <!-- main-product-tab-area-->
+            </div>
+            <!-- Container End -->
+        </div>
+        <!-- Furniture Products Area End Here -->
+        <!-- Kids Products Area Start Here -->
+        <div class="arrivals-product pb-85 pb-sm-45">
+            <div class="container">
+                <div class="main-product-tab-area">
+                    <div class="tab-menu mb-25">
+                        <div class="section-ttitle">
+                            <h2>HOT</h2>
+                       </div>
+                        <!-- Nav tabs -->
+                        <ul class="nav tabs-area" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" data-toggle="tab" href="#electronics">Menu 1 </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 2</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#electronics">Menu 3</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 4</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 5</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 6</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#fshion">Menu 7</a>
+                            </li>
+                        </ul>                       
+
+                    </div> 
+
+                    <!-- Tab Contetn Start -->
+                    <div class="tab-content">
+                        <div id="fshion" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản phâm 1</a></h4>
+                                                    <p><span class="price">188.00 VNĐ</span><del class="prev-price">190.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- #fshion End Here -->
+                        <div id="kids" class="tab-pane fade show active">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- #fshion End Here -->
+                        <div id="beauty" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- #beauty End Here -->
+                        <div id="electronics" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>                            
+                        </div>
+                        <!-- #electronics End Here -->
+                    </div>
+                    <!-- Tab Content End -->
+                </div>
+                <!-- main-product-tab-area-->
+            </div>
+            <!-- Container End -->
+        </div>
+        <!-- Kids Products Area End Here -->
+        <!-- Arrivals Products Area Start Here -->
+        <div class="second-arrivals-product pb-45 pb-sm-5">
+            <div class="container">
+                <div class="main-product-tab-area">
+                    <div class="tab-menu mb-25">
+                        <div class="section-ttitle">
+                            <h2>Giảm giá nhiều nhất</h2>
+                       </div>
+                        <!-- Nav tabs -->
+                        <ul class="nav tabs-area" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" data-toggle="tab" href="#electronics">Menu 1 </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 2</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#electronics">Menu 3</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 4</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#beauty">Menu 5</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#kids">Menu 6</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" data-toggle="tab" href="#fshion">Menu 7</a>
+                            </li>
+                        </ul>                        
+
+                    </div> 
+
+                    <!-- Tab Contetn Start -->
+                    <div class="tab-content">
+                        <div id="fshion" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản phâm 1</a></h4>
+                                                    <p><span class="price">188.00 VNĐ</span><del class="prev-price">190.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/1.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/2.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản phẩm</a></h4>
+                                                        <p><span class="price">320.000 VNĐ</span><del class="prev-price">400.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">30<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- #fshion End Here -->
+                        <div id="kids" class="tab-pane fade show active">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/42.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/43.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- #fshion End Here -->
+                        <div id="beauty" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">90.000 VNĐ</span><del class="prev-price">120.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- #beauty End Here -->
+                        <div id="electronics" class="tab-pane fade">
+                            <div class="row">
+                                <div class="col-lg-5 order-2 order-lg-1">
+                                    <div class="banner-site-box mt-10">
+                                        <div class="col-img">
+                                            <a href="#"><img src="img/banner/electorince.jpg" alt=""></a>
+                                        </div>
+                                        <!-- Single Product Start -->
+                                        <div class="single-product mt-20">
+                                            <!-- Product Image Start -->
+                                            <div class="pro-img">
+                                                <a href="product.php">
+                                                    <img class="primary-img" src="img/products/43.jpg" alt="single-product">
+                                                    <img class="secondary-img" src="img/products/42.jpg" alt="single-product">
+                                                </a>
+                                                <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                            </div>
+                                            <!-- Product Image End -->
+                                            <!-- Product Content Start -->
+                                            <div class="pro-content">
+                                                <div class="pro-info">
+                                                    <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                    <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                    <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                </div>
+                                            </div>
+                                            <!-- Product Content End -->
+                                            <span class="sticker-new">MỚI</span>
+                                        </div>
+                                        <!-- Single Product End -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-7 order-1 order-lg-2">
+                                    <!-- Arrivals Product Activation Start Here -->
+                                    <div class="electronics-pro-active2 owl-carousel">
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                        <!-- Double Product Start -->
+                                        <div class="double-product">
+                                            <!-- Single Product Start -->
+                                            <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                             <!-- Single Product Start -->
+                                             <div class="single-product">
+                                                <!-- Product Image Start -->
+                                                <div class="pro-img">
+                                                    <a href="product.php">
+                                                        <img class="primary-img" src="img/products/17.jpg" alt="single-product">
+                                                        <img class="secondary-img" src="img/products/18.jpg" alt="single-product">
+                                                    </a>
+                                                    <a href="#" class="quick_view" data-toggle="modal" data-target="#myModal" title="Quick View"><i class="lnr lnr-magnifier"></i></a>
+                                                </div>
+                                                <!-- Product Image End -->
+                                                <!-- Product Content Start -->
+                                                <div class="pro-content">
+                                                    <div class="pro-info">
+                                                        <h4><a href="product.php">Sản Phẩm</a></h4>
+                                                        <p><span class="price">84.000 VNĐ</span><del class="prev-price">105.000 VNĐ</del></p>
+                                                        <div class="label-product l_sale">20<span class="symbol-percent">%</span></div>
+                                                    </div>
+                                                    <div class="pro-actions">
+                                                        <div class="actions-primary">
+                                                            <a href="cart.php" title="Add to Cart"> + Thêm Vào Giỏ Hàng</a>
+                                                        </div>
+                                                        <div class="actions-secondary">
+                                                            <a href="compare.php" title="Compare"><i class="lnr lnr-sync"></i> <span>So Sánh</span></a>
+                                                            <a href="wishlist.php" title="WishList"><i class="lnr lnr-heart"></i> <span>Yêu Thích</span></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!-- Product Content End -->
+                                                <span class="sticker-new">MỚI</span>
+                                            </div>
+                                            <!-- Single Product End -->
+                                        </div>
+                                        <!-- Double Product End -->
+                                    </div>
+                                    <!-- Arrivals Product Activation End Here -->
+                                </div>
+                            </div>                            
                         </div>
                         <!-- #electronics End Here -->
                     </div>
@@ -3128,84 +7271,84 @@
         <div class="blog-area ptb-95 off-white-bg ptb-sm-55">
             <div class="container">
                 <div class="like-product-area"> 
-                    <h2 class="section-ttitle2 mb-30">Latest Blog Post </h2>
+                    <h2 class="section-ttitle2 mb-30">Các bài đăng mới nhất trên Blog</h2>
                <!-- Latest Blog Active Start Here -->
                <div class="latest-blog-active owl-carousel">
                    <!-- Single Blog Start -->
                    <div class="single-latest-blog">
-                       <div class="blog-img">
-                           <a href="single-blog.php"><img src="img/blog/1.jpg" alt="blog-image"></a>
-                       </div>
-                       <div class="blog-desc">
-                           <h4><a href="single-blog.php">At wisi enim ad minim veniam.</a></h4>
-                            <ul class="meta-box d-flex">
-                                <li><a href="#">By Truemart</a></li>
-                            </ul>
-                            <p>Aenean vestibulum pretium enim vitae , non commodo urna volutpat . Pellentesque vel lacus  eget est d...</p>
-                            <a  class="readmore" href="single-blog.php">Read More</a>
-                       </div>
-                       <div class="blog-date">
-                            <span>28</span>
-                            June
-                        </div>
-                   </div>
+                               <div class="blog-img">
+                                   <a href="single-blog.php"><img src="img/blog/1.jpg" alt="blog-image"></a>
+                               </div>
+                               <div class="blog-desc">
+                                   <h4><a href="single-blog.php">Bài viết 1</a></h4>
+                                    <ul class="meta-box d-flex">
+                                        <li><a href="#">Customer</a></li>
+                                    </ul>
+                                    <p>Nội dung bài viết</p>
+                                    <a  class="readmore" href="single-blog.php">Đọc Thêm</a>
+                               </div>
+                               <div class="blog-date">
+                                    <span>28</span>
+                                    Tháng 6
+                                </div>
+                           </div>
                    <!-- Single Blog End -->
                    <!-- Single Blog Start -->
                    <div class="single-latest-blog">
-                       <div class="blog-img">
-                           <a href="single-blog.php"><img src="img/blog/2.jpg" alt="blog-image"></a>
-                       </div>
-                       <div class="blog-desc">
-                           <h4><a href="single-blog.php">Dt wisi enim ad minim veniam.</a></h4>
-                            <ul class="meta-box d-flex">
-                                <li><a href="#">By Truemart</a></li>
-                            </ul>
-                            <p>Aenean vestibulum pretium enim vitae , non commodo urna volutpat . Pellentesque vel lacus  eget est d...</p>
-                            <a  class="readmore" href="single-blog.php">Read More</a>
-                       </div>
-                       <div class="blog-date">
-                            <span>28</span>
-                            June
-                        </div>
-                   </div>
+                               <div class="blog-img">
+                                   <a href="single-blog.php"><img src="img/blog/1.jpg" alt="blog-image"></a>
+                               </div>
+                               <div class="blog-desc">
+                                   <h4><a href="single-blog.php">Bài viết 1</a></h4>
+                                    <ul class="meta-box d-flex">
+                                        <li><a href="#">Customer</a></li>
+                                    </ul>
+                                    <p>Nội dung bài viết</p>
+                                    <a  class="readmore" href="single-blog.php">Đọc Thêm</a>
+                               </div>
+                               <div class="blog-date">
+                                    <span>28</span>
+                                    Tháng 6
+                                </div>
+                           </div>
                    <!-- Single Blog End -->
                    <!-- Single Blog Start -->
                    <div class="single-latest-blog">
-                       <div class="blog-img">
-                           <a href="single-blog.php"><img src="img/blog/1.jpg" alt="blog-image"></a>
-                       </div>
-                       <div class="blog-desc">
-                           <h4><a href="single-blog.php">At wisi enim ad minim veniam.</a></h4>
-                            <ul class="meta-box d-flex">
-                                <li><a href="#">By Truemart</a></li>
-                            </ul>
-                            <p>Aenean vestibulum pretium enim vitae , non commodo urna volutpat . Pellentesque vel lacus  eget est d...</p>
-                            <a  class="readmore" href="single-blog.php">Read More</a>
-                       </div>
-                       <div class="blog-date">
-                            <span>28</span>
-                            June
-                        </div>
-                   </div>
+                               <div class="blog-img">
+                                   <a href="single-blog.php"><img src="img/blog/1.jpg" alt="blog-image"></a>
+                               </div>
+                               <div class="blog-desc">
+                                   <h4><a href="single-blog.php">Bài viết 1</a></h4>
+                                    <ul class="meta-box d-flex">
+                                        <li><a href="#">Customer</a></li>
+                                    </ul>
+                                    <p>Nội dung bài viết</p>
+                                    <a  class="readmore" href="single-blog.php">Đọc Thêm</a>
+                               </div>
+                               <div class="blog-date">
+                                    <span>28</span>
+                                    Tháng 6
+                                </div>
+                           </div>
                    <!-- Single Blog End -->
                    <!-- Single Blog Start -->
                    <div class="single-latest-blog">
-                       <div class="blog-img">
-                           <a href="single-blog.php"><img src="img/blog/2.jpg" alt="blog-image"></a>
-                       </div>
-                       <div class="blog-desc">
-                           <h4><a href="single-blog.php">Dt wisi enim ad minim veniam.</a></h4>
-                            <ul class="meta-box d-flex">
-                                <li><a href="#">By Truemart</a></li>
-                            </ul>
-                            <p>Aenean vestibulum pretium enim vitae , non commodo urna volutpat . Pellentesque vel lacus  eget est d...</p>
-                            <a  class="readmore" href="single-blog.php">Read More</a>
-                       </div>
-                       <div class="blog-date">
-                            <span>28</span>
-                            June
-                        </div>
-                   </div>
+                               <div class="blog-img">
+                                   <a href="single-blog.php"><img src="img/blog/1.jpg" alt="blog-image"></a>
+                               </div>
+                               <div class="blog-desc">
+                                   <h4><a href="single-blog.php">Bài viết 1</a></h4>
+                                    <ul class="meta-box d-flex">
+                                        <li><a href="#">Customer</a></li>
+                                    </ul>
+                                    <p>Nội dung bài viết</p>
+                                    <a  class="readmore" href="single-blog.php">Đọc Thêm</a>
+                               </div>
+                               <div class="blog-date">
+                                    <span>28</span>
+                                    Tháng 6
+                                </div>
+                           </div>
                    <!-- Single Blog End -->
 
                </div>
@@ -3216,11 +7359,12 @@
             <!-- Container End -->
         </div>
         <!-- Latest Blog s Area End Here -->
+
         <!-- Brand Banner Area Start Here -->
-        <div class="main-brand-banner pt-95 pb-100 pb-sm-60 pt-sm-55">
+        <div class="main-brand-banner pt-95 pb-100 pt-sm-55 pb-sm-60">
             <div class="container">
                 <div class="section-ttitle mb-30">
-                    <h2>Hot Brands</h2>
+                    <h2>Thương Hiệu Nổi Tiếng</h2>
                </div>
                 <div class="row no-gutters">
                     <div class="col-lg-3">
