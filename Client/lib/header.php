@@ -102,8 +102,8 @@
                                             <option value="20">Sản phẩm 20</option>
                                             <option value="21">Sản phẩm 21</option>
                                             <option value="22">Sản phẩm 22</option>
-                                            <option value="23">Sản phẩm 32</option>
-                                            <option value="24">Sản phẩm 23</option>
+                                            <option value="23">Sản phẩm 23</option>
+                                            <option value="24">Sản phẩm 24</option>
                                             <option value="25">Sản phẩm 25</option>
                                             <option value="26">Sản phẩm 26</option>
                                             <option value="27">Phụ kiện</option>
