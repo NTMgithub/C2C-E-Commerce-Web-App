@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Register || Truemart Responsive Html5 Ecommerce Template</title>
+    <title>Đăng ký | Web C2C</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicons -->
     <link rel="shortcut icon" href="img/favicon.ico">
@@ -56,220 +56,9 @@
             <div class="container">
                 <div class="row">
                     <!-- Vertical Menu Start Here -->
-                    <div class="col-xl-3 col-lg-4 d-none d-lg-block">
-                        <div class="vertical-menu mb-all-30">
-                            <nav>
-                                <ul class="vertical-menu-list">
-                                    <li class=""><a href="shop.php"><span><img src="img/vertical-menu/1.png" alt="menu-icon"></span>Automotive & Motorcycle<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-
-                                        <ul class="ht-dropdown mega-child">
-                                            <li><a href="shop.php">Office chair <i class="fa fa-angle-right"></i></a>
-                                                 <!-- category submenu end-->
-                                                <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.php">Bibendum Cursus</a></li>
-                                                    <li><a href="shop.php">Dignissim Turpis</a></li>
-                                                    <li><a href="shop.php">Dining room</a></li>
-                                                    <li><a href="shop.php">Dining room</a></li>
-                                                </ul>
-                                                <!-- category submenu end-->
-                                            </li>
-                                            <li><a href="shop.php">Purus Lacus <i class="fa fa-angle-right"></i></a>
-                                                 <!-- category submenu end-->
-                                                <ul class="ht-dropdown mega-child">
-                                                    <li><a href="shop.php">Magna Pellentesq</a></li>
-                                                    <li><a href="shop.php">Molestie Tortor</a></li>
-                                                    <li><a href="shop.php">Vehicula Element</a></li>
-                                                    <li><a href="shop.php">Sagittis Blandit</a></li>
-                                                </ul>
-                                                <!-- category submenu end-->
-                                            </li>                                            
-                                            <li><a href="shop.php">Sagittis Eget</a></li>
-                                            <li><a href="shop.php">Sagittis Eget</a></li>
-                                        </ul>
-                                        <!-- category submenu end-->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/3.png" alt="menu-icon"></span>Sports & Outdoors<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu first-megamenu">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Cameras</li>
-                                                    <li><a href="shop.php">Cords and Cables</a></li>
-                                                    <li><a href="shop.php">gps accessories</a></li>
-                                                    <li><a href="shop.php">Microphones</a></li>
-                                                    <li><a href="shop.php">Wireless Transmitters</a></li>
-                                                </ul>
-                                                <ul>
-                                                    <li class="menu-tile">GamePad</li>
-                                                    <li><a href="shop.php">real game hd</a></li>
-                                                    <li><a href="shop.php">fighting game</a></li>
-                                                    <li><a href="shop.php">racing pad</a></li>
-                                                    <li><a href="shop.php">puzzle pad</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Digital Cameras</li>
-                                                    <li><a href="shop.php">Camera one</a></li>
-                                                    <li><a href="shop.php">Camera two</a></li>
-                                                    <li><a href="shop.php">Camera three</a></li>
-                                                    <li><a href="shop.php">Camera four</a></li>
-                                                </ul>
-                                                <ul>
-                                                    <li class="menu-tile">Virtual Reality</li>
-                                                    <li><a href="shop.php">Reality one</a></li>
-                                                    <li><a href="shop.php">Reality two</a></li>
-                                                    <li><a href="shop.php">Reality three</a></li>
-                                                    <li><a href="shop.php">Reality four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Megamenu Image Start -->
-                                            <li class="megamenu-img">
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img1.jpg" alt="menu-image"></a>
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img2.jpg" alt="menu-image"></a>
-                                                <a href="shop.php"><img src="img/vertical-menu/sub-img3.jpg" alt="menu-image"></a>
-                                            </li>
-                                            <!-- Single Megamenu Image End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>Fashion<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Men’s Fashion</li>
-                                                    <li><a href="shop.php">Blazers</a></li>
-                                                    <li><a href="shop.php">Boots</a></li>
-                                                    <li><a href="shop.php">pants</a></li>
-                                                    <li><a href="shop.php">Tops & Tees</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.php">Bags</a></li>
-                                                    <li><a href="shop.php">Bottoms</a></li>
-                                                    <li><a href="shop.php">Shirts</a></li>
-                                                    <li><a href="shop.php">Tailored</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/7.png" alt="menu-icon"></span>Home & Kitchen<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Large Appliances</li>
-                                                    <li><a href="shop.php">Armchairs</a></li>
-                                                    <li><a href="shop.php">Bunk Bed</a></li>
-                                                    <li><a href="shop.php">Mattress</a></li>
-                                                    <li><a href="shop.php">Sideboard</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Small Appliances</li>
-                                                    <li><a href="shop.php">Bootees Bags</a></li>
-                                                    <li><a href="shop.php">Jackets</a></li>
-                                                    <li><a href="shop.php">Shelf</a></li>
-                                                    <li><a href="shop.php">Shoes</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End --> 
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/4.png" alt="menu-icon"></span>Phones & Tablets<i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    </a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Tablet</li>
-                                                    <li><a href="shop.php">tablet one</a></li>
-                                                    <li><a href="shop.php">tablet two</a></li>
-                                                    <li><a href="shop.php">tablet three</a></li>
-                                                    <li><a href="shop.php">tablet four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Smartphone</li>
-                                                    <li><a href="shop.php">phone one</a></li>
-                                                    <li><a href="shop.php">phone two</a></li>
-                                                    <li><a href="shop.php">phone three</a></li>
-                                                    <li><a href="shop.php">phone four</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/6.png" alt="menu-icon"></span>TV & Video<i class="fa fa-angle-right" aria-hidden="true"></i></a>
-                                        <!-- Vertical Mega-Menu Start -->
-                                        <ul class="ht-dropdown megamenu megamenu-two">
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Gaming Desktops</li>
-                                                    <li><a href="shop.php">Alpha Desktop</a></li>
-                                                    <li><a href="shop.php">rober Desktop</a></li>
-                                                    <li><a href="shop.php">Ultra Desktop </a></li>
-                                                    <li><a href="shop.php">beta desktop</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                            <!-- Single Column Start -->
-                                            <li class="single-megamenu">
-                                                <ul>
-                                                    <li class="menu-tile">Women’s Fashion</li>
-                                                    <li><a href="shop.php">3D-Capable</a></li>
-                                                    <li><a href="shop.php">Clearance</a></li>
-                                                    <li><a href="shop.php">Free Shipping Eligible</a></li>
-                                                    <li><a href="shop.php">On Sale</a></li>
-                                                </ul>
-                                            </li>
-                                            <!-- Single Column End -->
-                                        </ul>
-                                        <!-- Vertical Mega-Menu End -->
-                                    </li>
-                                     <li><a href="shop.php"><span><img src="img/vertical-menu/5.png" alt="menu-icon"></span>Beauty</a>
-                                    </li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/8.png" alt="menu-icon"></span>Fruits & Veggies</a></li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/9.png" alt="menu-icon"></span>Computer & Laptop</a></li>
-                                    <li><a href="shop.php"><span><img src="img/vertical-menu/10.png" alt="menu-icon"></span>Meat & Seafood</a></li>
-                                    <!-- More Categoies Start -->
-                                    <li id="cate-toggle" class="category-menu v-cat-menu">
-                                        <ul>
-                                            <li class="has-sub"><a href="#">More Categories</a>
-                                                <ul class="category-sub">
-                                                    <li><a href="shop.php"><span><img src="img/vertical-menu/11.png" alt="menu-icon"></span>Accessories</a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <!-- More Categoies End -->
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
+                    <?php
+                    require_once("./lib/menu-left.php");
+                    ?>
                     <!-- Vertical Menu End Here -->
                 </div>
                 <!-- Row End -->
@@ -282,8 +71,8 @@
             <div class="container">
                 <div class="breadcrumb">
                     <ul class="d-flex align-items-center">
-                        <li><a href="index.php">Home</a></li>
-                        <li class="active"><a href="register.php">Register</a></li>
+                        <li><a href="index.php">Trang Chủ</a></li>
+                        <li class="active"><a href="register.php">Đăng Ký</a></li>
                     </ul>
                 </div>
             </div>
@@ -296,8 +85,8 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="register-title">
-                            <h3 class="mb-10">REGISTER ACCOUNT</h3>
-                            <p class="mb-10">If you already have an account with us, please login at the login page.</p>
+                            <h3 class="mb-10">ĐĂNG KÝ TÀI KHOẢN</h3>
+                            <p class="mb-10">Nếu bạn đã có tài khoản với chúng tôi, vui lòng đăng nhập tại trang đăng nhập.</p>
                         </div>
                     </div>
                 </div>
@@ -306,62 +95,62 @@
                     <div class="col-sm-12">
                         <form class="form-register" action="#">
                             <fieldset>
-                                <legend>Your Personal Details</legend>
+                                <legend>Thông tin cá nhân của bạn</legend>
                                 <div class="form-group d-md-flex align-items-md-center">
-                                    <label class="control-label col-md-2" for="f-name"><span class="require">*</span>First Name</label>
+                                    <label class="control-label col-md-2" for="f-name"><span class="require">*</span>Họ</label>
                                     <div class="col-md-10">
-                                        <input type="text" class="form-control" id="f-name" placeholder="First Name">
+                                        <input type="text" class="form-control" id="f-name" placeholder="Nhập họ">
                                     </div>
                                 </div>
                                 <div class="form-group d-md-flex align-items-md-center">
-                                    <label class="control-label col-md-2" for="l-name"><span class="require">*</span>Last Name</label>
+                                    <label class="control-label col-md-2" for="l-name"><span class="require">*</span>Tên</label>
                                     <div class="col-md-10">
-                                        <input type="text" class="form-control" id="l-name" placeholder="Last Name">
+                                        <input type="text" class="form-control" id="l-name" placeholder="Nhập tên">
                                     </div>
                                 </div>
                                 <div class="form-group d-md-flex align-items-md-center">
-                                    <label class="control-label col-md-2" for="email"><span class="require">*</span>Enter you email address here...</label>
+                                    <label class="control-label col-md-2" for="email"><span class="require">*</span>Địa chỉ email</label>
                                     <div class="col-md-10">
-                                        <input type="email" class="form-control" id="email" placeholder="Enter you email address here...">
+                                        <input type="email" class="form-control" id="email" placeholder="Nhập địa chỉ email">
                                     </div>
                                 </div>
                                 <div class="form-group d-md-flex align-items-md-center">
-                                    <label class="control-label col-md-2" for="number"><span class="require">*</span>Telephone</label>
+                                    <label class="control-label col-md-2" for="number"><span class="require">*</span>Số điện thoại</label>
                                     <div class="col-md-10">
-                                        <input type="email" class="form-control" id="number" placeholder="Telephone">
+                                        <input type="email" class="form-control" id="number" placeholder="Nhập số điện thoại">
                                     </div>
                                 </div>
                             </fieldset>
                             <fieldset>
-                                <legend>Your Password</legend>
+                                <legend>Mật khẩu của bạn</legend>
                                 <div class="form-group d-md-flex align-items-md-center">
-                                    <label class="control-label col-md-2" for="pwd"><span class="require">*</span>Password:</label>
+                                    <label class="control-label col-md-2" for="pwd"><span class="require">*</span>Mật khẩu:</label>
                                     <div class="col-md-10">
-                                        <input type="password" class="form-control" id="pwd" placeholder="Password">
+                                        <input type="password" class="form-control" id="pwd" placeholder="Nhập mật khẩu">
                                     </div>
                                 </div>
                                 <div class="form-group d-md-flex align-items-md-center">
-                                    <label class="control-label col-md-2" for="pwd-confirm"><span class="require">*</span>Confirm Password</label>
+                                    <label class="control-label col-md-2" for="pwd-confirm"><span class="require">*</span>Nhập lại mật khẩu</label>
                                     <div class="col-md-10">
-                                        <input type="password" class="form-control" id="pwd-confirm" placeholder="Confirm password">
+                                        <input type="password" class="form-control" id="pwd-confirm" placeholder="Nhập lại mật khẩu">
                                     </div>
                                 </div>
                             </fieldset>
                             <fieldset class="newsletter-input">
-                                <legend>Newsletter</legend>
+                                <legend>Đăng kí nhận thông báo</legend>
                                 <div class="form-group d-md-flex align-items-md-center">
-                                    <label class="col-md-2 control-label">Subscribe</label>
+                                    <label class="col-md-2 control-label">Đăng ký</label>
                                     <div class="col-md-10 radio-button">
-                                         <label class="radio-inline"><input type="radio" name="optradio">Yes</label>
-                                         <label class="radio-inline"><input type="radio" name="optradio">No</label>
+                                         <label class="radio-inline"><input type="radio" name="optradio">Đồng ý</label>
+                                         <label class="radio-inline"><input type="radio" name="optradio">Không đồng ý</label>
                                     </div>
                                 </div>
                             </fieldset>
                             <div class="terms">
                                 <div class="float-md-right">
-                                    <span>I have read and agree to the <a href="#" class="agree"><b>Privacy Policy</b></a></span>
+                                    <span>Tôi đã đọc và đông ý với<a href="#" class="agree"><b>Chính sách quyền và riêng tư</b></a></span>
                                     <input type="checkbox" name="agree" value="1"> &nbsp;
-                                    <input type="submit" value="Continue" class="return-customer-btn">
+                                    <input type="submit" value="Đăng Ký" class="return-customer-btn">
                                 </div>
                             </div>
                         </form>
