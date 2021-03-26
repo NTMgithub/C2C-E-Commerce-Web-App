@@ -6,7 +6,7 @@
                             <i class="lnr lnr-gift"></i>
                         </div>
                         <div class="support-desc">
-                            <h6>Giá trị lớn</h6>
+                            <h6>Hàng tốt chính hãng</h6>
                             <span>Tự hào bán hàng chính hãng và giá cả thấp nhất đến tay người dùng</span>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
                            <i class="lnr lnr-lock"></i>
                         </div>
                         <div class="support-desc">
-                            <h6>Thanh toán An Toàn</h6>
+                            <h6>Thanh toán an toàn</h6>
                             <span>Chứng chỉ bảo mật quốc tế PCI DSS</span>
                         </div>
                     </div>
@@ -33,8 +33,8 @@
                            <i class="lnr lnr-enter-down"></i>
                         </div>
                         <div class="support-desc">
-                            <h6>Sự tự  tin mua sắm</h6>
-                            <span>Tự hào bán hàng chính hãng và giá cả thấp nhất đến tay người dùng</span>
+                            <h6>Chính sách bảo hành</h6>
+                            <span>Đổi trả miễn phí trong 1 tuần, nếu có lỗi bên khâu sản xuất</span>
                         </div>
                     </div>
                     <div class="single-support">
@@ -60,8 +60,8 @@
                     <div class="row mb-60">
                          <div class="col-xl-7 col-lg-7 ml-auto mr-auto col-md-8">
                             <div class="news-desc text-center mb-30">
-                                 <h3> Đăng ký Bản tin</h3>
-                                 <p>Hãy là người đầu tiên biết. Đăng ký nhận bản tin ngay hôm nay</p>
+                                 <h3> Đăng ký nhận thông báo</h3>
+                                 <p>Hãy là người đầu tiên biết. Đăng ký nhận thông báo ngay hôm nay</p>
                              </div>
                              <div class="newsletter-box">
                                  <form action="#">

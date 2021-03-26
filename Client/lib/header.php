@@ -2,17 +2,18 @@
             <div class="test">
                 <span class="popup_off">Đóng</span>
                 <div class="subscribe_area text-center mt-60">
-                    <h2>Newsletter</h2>
-                    <p>Subscribe to the Truemart mailing list to receive updates on new arrivals, special offers and other discount information.</p>
+                    <h2>Bản tin</h2>
+                    <pre>Theo dõi trang để nhận thông tin cập nhật về mặt hàng mới,
+                    ưu đãi đặc biệt và thông tin giảm giá khác.</pre>
                     <div class="subscribe-form-group">
                         <form action="#">
-                            <input autocomplete="off" type="text" name="message" id="message" placeholder="Enter your email address">
-                            <button type="submit">subscribe</button>
+                            <input autocomplete="off" type="text" name="message" id="message" placeholder="Nhập mail của bạn ...">
+                            <button type="submit">Đăng ký</button>
                         </form>
                     </div>
                     <div class="subscribe-bottom mt-15">
                         <input type="checkbox" id="newsletter-permission">
-                        <label for="newsletter-permission">Don't show this popup again</label>
+                        <label for="newsletter-permission">Không hiện lại lần sau!</label>
                     </div>
                 </div>
             </div>
@@ -79,32 +80,33 @@
                                     <div class="form-group">
                                         <select class="bootstrap-select" name="poscats">
                                             <option value="0">Tất cả sản phẩm</option>
-                                            <option value="2">Áo Thun</option>
-                                            <option value="3">Cameras</option>
-                                            <option value="4">Cords and Cables</option>
-                                            <option value="5">gps accessories</option>
-                                            <option value="6">Microphones</option>
-                                            <option value="7">Wireless Transmitters</option>
-                                            <option value="8">GamePad</option>
-                                            <option value="9">cube lifestyle hd</option>
-                                            <option value="10">Bags</option>
-                                            <option value="11">Bottoms</option>
-                                            <option value="12">Shirts</option>
-                                            <option value="13">Tailored</option>
-                                            <option value="14">Home &amp; Kitchen</option>
-                                            <option value="15">Large Appliances</option>
-                                            <option value="16">Armchairs</option>
-                                            <option value="17">Bunk Bed</option>
-                                            <option value="18">Mattress</option>
-                                            <option value="19">Sideboard</option>
-                                            <option value="20">Small Appliances</option>
-                                            <option value="21">Bootees Bags</option>
-                                            <option value="22">Jackets</option>
-                                            <option value="23">Shelf</option>
-                                            <option value="24">Giày</option>
-                                            <option value="25">Phones &amp; Tablets</option>
-                                            <option value="26">Tablet</option>
-                                            <option value="27">phones</option>
+                                            <option value="1">Sản phẩm 1</option>
+                                            <option value="2">Sản phẩm 2</option>
+                                            <option value="3">Sản phẩm 3</option>
+                                            <option value="4">Sản phẩm 4</option>
+                                            <option value="5">Sản phẩm 5</option>
+                                            <option value="6">Sản phẩm 6</option>
+                                            <option value="7">Sản phẩm 7</option>
+                                            <option value="8">Sản phẩm 8</option>
+                                            <option value="9">Sản phẩm 9</option>
+                                            <option value="10">Sản phẩm 10</option>
+                                            <option value="11">Sản phẩm 11</option>
+                                            <option value="12">Sản phẩm 12</option>
+                                            <option value="13">Sản phẩm 13</option>
+                                            <option value="14">Sản phẩm 14</option>
+                                            <option value="15">Sản phẩm 15</option>
+                                            <option value="16">Sản phẩm 16</option>
+                                            <option value="17">Sản phẩm 17</option>
+                                            <option value="18">Sản phẩm 18</option>
+                                            <option value="19">Sản phẩm 19</option>
+                                            <option value="20">Sản phẩm 20</option>
+                                            <option value="21">Sản phẩm 21</option>
+                                            <option value="22">Sản phẩm 22</option>
+                                            <option value="23">Sản phẩm 32</option>
+                                            <option value="24">Sản phẩm 23</option>
+                                            <option value="25">Sản phẩm 25</option>
+                                            <option value="26">Sản phẩm 26</option>
+                                            <option value="27">Phụ kiện</option>
                                         </select>
                                     </div>
                                     <input type="text" name="search" placeholder="Bạn cần tìm gì ...">
@@ -296,70 +298,70 @@
                     <nav>  
                         <div id="cate-mobile-toggle" class="category-menu sidebar-menu sidbar-style mobile-categorei-menu-list menu-hidden ">
                             <ul>
-                                <li class="has-sub"><a href="#">Automotive & Motorcycle </a>
+                                <li class="has-sub"><a href="#">Sản phẩm 1</a>
                                     <ul class="category-sub">
-                                        <li class="has-sub"><a href="shop.php">Office chair</a>
+                                        <li class="has-sub"><a href="shop.php">Trang 1</a>
                                             <ul class="category-sub">
-                                                <li><a href="shop.php">Bibendum Cursus</a></li>
-                                                <li><a href="shop.php">Dignissim Turpis</a></li>
-                                                <li><a href="shop.php">Dining room</a></li>
-                                                <li><a href="shop.php">Dining room</a></li>
+                                                <li><a href="shop.php">Trang 1.1</a></li>
+                                                <li><a href="shop.php">Trang 1.2</a></li>
+                                                <li><a href="shop.php">Trang 1.3</a></li>
+                                                <li><a href="shop.php">Trang 1.4</a></li>
                                             </ul>
                                         </li>
-                                        <li class="has-sub"><a href="shop.php">Purus Lacus</a>
+                                        <li class="has-sub"><a href="shop.php">Trang 2</a>
                                             <ul class="category-sub">
-                                                <li><a href="shop.php">Magna Pellentesq</a></li>
-                                                <li><a href="shop.php">Molestie Tortor</a></li>
-                                                <li><a href="shop.php">Vehicula Element</a></li>
-                                                <li><a href="shop.php">Sagittis Blandit</a></li>
+                                                <li><a href="shop.php">Trang 2.1</a></li>
+                                                <li><a href="shop.php">Trang 2.2</a></li>
+                                                <li><a href="shop.php">Trang 2.3</a></li>
+                                                <li><a href="shop.php">Trang 2.4</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="shop.php">gps accessories</a></li>
-                                        <li><a href="shop.php">Microphones</a></li>
-                                        <li><a href="shop.php">Wireless Transmitters</a></li>
+                                        <li><a href="shop.php">Trang 3</a></li>
+                                        <li><a href="shop.php">Trang 4</a></li>
+                                        <li><a href="shop.php">Trang 5</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
-                                <li class="has-sub"><a href="#">Sports & Outdoors</a>
+                                <li class="has-sub"><a href="#">Sản phẩm 2</a>
                                     <ul class="category-sub">
-                                        <li class="menu-tile">Cameras</li>
-                                        <li><a href="shop.php">Cords and Cables</a></li>
-                                        <li><a href="shop.php">gps accessories</a></li>
-                                        <li><a href="shop.php">Microphones</a></li>
-                                        <li><a href="shop.php">Wireless Transmitters</a></li>
+                                        <li class="menu-tile">Trang 1</li>
+                                        <li><a href="shop.php">Trang 2</a></li>
+                                        <li><a href="shop.php">Trang 3</a></li>
+                                        <li><a href="shop.php">Trang 4</a></li>
+                                        <li><a href="shop.php">Trang 5</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
-                                <li class="has-sub"><a href="#">Home & Kitchen</a>
+                                <li class="has-sub"><a href="#">Sản phẩm 3</a>
                                     <ul class="category-sub">
-                                        <li><a href="shop.php">kithen one</a></li>
-                                        <li><a href="shop.php">kithen two</a></li>
-                                        <li><a href="shop.php">kithen three</a></li>
-                                        <li><a href="shop.php">kithen four</a></li>
+                                        <li><a href="shop.php">Trang 1</a></li>
+                                        <li><a href="shop.php">Trang 2</a></li>
+                                        <li><a href="shop.php">Trang 3</a></li>
+                                        <li><a href="shop.php">Trang 4</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
-                                <li class="has-sub"><a href="#">Phones & Tablets</a>
+                                <li class="has-sub"><a href="#">Sản phẩm 4</a>
                                     <ul class="category-sub">
-                                        <li><a href="shop.php">phone one</a></li>
-                                        <li><a href="shop.php">Tablet two</a></li>
-                                        <li><a href="shop.php">Tablet three</a></li>
-                                        <li><a href="shop.php">phone four</a></li>
+                                        <li><a href="shop.php">Trang 1</a></li>
+                                        <li><a href="shop.php">Trang 2</a></li>
+                                        <li><a href="shop.php">Trang 3</a></li>
+                                        <li><a href="shop.php">Trang 4</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
-                                <li class="has-sub"><a href="#">TV & Video</a>
+                                <li class="has-sub"><a href="#">Sản phẩm 5</a>
                                     <ul class="category-sub">
-                                        <li><a href="shop.php">smart tv</a></li>
-                                        <li><a href="shop.php">real video</a></li>
-                                        <li><a href="shop.php">Microphones</a></li>
-                                        <li><a href="shop.php">Wireless Transmitters</a></li>
+                                        <li><a href="shop.php">Trang 1</a></li>
+                                        <li><a href="shop.php">Trang 2</a></li>
+                                        <li><a href="shop.php">Trang 3</a></li>
+                                        <li><a href="shop.php">Trang 4</a></li>
                                     </ul>
                                     <!-- category submenu end-->
                                 </li>
-                                <li><a href="#">Beauty</a> </li>
-                                <li><a href="#">Sport & tourisim</a></li>
-                                <li><a href="#">Meat & Seafood</a></li>
+                                <li><a href="#">Sản phẩm 6</a> </li>
+                                <li><a href="#">Sản phẩm 7</a></li>
+                                <li><a href="#">Sản phẩm 8</a></li>
                             </ul>
                         </div>
                         <!-- category-menu-end -->
