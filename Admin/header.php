@@ -232,7 +232,7 @@
                             </ul>
                         </li>
 
-                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-shop'); ?> has-sub">
+                        <li class="<?php if ( isset($_GET['viewpage'])) $db->ActiveMenuSelected($_GET['viewpage'], 'list-shop'); ?> has-sub">
                             <a class="js-arrow" href="#"  >
                                 <i class="fas fa-shopping-cart"></i>Quản lý cửa hàng
                                 
