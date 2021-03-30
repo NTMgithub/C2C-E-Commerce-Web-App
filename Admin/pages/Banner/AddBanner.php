@@ -11,7 +11,7 @@ require_once('header.php');
                     <div class="overview-wrap">
                         <h2 class="title-2" style="text-transform: uppercase;">
                             <i class="fa fa-plus-circle"></i>
-                            Thêm cửa hàng
+                            Thêm banner
                         </h2>
 
                     </div>
@@ -27,68 +27,50 @@ require_once('header.php');
                                 <?php
                                     echo $result;
                                 ?>
-                                <form action="#" method="post" enctype="multipart/form-data" class="form-horizontal" id="formThemCuaHang">
+                                <form action="#" method="post" enctype="multipart/form-data" class="form-horizontal" id="formThemBanner">
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <b>Thông tin cửa hàng</b>
+                                            <b>Thông tin banner</b>
                                         </div>
                                     </div>
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <label for="idNguoiDung_input" class="form-control-label">Tài khoản liên kết với shop</label>
+                                            <label for="tenBanner_input" class="form-control-label">Tên banner</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <select class="form-select" style="padding: 1%;" name="idNguoiDung_input">
-                                                <!-- <option selected>Chọn tài khoản</option> -->
-                                            <?php 
-                                                foreach ($dataUser as $valueUser){
-                                                   if ($valueUser['dangKyShop'] == 0){
-                                                        echo "<option value='".$valueUser['id_nguoiDung']."'>".$valueUser['tenTaiKhoan']."</option>";
-                                                   }
-                                                }
-                                                
-                                            ?>    
-                                            </select>
+                                            <input type="text" id="tenBanner_input" name="tenBanner_input" placeholder="Nhập tên banner..." class="form-control" required>
                                         </div>
                                     </div>
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <label for="tenCuaHang_input" class="form-control-label">Tên cửa hàng</label>
+                                            <label for="noiDungBanner_input" class="form-control-label">Nội dung banner</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="text" id="tenCuaHang_input" name="tenCuaHang_input" placeholder="Nhập tên cửa hàng..." class="form-control" required>
-                                        </div>
-                                    </div>
-
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="diaChiCuaHang_input" class="form-control-label">Địa chỉ cửa hàng</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="text" id="diaChiCuaHang_input" name="diaChiCuaHang_input" placeholder="Nhập địa chỉ cửa hàng..." class="form-control" required>
+                                            <input type="text" id="noiDungBanner_input" name="noiDungBanner_input" placeholder="Nhập nội dung banner..." class="form-control" required>
 
                                         </div>
                                     </div>
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <label for="moTaCuaHang_input" class=" form-control-label">Mô tả cửa hàng</label>
+                                            <label for="moTaBanner_input" class=" form-control-label">Mô tả banner</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="text" id="moTaCuaHang_input" name="moTaCuaHang_input" placeholder="Nhập mô tả cửa hàng..." class="form-control" required>
+                                            <input type="text" id="moTaBanner_input" name="moTaBanner_input" placeholder="Nhập mô tả banner..." class="form-control" required>
 
                                         </div>
                                     </div>
 
+
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <label for="anhCuaHang_input" class=" form-control-label">Ảnh cửa hàng</label>
+                                            <label for="anhBanner_input" class=" form-control-label">Ảnh banner</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="file" id="anhCuaHang_input" name="anhCuaHang_input" accept="image/*" onchange="loadFile(event)" class="form-control-file">
+                                            <input type="file" id="anhBanner_input" name="anhBanner_input" accept="image/*" onchange="loadFile(event)" class="form-control-file">
                                             <img id="output" style="width: 20%;" />
                                         </div>
                                     </div>
@@ -175,60 +157,52 @@ require_once('header.php');
 <script>
     $(document).ready(function() {
         //Khi bàn phím được nhấn và thả ra thì sẽ chạy phương thức này
-        $("#formThemCuaHang").validate({
+        $("#formThemBanner").validate({
             errorClass: 'is-invalid errorMessage',
             rules: {
-                id_nguoiDung: {
-                    required: true,
-                },
-                tenCuaHang_input: {
+                tenBanner_input: {
                     required: true,
                     maxlength: 50,
                     minlength: 6,
                 },
-                diaChiCuaHang_input: {
+                noiDungBanner_input: {
                     required: true,
                     maxlength: 50,
                     minlength: 6,
                 },
-                moTaCuaHang_input: {
+                moTaBanner_input: {
                     required: true,
                     maxlength: 100,
                     minlength: 15,
                 },
                 
-                anhCuaHang_input: {
+                anhBanner_input: {
                     required: true,
-                    
                 },
 
             },
             messages: {
-                id_nguoiDung: {
-                    required: "Vui lòng chọn tài khoản liên kết",
-                   
-                },
-                tenCuaHang_input: {
-                    required: "Vui lòng nhập tên cửa hàng",
-                    maxlength: "Tên cửa hàng tối đa 50 kí tự",
-                    minlength: "Tên cửa hàng tối thiểu 6 kí tự",
+                tenBanner_input: {
+                    required: "Vui lòng nhập tên banner",
+                    maxlength: "Tên banner tối đa 50 kí tự",
+                    minlength: "Tên banner tối thiểu 6 kí tự",
            
                 },
-                diaChiCuaHang_input: {
-                    required: "Vui lòng nhập địa chỉ cửa hàng",
-                    maxlength: "Địa chỉ cửa hàng tối đa 50 kí tự",
-                    minlength: "Tên cửa hàng tối thiểu 6 kí tự",
-          
+                noiDungBanner_input: {
+                    required: "Vui lòng nhập nội dung banner",
+                    maxlength: "Nội dung banner tối đa 50 kí tự",
+                    minlength: "Nội dung banner tối thiểu 6 kí tự",
+
                 },
 
-                moTaCuaHang_input: {
-                    required: "Vui lòng nhập tên tài khoản",
-                    maxlength: "Mô tả cửa hàng tối đa 100 kí tự",
-                    minlength: "Mô tả cửa hàng tối thiểu 15 kí tự",
+                moTaBanner_input: {
+                    required: "Vui lòng nhập mô tả banner",
+                    maxlength: "Mô tả banner tối đa 100 kí tự",
+                    minlength: "Mô tả banner tối thiểu 15 kí tự",
                 },
 
-                anhCuaHang_input: {
-                    required: "Vui lòng chọn ảnh cửa hàng",
+                anhBanner_input: {
+                    required: "Vui lòng chọn ảnh banner",
                    
                 },
                

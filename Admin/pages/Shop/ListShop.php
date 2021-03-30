@@ -44,9 +44,7 @@ require_once('header.php');
                             </a>
                         </div>
                     </div>
-                    <?php
-                    if (isset($_GET['resultReset']) && ($_GET['resultReset']  == 'success')) echo "<div class='alert alert-success'>Reset mật khẩu người dùng thành công!</div>";
-                    ?>
+                    
                     <div class="table-responsive table-responsive-data2">
                         <!-- Load nội dung table vào đây -->
                         <!-- <div id="loading"><img src="/WebC2C/Admin/pages/User/loading.gif" /></div> -->
