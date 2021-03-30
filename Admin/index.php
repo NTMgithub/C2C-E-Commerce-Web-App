@@ -32,6 +32,11 @@
             break;
         }
 
+        case 'list-report': {
+            require_once('controller/ReportController.php');
+            break;
+        }
+
 
                     
         default:{
