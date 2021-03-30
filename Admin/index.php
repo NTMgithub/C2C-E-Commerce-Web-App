@@ -26,6 +26,13 @@
             require_once('controller/ShopController.php');
             break;
         }
+
+        case 'list-banner': {
+            require_once('controller/BannerController.php');
+            break;
+        }
+
+
                     
         default:{
             require_once('404.php');

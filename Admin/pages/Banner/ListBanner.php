@@ -1,5 +1,5 @@
 <?php
-include("header.php");
+require_once('header.php');
 ?>
 
 <!-- MAIN CONTENT-->
@@ -9,9 +9,9 @@ include("header.php");
             <div class="row" style="margin-bottom: 2%;">
                 <div class="col-md-12">
                     <div class="overview-wrap">
-                        <h2 class="title-1" style="text-transform: uppercase;">
-                            <i class="fa fa-group"></i>
-                            Quản lý người dùng
+                        <h2 class="title-2" style="text-transform: uppercase;">
+                            <i class="fa fa-list"></i>
+                            Danh sách banner
                         </h2>
                         <!-- <button class="au-btn au-btn-icon au-btn--blue">
                                         <i class="zmdi zmdi-plus"></i>add item</button> -->
@@ -33,137 +33,98 @@ include("header.php");
                             </form>
                         </div>
                         <div class="table-data__tool-right">
-                            <button class="au-btn au-btn-icon au-btn--green au-btn--small">
-                                <i class="zmdi zmdi-plus"></i>Thêm người dùng</button>
-
+                            <a href="<?php if (isset($_GET['action']) && ($_GET['action'] == 'add')) {
+                                            echo "javascript:history.go(0)";
+                                        } else {
+                                            echo $db->MergeURL('action=add');
+                                        } ?>">
+                                <button class="au-btn au-btn-icon au-btn--green au-btn--small">
+                                    <i class="zmdi zmdi-plus"></i>Thêm banner
+                                </button>
+                            </a>
                         </div>
                     </div>
+                   
                     <div class="table-responsive table-responsive-data2">
+                        <!-- Load nội dung table vào đây -->
+                        <!-- <div id="loading"><img src="/WebC2C/Admin/pages/User/loading.gif" /></div> -->
+
                         <table class="table table-data2">
-                            <thead>
+                            <thead style="background-color: #f2f2f2;">
                                 <tr>
                                     <th>STT</th>
-                                    <th>Ảnh</th>
-                                    <th>Họ tên</th>
-                                    <th>email</th>
-                                    <th>Tên tài khoản</th>
-                                    <th>Ngày tạo</th>
-                                    <th>trạng thái</th>
-
+                                    <th>Banner</th>
+                                    <th>Tên banner</th>
+                                    <th>Nội dung banner</th>
+                                    <th>Mô tả banner</th>
+                                    <th>Trạng thái Banner</th>
+                        
                                     <th></th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
-                                    </td>
+                                <?php
 
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-danger" style="margin: 5px;"><i class="fa fa-lock"></i></button>
+                                $stt = 0;
+                                foreach ($dataResult as $value) {
+                                    $stt++;
+                                ?>
+                                    <tr class="tr-shadow">
+                                        <td><?php echo $stt; ?></td>
+                                        <td>
+                                            <img src="uploads/banner/<?php echo $value['urlBanner']; ?>" alt="avatarUser" style="width: 150px;height: 100px;">
+                                        </td>
+                                        <td><?php echo $value['tenBanner']; ?></td>
 
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
-                                    </td>
+                                        <td><?php echo $value['noiDungBanner']; ?></td>
+                                        
+                                        <td class="desc"><?php echo $value['moTaBanner']; ?></td>
+                                       
+                                        <td>
+                                            <?php
+                                            if ($value['trangThaiBanner']  == 1) {
+                                                echo "<span class='badge badge-pill badge-success' style='font-size: 13px;'>Hiện</span>";
+                                            } else {
+                                                echo "<span class='badge badge-pill badge-danger' style='font-size: 13px;'>Ẩn</span>";
+                                            }
+                                            ?>
+                                        </td>
 
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-danger" style="margin: 5px;"><i class="fa fa-lock"></i></button>
+                                        <td>
+                                            <div class="table-data-feature">
+                                                <a href="?viewpage=list-banner&action=edit&idBanner=<?php echo $value['id_banner']; ?>" onclick="return popitup('?viewpage=list-banner&action=edit&idBanner=<?php echo $value['id_banner']; ?>')">
+                                                    <button type="button" class="btn btn-secondary" style="margin: 5px;" id="editButton">
+                                                        <i class="fa fa-edit"></i> Sửa
+                                                    </button>
+                                                </a>
+                                                <?php
+                                                if ($value['trangThaiBanner']  == 1) {
+                                                    $lockButton = "<button type='button' class='btn btn-danger' style='margin: 5px;' data-placement='top' title='Khóa tài khoản'
+                                                    data-toggle='modal' data-target='#LockUnlockModal" . $value['id_banner'] . "' ><i class='fa fa-lock'></i></button>";
+                                                    echo $lockButton;
+                                                } else {
+                                                    $unlockButton = "<button type='button' class='btn btn-warning' style='margin: 5px;' data-placement='top' title='Mở khóa tài khoản'
+                                                    data-toggle='modal' data-target='#LockUnlockModal" . $value['id_banner'] . "' ><i class='fa fa-unlock'></i></button>";
+                                                    echo $unlockButton;
+                                                }
+                                                ?>
 
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-danger" style="font-size: 13px;">Khóa</span>
-                                    </td>
+                                                
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="spacer"></tr>
 
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-success" style="margin: 5px;"><i class="fa fa-unlock"></i></button>
+                                <?php
 
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
-                                    </td>
-
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-danger" style="margin: 5px;"><i class="fa fa-lock"></i></button>
-
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-
-
+                                    include('LockUnlockBannerModal.php');
+                                    
+                                }
+                                ?>
                             </tbody>
                         </table>
 
-                        <nav aria-label="...">
+                        <!-- <nav aria-label="...">
                             <ul class="pagination">
                                 <li class="page-item disabled">
                                     <a class="page-link" href="#" tabindex="-1">Previous</a>
@@ -176,10 +137,13 @@ include("header.php");
                                 <li class="page-item"><a class="page-link" href="#">4</a></li>
                                 <li class="page-item"><a class="page-link" href="#">5</a></li>
                                 <li class="page-item">
-                                    <a class="page-link" href="#">Next</a>
+                                <a class="page-link" href="#">Next</a>
                                 </li>
                             </ul>
-                        </nav>
+                        </nav> -->
+
+                        
+
                     </div>
                     <!-- END DATA TABLE -->
                 </div>
@@ -191,83 +155,10 @@ include("header.php");
     </div>
 
     <!-- modal medium -->
-    <div class="modal fade" id="modalEdit" tabindex="-1" role="dialog" aria-labelledby="mediumModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="mediumModalLabel">Sửa</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <div class="col-lg-12">
-                        <div class="card">
-                            <div class="card-header">
-                                <strong>Sửa thông tin</strong>
-                            </div>
-                            <div class="card-body card-block">
-                                <form action="" method="post" enctype="multipart/form-data" class="form-horizontal">
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label class=" form-control-label">Tên tài khoản:</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <p class="form-control-static">lorilori</p>
-                                        </div>
-                                    </div>
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="text-input" class=" form-control-label">Họ tên:</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="text" id="text-input" name="text-input" value="Lori Lynch" class="form-control">
-                                            <small class="form-text text-muted">Nhập họ tên cần sửa</small>
-                                        </div>
-                                    </div>
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="email-input" class=" form-control-label">Email:</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="email" id="email-input" name="email-input" value="lori@example.com" class="form-control">
-                                            <small class="help-block form-text">Nhập email cần sửa</small>
-                                        </div>
-                                    </div>
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="password-input" class=" form-control-label">SDT</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="text" id="password-input" name="password-input" value="03452353253" class="form-control">
-                                            <small class="help-block form-text">Nhập số điện thoại cần sửa</small>
-                                        </div>
-                                    </div>
 
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="file-input" class=" form-control-label">Ảnh đại diện</label>
-                                        </div>
+    <!-- end modal medium -->
 
-                                        <div class="col-12 col-md-9">
-                                            <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 20%;">
-                                            <input type="file" id="file-input" name="file-input" class="form-control-file">
-                                        </div>
-                                    </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Đóng</button>
-                        <button type="button" class="btn btn-primary">Sửa</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- end modal medium -->
-
-    </div>
+</div>
 </div>
 <!-- END MAIN CONTENT-->
 <!-- END PAGE CONTAINER-->
@@ -277,6 +168,7 @@ include("header.php");
 
 <!-- Jquery JS-->
 <script src="vendor/jquery-3.2.1.min.js"></script>
+<script src="vendor/jquery.validate.min.js"></script>
 <!-- Bootstrap JS-->
 <script src="vendor/bootstrap-4.1/popper.min.js"></script>
 <script src="vendor/bootstrap-4.1/bootstrap.min.js"></script>
@@ -293,11 +185,19 @@ include("header.php");
 <script src="vendor/circle-progress/circle-progress.min.js"></script>
 <script src="vendor/perfect-scrollbar/perfect-scrollbar.js"></script>
 <script src="vendor/chartjs/Chart.bundle.min.js"></script>
-<script src="vendor/select2/select2.min.js">
-</script>
+<script src="vendor/select2/select2.min.js"></script>
 
 <!-- Main JS-->
 <script src="js/main.js"></script>
+<script language="javascript" type="text/javascript">
+    function popitup(url) { //Popup cửa sổ
+        newwindow = window.open(url, 'name', 'height=580,width=700');
+        if (window.focus) {
+            newwindow.focus()
+        }
+        return false;
+    }
+</script>
 
 
 </body>
