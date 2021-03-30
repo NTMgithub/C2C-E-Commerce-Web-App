@@ -92,8 +92,8 @@
                         </li>
 
 
-                        <li class="has-sub">
-                            <a class="js-arrow" href="ListReport.php">
+                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-report'); ?> has-sub">
+                            <a class="js-arrow" href="?viewpage=list-report">
                                 <i class="fas fa-flag"></i>Quản lý báo cáo</a>
                         </li>
 
@@ -282,9 +282,20 @@
                             </ul>
                         </li>
 
-                        <li class="has-sub">
-                            <a class="js-arrow" href="ListReport.php">
-                                <i class="fas fa-flag"></i>Quản lý báo cáo</a>
+                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-report'); ?> has-sub">
+                            <a class="js-arrow" href="#"  >
+                                <i class="fas fa-flag"></i>Quản lý báo cáo
+                                
+                            </a>
+                            <ul class="list-unstyled navbar__sub-list js-sub-list">
+                                <li class="<?php if ( isset($_GET['viewpage']) && ($_GET['viewpage'] == 'list-report') ){
+                                    if ( isset($_GET['action']) && ( $_GET['action'] == '' )  ) echo 'active';
+                                }
+                                ?> has-sub">
+                                    <a href="?viewpage=list-report"><i class="fa fa-list"></i>Danh sách báo cáo</a>
+                                </li>
+                                
+                            </ul>
                         </li>
 
                         <li class="has-sub">
