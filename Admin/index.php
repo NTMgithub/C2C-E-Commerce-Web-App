@@ -26,6 +26,10 @@
             require_once('controller/ShopController.php');
             break;
         }
+        case 'list-voucher': {
+            require_once('controller/VoucherController.php');
+            break;
+        }
                     
         default:{
             require_once('404.php');

@@ -11,7 +11,7 @@ include("header.php");
                     <div class="overview-wrap">
                         <h2 class="title-1" style="text-transform: uppercase;">
                             <i class="fa fa-group"></i>
-                            Quản lý người dùng
+                            Quản lý khuyến mãi
                         </h2>
                         <!-- <button class="au-btn au-btn-icon au-btn--blue">
                                         <i class="zmdi zmdi-plus"></i>add item</button> -->
@@ -33,9 +33,15 @@ include("header.php");
                             </form>
                         </div>
                         <div class="table-data__tool-right">
-                            <button class="au-btn au-btn-icon au-btn--green au-btn--small">
-                                <i class="zmdi zmdi-plus"></i>Thêm người dùng</button>
-
+                            <a href="<?php if (isset($_GET['action']) && ($_GET['action'] == 'add')) {
+                                            echo "javascript:history.go(0)";
+                                        } else {
+                                            echo $db->MergeURL('action=add');
+                                        } ?>">
+                                <button class="au-btn au-btn-icon au-btn--green au-btn--small">
+                                    <i class="zmdi zmdi-plus"></i>Thêm khuyến mãi
+                                </button>
+                            </a>
                         </div>
                     </div>
                     <div class="table-responsive table-responsive-data2">
@@ -43,30 +49,68 @@ include("header.php");
                             <thead>
                                 <tr>
                                     <th>STT</th>
-                                    <th>Ảnh</th>
-                                    <th>Họ tên</th>
-                                    <th>email</th>
-                                    <th>Tên tài khoản</th>
-                                    <th>Ngày tạo</th>
+                                    <th>Tên Shop</th>
+                                    <th>Tên Khuyến Mãi</th>
+                                    <th>Thời Gian BĐ</th>
+                                    <th>Thời Gian KT</th>
+                                    <th>Nội Dung</th>
+                                    <th>Số Lượng</th>
                                     <th>trạng thái</th>
 
                                     <th></th>
                                 </tr>
                             </thead>
                             <tbody>
+                            <?php
+                            $stt = 0;
+                            foreach ($dataResult as $value) {
+                                $stt++;
+                            ?>
                                 <tr class="tr-shadow">
-                                    <td>1</td>
+                                    <td><?php echo $stt; ?></td>
                                     <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
+                                        <?php
+                                        echo $value['id_shop'];
+                                        ?>
                                     </td>
-                                    <td>Lori Lynch</td>
                                     <td>
-                                        <span class="block-email">lori@example.com</span>
+                                        <?php
+                                            echo $value['maKhuyenMai'];
+                                        ?>
                                     </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
                                     <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
+                                        <span>
+                                        <?php
+                                            $date=date_create($value["thoiGianBatDau"]);
+                                            echo date_format($date," d/m/Y H:i:s");
+                                        ?>
+                                        </span>
+                                    </td>
+                                    <td>
+                                    <?php
+                                            $date=date_create($value["thoiGianKetThuc"]);
+                                            echo date_format($date," d/m/Y H:i:s");
+                                        ?>
+                                    </td>
+                                    <td>
+                                    <?php
+                                        echo $value['noiDung'];
+                                    ?>
+                                    </td>
+                                    <td>
+                                        <?php
+                                            echo $value ['soLuong'];
+                                        ?>
+                                    </td>
+                                    <td>
+                                        <?php
+                                            if ($value['trangThaiKM']  == 1) {
+                                                echo "<span class='badge badge-pill badge-success' style='font-size: 13px;'>Mở</span>";
+                                            } else {
+                                                echo "<span class='badge badge-pill badge-danger' style='font-size: 13px;'>Khóa</span>";
+                                            }
+                                        ?>
+                                        
                                     </td>
 
                                     <td>
@@ -80,86 +124,8 @@ include("header.php");
                                     </td>
                                 </tr>
                                 <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
-                                    </td>
-
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-danger" style="margin: 5px;"><i class="fa fa-lock"></i></button>
-
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-danger" style="font-size: 13px;">Khóa</span>
-                                    </td>
-
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-success" style="margin: 5px;"><i class="fa fa-unlock"></i></button>
-
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-                                <tr class="tr-shadow">
-                                    <td>1</td>
-                                    <td>
-                                        <img src="images/icon/avatar-01.jpg" alt="avatarUser" style="width: 70%;">
-                                    </td>
-                                    <td>Lori Lynch</td>
-                                    <td>
-                                        <span class="block-email">lori@example.com</span>
-                                    </td>
-                                    <td class="desc">lorilori</td>
-                                    <td>2018-09-27 02:12</td>
-                                    <td>
-                                        <span class="badge badge-pill badge-success" style="font-size: 13px;">Mở</span>
-                                    </td>
-
-                                    <td>
-                                        <div class="table-data-feature">
-                                            <button type="button" class="btn btn-secondary" style="margin: 5px;" data-toggle="modal" data-target="#modalEdit">
-                                                <i class="fa fa-edit"></i> Sửa
-                                            </button>
-                                            <button type="button" class="btn btn-danger" style="margin: 5px;"><i class="fa fa-lock"></i></button>
-
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="spacer"></tr>
-
-
+                                <?php
+                                }?>
                             </tbody>
                         </table>
 
