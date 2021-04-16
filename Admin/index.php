@@ -27,6 +27,12 @@
             break;
         }
 
+        case 'list-voucher': {
+            require_once('controller/VoucherController.php');
+            break;
+        }
+
+
         case 'list-banner': {
             require_once('controller/BannerController.php');
             break;
@@ -36,6 +42,7 @@
             require_once('controller/ReportController.php');
             break;
         }
+
 
 
                     

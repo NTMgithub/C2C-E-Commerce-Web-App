@@ -81,9 +81,9 @@
                                 <i class="fas fa-shopping-cart"></i>Quản lý các cửa hàng</a>
                         </li>
 
-                        <li class="has-sub">
-                            <a class="js-arrow" href="ListVoucher.php">
-                                <i class="fas fa-gift"></i>Quản lý khuyến mãi</a>
+                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-voucher'); ?> has-sub">
+                            <a class="js-arrow" href="?viewpage=list-voucher">
+                                <i class="fas fa-gift"></i>Quản lý các khuyến mãi</a>
                         </li>
                         
                         <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-banner'); ?> has-sub">
@@ -233,7 +233,7 @@
                             </ul>
                         </li>
 
-                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-shop'); ?> has-sub">
+                        <li class="<?php if ( isset($_GET['viewpage'])) $db->ActiveMenuSelected($_GET['viewpage'], 'list-shop'); ?> has-sub">
                             <a class="js-arrow" href="#"  >
                                 <i class="fas fa-shopping-cart"></i>Quản lý cửa hàng
                                 
@@ -255,10 +255,28 @@
                             </ul>
                         </li>
                         
-                        <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-voucher'); ?> has-sub">
-                            <a class="js-arrow" href="ListVoucher.php">
-                                <i class="fas fa-gift"></i>Quản lý khuyến mãi</a>
-                        </li>
+
+                        <li class="<?php if ( isset($_GET['viewpage'])) $db->ActiveMenuSelected($_GET['viewpage'], 'list-voucher'); ?> has-sub">
+                            <a class="js-arrow" href="#"  >
+                                <i class="fas fa-group"></i>Quản lý khuyến mãi
+                                
+                            </a>
+                            <ul class="list-unstyled navbar__sub-list js-sub-list">
+                                <li class="<?php if ( isset($_GET['viewpage']) && ($_GET['viewpage'] == 'list-voucher') ){
+                                    if ( isset($_GET['action']) && ( $_GET['action'] == '' )  ) echo 'active';
+                                }
+                                ?> has-sub">
+                                    <a href="?viewpage=list-voucher"><i class="fa fa-list"></i>Danh sách khuyến mãi</a>
+                                </li>
+                                <li class=" <?php if ( isset($_GET['viewpage']) && ($_GET['viewpage'] == 'list-voucher') ){
+                                    if ( isset($_GET['action']) && ( $_GET['action'] == 'add' )  ) echo 'active';
+                                }
+                                ?> has-sub" >
+                                    <a href="?viewpage=list-voucher&action=add"><i class="fa fa-plus" ></i>Thêm khuyến mãi</a>
+                                </li>
+                               
+                            </ul>
+                      </li>
 
                         <li class="<?php $db->ActiveMenuSelected($_GET['viewpage'], 'list-banner'); ?> has-sub">
                             <a class="js-arrow" href="#"  >
