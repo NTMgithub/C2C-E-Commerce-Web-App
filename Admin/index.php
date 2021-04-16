@@ -26,10 +26,25 @@
             require_once('controller/ShopController.php');
             break;
         }
+
         case 'list-voucher': {
             require_once('controller/VoucherController.php');
             break;
         }
+
+
+        case 'list-banner': {
+            require_once('controller/BannerController.php');
+            break;
+        }
+
+        case 'list-report': {
+            require_once('controller/ReportController.php');
+            break;
+        }
+
+
+
                     
         default:{
             require_once('404.php');
