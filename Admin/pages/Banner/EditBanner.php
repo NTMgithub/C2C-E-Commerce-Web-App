@@ -1,8 +1,12 @@
 <?php
 require_once('header.php');
+
+$db = new Database();
+
 ?>
 
 <!-- MAIN CONTENT-->
+
 <div class="main-content">
     <div class="section__content section__content--p30">
         <div class="container-fluid">
@@ -10,8 +14,8 @@ require_once('header.php');
                 <div class="col-md-12">
                     <div class="overview-wrap">
                         <h2 class="title-2" style="text-transform: uppercase;">
-                            <i class="fa fa-plus-circle"></i>
-                            Thêm cửa hàng
+                            <i class="fa fa-edit"></i>
+                            Sửa thông tin banner
                         </h2>
 
                     </div>
@@ -25,85 +29,77 @@ require_once('header.php');
                         <div class="card">
                             <div class="card-body card-block">
                                 <?php
-                                    echo $result;
+                                echo $result;
                                 ?>
-                                <form action="#" method="post" enctype="multipart/form-data" class="form-horizontal" id="formThemCuaHang">
+                                <?php
+                                    $dataResult = $db->ShowDataWithID('tbl_banner', 'id_banner', $_GET['idBanner']);
+                                    
+                                    foreach ($dataResult as $value){
+                                ?>
+                                <form action="" method="post" enctype="multipart/form-data" class="form-horizontal" id="formSuaBanner">
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <b>Thông tin cửa hàng</b>
+                                            <b>Thông tin banner</b>
                                         </div>
                                     </div>
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <label for="idNguoiDung_input" class="form-control-label">Tài khoản liên kết với shop</label>
+                                            <label for="tenBanner_input" class="form-control-label">Tên banner</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <select class="form-select" style="padding: 1%;" name="idNguoiDung_input">
-                                                <!-- <option selected>Chọn tài khoản</option> -->
-                                            <?php 
-                                                foreach ($dataUser as $valueUser){
-                                                   if ($valueUser['dangKyShop'] == 0){
-                                                        echo "<option value='".$valueUser['id_nguoiDung']."'>".$valueUser['tenTaiKhoan']."</option>";
-                                                   }
-                                                }
-                                                
-                                            ?>    
-                                            </select>
-                                        </div>
-                                    </div>
-
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="tenCuaHang_input" class="form-control-label">Tên cửa hàng</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="text" id="tenCuaHang_input" name="tenCuaHang_input" placeholder="Nhập tên cửa hàng..." class="form-control" required>
-                                        </div>
-                                    </div>
-
-                                    <div class="row form-group">
-                                        <div class="col col-md-3">
-                                            <label for="diaChiCuaHang_input" class="form-control-label">Địa chỉ cửa hàng</label>
-                                        </div>
-                                        <div class="col-12 col-md-9">
-                                            <input type="text" id="diaChiCuaHang_input" name="diaChiCuaHang_input" placeholder="Nhập địa chỉ cửa hàng..." class="form-control" required>
+                                            <input type="text" id="tenBanner_input" name="tenBanner_input" placeholder="Nhập tên banner..." class="form-control" value="<?php echo $value['tenBanner']; ?>" required>
 
                                         </div>
                                     </div>
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <label for="moTaCuaHang_input" class=" form-control-label">Mô tả cửa hàng</label>
+                                            <label for="noiDungBanner_input" class=" form-control-label">Nội dung banner</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="text" id="moTaCuaHang_input" name="moTaCuaHang_input" placeholder="Nhập mô tả cửa hàng..." class="form-control" required>
+                                            <input type="text" id="noiDungBanner_input" name="noiDungBanner_input" placeholder="Nhập nội dung banner..." class="form-control" value="<?php echo $value['noiDungBanner']; ?>" required>
 
                                         </div>
                                     </div>
 
                                     <div class="row form-group">
                                         <div class="col col-md-3">
-                                            <label for="anhCuaHang_input" class=" form-control-label">Ảnh cửa hàng</label>
+                                            <label for="moTaBanner_input" class=" form-control-label">Mô tả banner</label>
                                         </div>
                                         <div class="col-12 col-md-9">
-                                            <input type="file" id="anhCuaHang_input" name="anhCuaHang_input" accept="image/*" onchange="loadFile(event)" class="form-control-file">
-                                            <img id="output" style="width: 20%;" />
+                                            <input type="text" id="moTaBanner_input" name="moTaBanner_input" placeholder="Nhập mô tả banner..." class="form-control" value="<?php echo $value['moTaBanner']; ?>" required>
+
                                         </div>
                                     </div>
 
+
+                                    <div class="row form-group">
+                                        <div class="col col-md-3">
+                                            <label for="anhBanner_input" class=" form-control-label">Ảnh banner</label>
+                                        </div>
+                                        <div class="col-12 col-md-9">
+                                            <input type="file" id="anhBanner_input" name="anhBanner_input" accept="image/*" onchange="loadFile(event)" class="form-control-file">
+                                            <img id="output" style="width: 150px;height: 100px;" src="uploads/banner/<?php echo $value['urlBanner']; ?>" />
+                                        </div>
+                                    </div>
+
+                                    <hr>
+
+                                  
                             </div>
                             <div class="card-footer">
-                                <button type="submit" class="btn btn-success">
-                                    <i class="fa fa-plus-circle"></i> Thêm
-                                </button>
-                                <button type="reset" class="btn btn-danger" id="resetButton" onclick="ResetForm()" style="margin-left: 2%">
-                                    <i class="fa fa-repeat"></i> Reset
+                                <button type="submit" class="btn btn-secondary">
+                                  <i class="fa fa-edit" ></i>Sửa thông tin
                                 </button>
                             </div>
 
                             </form>
+
+                            <?php
+                                }
+                            ?>
                         </div>
 
                     </div>
@@ -147,14 +143,9 @@ require_once('header.php');
 <script src="vendor/select2/select2.min.js">
 </script>
 
-
-
 <!-- Main JS-->
 <script src="js/main.js"></script>
 <script>
-    function ResetForm() {
-        document.getElementById("formThemCuaHang").reset();
-    }
 
     var loadFile = function(event) {
         var output = document.getElementById('output');
@@ -175,62 +166,48 @@ require_once('header.php');
 <script>
     $(document).ready(function() {
         //Khi bàn phím được nhấn và thả ra thì sẽ chạy phương thức này
-        $("#formThemCuaHang").validate({
+        $("#formSuaBanner").validate({
             errorClass: 'is-invalid errorMessage',
             rules: {
-                id_nguoiDung: {
-                    required: true,
-                },
-                tenCuaHang_input: {
+                tenBanner_input: {
                     required: true,
                     maxlength: 50,
                     minlength: 6,
                 },
-                diaChiCuaHang_input: {
+                noiDungBanner_input: {
                     required: true,
                     maxlength: 50,
                     minlength: 6,
                 },
-                moTaCuaHang_input: {
+                moTaBanner_input: {
                     required: true,
                     maxlength: 100,
                     minlength: 15,
                 },
-                
-                anhCuaHang_input: {
-                    required: true,
-                    
-                },
+              
 
             },
             messages: {
-                id_nguoiDung: {
-                    required: "Vui lòng chọn tài khoản liên kết",
-                   
-                },
-                tenCuaHang_input: {
-                    required: "Vui lòng nhập tên cửa hàng",
-                    maxlength: "Tên cửa hàng tối đa 50 kí tự",
-                    minlength: "Tên cửa hàng tối thiểu 6 kí tự",
+                tenBanner_input: {
+                    required: "Vui lòng nhập tên banner",
+                    maxlength: "Tên banner tối đa 50 kí tự",
+                    minlength: "Tên banner tối thiểu 6 kí tự",
            
                 },
-                diaChiCuaHang_input: {
-                    required: "Vui lòng nhập địa chỉ cửa hàng",
-                    maxlength: "Địa chỉ cửa hàng tối đa 50 kí tự",
-                    minlength: "Tên cửa hàng tối thiểu 6 kí tự",
-          
+                noiDungBanner_input: {
+                    required: "Vui lòng nhập nội dung banner",
+                    maxlength: "Nội dung banner tối đa 50 kí tự",
+                    minlength: "Nội dung banner tối thiểu 6 kí tự",
+
                 },
 
-                moTaCuaHang_input: {
-                    required: "Vui lòng nhập tên tài khoản",
-                    maxlength: "Mô tả cửa hàng tối đa 100 kí tự",
-                    minlength: "Mô tả cửa hàng tối thiểu 15 kí tự",
+                moTaBanner_input: {
+                    required: "Vui lòng nhập mô tả banner",
+                    maxlength: "Mô tả banner tối đa 100 kí tự",
+                    minlength: "Mô tả banner tối thiểu 15 kí tự",
                 },
 
-                anhCuaHang_input: {
-                    required: "Vui lòng chọn ảnh cửa hàng",
-                   
-                },
+               
                
             }
         });
@@ -241,9 +218,6 @@ require_once('header.php');
     //     return this.optional(element) || phone_number.length > 9 &&
     //         phone_number.match(/(03|05|07|08|09|01[2|6|8|9])+([0-9]{8})\b/);
     // }, "Số điện thoại không đúng định dạng Việt Nam! Ví dụ hợp lệ: 0932451234");
-
-
-    
 </script>
 
 <!-- Lưu giá trị input sau khi refresh trang-->
